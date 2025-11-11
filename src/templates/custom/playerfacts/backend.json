@@ -1,0 +1,81 @@
+{
+  "id": "playerfacts",
+  "items": {
+    "totalObjects": 3,
+    "options": [
+      {
+        "id": "name",
+        "label": "Name",
+        "type": "text",
+        "value": "Some name",
+        "position": "start",
+        "fieldType": ""
+      },
+      {
+        "id": "videoduration",
+        "label": "Video duration",
+        "type": "text",
+        "value": "20",
+        "position": "end"
+      }
+    ],
+    "objects": [
+      {
+        "type": "image",
+        "label": "main background",
+        "height": "1920",
+        "width": "1080",
+        "src": "http://image.png",
+        "ext": "png",
+        "animation": {
+          "delay": "500",
+          "effect_duration": "1000",
+          "type": "fade",
+          "out": false
+        },
+        "styles": {
+          "left": "100px",
+          "right": "auto",
+          "top": "10px",
+          "bottom": "50px",
+          "height": "200px",
+          "width": "auto",
+          "z-index": 2
+        }
+      },
+      {
+        "type": "video",
+        "label": "main background video",
+        "height": "1920",
+        "width": "1080",
+        "src": "http://video.mp4",
+        "ext": "mp4",
+        "styles": {
+          "left": "0x",
+          "right": "auto",
+          "top": "0",
+          "bottom": "50px",
+          "height": "200px",
+          "width": "auto",
+          "z-index": 1
+        }
+      },
+      {
+        "type": "text",
+        "label": "player fact",
+        "html": "<p>Some text</>",
+        "styles": {
+          "left": "100px",
+          "right": "auto",
+          "top": "10px",
+          "bottom": "50px",
+          "height": "200px",
+          "width": "auto",
+          "color": "white",
+          "background-color": "red",
+          "z-index": 2
+        }
+      }
+    ]
+  }
+}

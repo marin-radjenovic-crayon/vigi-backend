@@ -1,0 +1,160 @@
+const uuidv1 = require('uuid').v1;
+
+module.exports = [
+  {
+    uuid: uuidv1(),
+    label: 'baseball1',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/baseball/1.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/baseball'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'baseball1',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/basketball/1.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/basketball'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'football1',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/football/1.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/football'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'football2',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/football/2.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/football'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'hockey1',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/hockey/1.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/hockey'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'hockey2',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/hockey/2.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/hockey'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'hockey3',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/hockey/3.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/hockey'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'hockey4',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/hockey/4.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/hockey'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'hockey5',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/hockey/5.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/hockey'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'tennis1',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/tennis/1.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/tennis'
+  },
+  {
+    uuid: uuidv1(),
+    label: 'others1',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/others/1.jpg',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/others'
+  },
+  {
+    uuid: '3000',
+    label: 'default bg',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/others/defaultBackground.png',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/others'
+  },
+  {
+    uuid: '3001',
+    label: 'default bg mask',
+    data: {},
+    group: 'backgrounds',
+    url: '/predefined/media/image/backgrounds/others/defaultBackgroundMask.png',
+    extension: 'jpeg',
+    mime: 'image/jpeg',
+    size: 0,
+    content_type: 'image',
+    local_path: '/predefined/media/image/backgrounds/others'
+  }
+];

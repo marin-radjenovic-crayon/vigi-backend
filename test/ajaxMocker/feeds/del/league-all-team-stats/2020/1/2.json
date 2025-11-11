@@ -1,0 +1,66 @@
+{
+  "teamId": "2",
+  "teamName": "Adler Mannheim",
+  "eurohockeyId": 14,
+  "coach_id": 100009,
+  "coach": "Pavel Gross",
+  "arena": "SAP-Arena",
+  "games": 38,
+  "regularWins": {
+    "home": 13,
+    "away": 10
+  },
+  "regularLosses": {
+    "home": 3,
+    "away": 2
+  },
+  "overtimeWins": {
+    "home": 2,
+    "away": 2
+  },
+  "overtimeLosses": {
+    "home": 0,
+    "away": 2
+  },
+  "shootoutWins": {
+    "home": 1,
+    "away": 3
+  },
+  "shootoutLosses": {
+    "home": 0,
+    "away": 0
+  },
+  "goalScored": {
+    "home": 55,
+    "away": 61
+  },
+  "goalsAgainst": {
+    "home": 27,
+    "away": 44
+  },
+  "shots": 1161,
+  "faceOffs": 2160,
+  "faceOffsWins": 1150,
+  "faceOffsWinsPercent": 53.24,
+  "numberOfPowerPlays": 154,
+  "powerPlayGoalsScored": 22,
+  "powerPlayEfficiency": 14.29,
+  "powerPlaySeconds": 13765,
+  "numberOfPenaltyKills": 155,
+  "shorthandedGoalsReceived": 11,
+  "penaltyKillingEfficiency": 92.9,
+  "penaltyCount": {
+    "2": 169,
+    "5": 1,
+    "10": 2,
+    "20": 1,
+    "25": 0
+  },
+  "saves": 875,
+  "zeros": 6,
+  "sumAttendance": 0,
+  "avgAttendance": 0,
+  "rank": "2",
+  "last10": "6-4",
+  "bilance": "34-18"
+}

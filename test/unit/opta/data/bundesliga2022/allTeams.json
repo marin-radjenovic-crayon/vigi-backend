@@ -1,0 +1,110 @@
+[
+  {
+    "shortcut": "Mainz 05",
+    "name": "Mainz 05",
+    "teamId": "1c7qokc1j5z50cjj4tcu32haa",
+    "code": "M05"
+  },
+  {
+    "shortcut": "Stuttgart",
+    "name": "Stuttgart",
+    "teamId": "3dwlvz6cl4lcavvrg0y2dycrt",
+    "code": "VFB"
+  },
+  {
+    "shortcut": "Hoffenheim",
+    "name": "Hoffenheim",
+    "teamId": "4l9mrqzmajz5crzlz50mtbt6x",
+    "code": "TSG"
+  },
+  {
+    "shortcut": "Freiburg",
+    "name": "Freiburg",
+    "teamId": "6k5zscdm9ufw0tguvzyjlp5hq",
+    "code": "SCF"
+  },
+  {
+    "shortcut": "Leverkusen",
+    "name": "Bayer Leverkusen",
+    "teamId": "7ad69ngbpjuyzv96drf8d9sn2",
+    "code": "LEV"
+  },
+  {
+    "shortcut": "Köln",
+    "name": "Köln",
+    "teamId": "8q1ul09cygzswb7tb456bmifv",
+    "code": "KOE"
+  },
+  {
+    "shortcut": "Leipzig",
+    "name": "RB Leipzig",
+    "teamId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+    "code": "RBL"
+  },
+  {
+    "shortcut": "Union Berlin",
+    "name": "Union Berlin",
+    "teamId": "a8d2gb2nag8fy0itbuxmcibh2",
+    "code": "FCU"
+  },
+  {
+    "shortcut": "Wolfsburg",
+    "name": "Wolfsburg",
+    "teamId": "a8l3w3n0j99qjlsxj3jnmgkz1",
+    "code": "WOB"
+  },
+  {
+    "shortcut": "Bayern München",
+    "name": "Bayern München",
+    "teamId": "apoawtpvac4zqlancmvw4nk4o",
+    "code": "FCB"
+  },
+  {
+    "shortcut": "Frankfurt",
+    "name": "Eintracht Frankfurt",
+    "teamId": "c5hderjlkcoaze51e5wgvptk",
+    "code": "SGE"
+  },
+  {
+    "shortcut": "Bremen",
+    "name": "Werder Bremen",
+    "teamId": "cu0eztmjcsbydyp53aleznorw",
+    "code": "SVW"
+  },
+  {
+    "shortcut": "Schalke 04",
+    "name": "Schalke 04",
+    "teamId": "cz4a6wmzx2obyisadhgaccx7b",
+    "code": "S04"
+  },
+  {
+    "shortcut": "Dortmund",
+    "name": "Borussia Dortmund",
+    "teamId": "dt4pinj0vw0t0cvz7za6mhmzy",
+    "code": "BVB"
+  },
+  {
+    "shortcut": "Bochum",
+    "name": "Bochum",
+    "teamId": "eq1oq6y61xnzq88zu0cnw131z",
+    "code": "BOC"
+  },
+  {
+    "shortcut": "Augsburg",
+    "name": "Augsburg",
+    "teamId": "ex3psl8e3ajeypwjy4xfltpx6",
+    "code": "FCA"
+  },
+  {
+    "shortcut": "Hertha BSC",
+    "name": "Hertha BSC",
+    "teamId": "f0w62l8zql3tukxsy8fqwp72x",
+    "code": "BSC"
+  },
+  {
+    "shortcut": "M'gladbach",
+    "name": "Borussia M'gladbach",
+    "teamId": "go76xxm0xyfgqt1h6tcrtimm",
+    "code": "BMG"
+  }
+]

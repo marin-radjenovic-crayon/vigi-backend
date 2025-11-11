@@ -1,0 +1,66 @@
+{
+  "teamId": "2",
+  "teamName": "Adler Mannheim",
+  "eurohockeyId": 14,
+  "coach_id": 100017,
+  "coach": "Bill Stewart",
+  "arena": "SAP Arena",
+  "games": 12,
+  "regularWins": {
+    "home": 1,
+    "away": 5
+  },
+  "regularLosses": {
+    "home": 4,
+    "away": 1
+  },
+  "overtimeWins": {
+    "home": 0,
+    "away": 0
+  },
+  "overtimeLosses": {
+    "home": 0,
+    "away": 0
+  },
+  "shootoutWins": {
+    "home": 0,
+    "away": 0
+  },
+  "shootoutLosses": {
+    "home": 1,
+    "away": 0
+  },
+  "goalScored": {
+    "home": 9,
+    "away": 18
+  },
+  "goalsAgainst": {
+    "home": 19,
+    "away": 12
+  },
+  "shots": 315,
+  "faceOffs": 708,
+  "faceOffsWins": 374,
+  "faceOffsWinsPercent": 52.82,
+  "numberOfPowerPlays": 49,
+  "powerPlayGoalsScored": 7,
+  "powerPlayEfficiency": 14.29,
+  "powerPlaySeconds": 4598,
+  "numberOfPenaltyKills": 44,
+  "shorthandedGoalsReceived": 6,
+  "penaltyKillingEfficiency": 86.36,
+  "penaltyCount": {
+    "2": 59,
+    "5": 4,
+    "10": 2,
+    "20": 0,
+    "25": 0
+  },
+  "saves": 267,
+  "zeros": 0,
+  "sumAttendance": 79578,
+  "avgAttendance": 13263,
+  "last10": "5-5",
+  "bilance": "6-6",
+  "rank": 16
+}

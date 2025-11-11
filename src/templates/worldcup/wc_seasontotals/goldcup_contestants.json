@@ -1,0 +1,133 @@
+{
+  "contestant": [
+    {
+      "id": "151psmk1h1c846f2lqmflkx75",
+      "name": "Haiti",
+      "shortName": "Haiti",
+      "officialName": "Haiti",
+      "code": "HAI",
+      "lastUpdated": "2023-04-19T08:47:03Z"
+    },
+    {
+      "id": "40tyvoz1vs7drd192u010oiqr",
+      "name": "Martinique",
+      "shortName": "Martinique",
+      "officialName": "Martinique",
+      "code": "MTQ",
+      "lastUpdated": "2023-06-14T19:56:56Z"
+    },
+    {
+      "id": "42pfckeuruxqitnr7kxd9436x",
+      "name": "Guadeloupe",
+      "shortName": "Guadeloupe",
+      "officialName": "Guadeloupe",
+      "code": "GLP",
+      "lastUpdated": "2023-06-16T09:56:03Z"
+    },
+    {
+      "id": "4vofb84dzb5fyc81n2ssws6ah",
+      "name": "Mexico",
+      "shortName": "Mexico",
+      "officialName": "Mexico",
+      "code": "MEX",
+      "lastUpdated": "2023-06-05T22:01:46Z"
+    },
+    {
+      "id": "6jwullawcerruu29afyok2wgl",
+      "name": "St. Kitts and Nevis",
+      "shortName": "St. Kitts",
+      "officialName": "St. Kitts and Nevis",
+      "code": "SKN",
+      "lastUpdated": "2023-06-18T00:09:44Z"
+    },
+    {
+      "id": "6ngz19ekzqqufux1sswnhzlsw",
+      "name": "Honduras",
+      "shortName": "Honduras",
+      "officialName": "Honduras",
+      "code": "HON",
+      "lastUpdated": "2023-04-14T12:55:56Z"
+    },
+    {
+      "id": "8856r86rattc8kxn6a0l9tb2t",
+      "name": "Panama",
+      "shortName": "Panama",
+      "officialName": "Panama",
+      "code": "PAN",
+      "lastUpdated": "2023-06-16T02:36:00Z"
+    },
+    {
+      "id": "8vxfv3p9ff60t5v4mm1t5si4s",
+      "name": "Trinidad and Tobago",
+      "shortName": "Trinidad",
+      "officialName": "Trinidad and Tobago",
+      "code": "TRI",
+      "lastUpdated": "2023-06-08T21:16:11Z"
+    },
+    {
+      "id": "8yhjl13p7luh3v905btbvz42t",
+      "name": "Jamaica",
+      "shortName": "Jamaica",
+      "officialName": "Jamaica",
+      "code": "JAM",
+      "lastUpdated": "2023-05-10T21:47:35Z"
+    },
+    {
+      "id": "9vh2u1p4ppm597tjfahst2m3n",
+      "name": "United States",
+      "shortName": "United States",
+      "officialName": "United States",
+      "code": "USA",
+      "lastUpdated": "2023-06-16T05:38:03Z"
+    },
+    {
+      "id": "a4wu0pabb2b7r8ik6gs0w1o28",
+      "name": "Guatemala",
+      "shortName": "Guatemala",
+      "officialName": "Guatemala",
+      "code": "GUA",
+      "lastUpdated": "2023-05-16T09:02:32Z"
+    },
+    {
+      "id": "avc9qnhswi33ld54pvpp4fmkg",
+      "name": "El Salvador",
+      "shortName": "El Salvador",
+      "officialName": "El Salvador",
+      "code": "SLV",
+      "lastUpdated": "2023-05-16T19:11:57Z"
+    },
+    {
+      "id": "bfgqfm4qa3mal7fll74wd04mu",
+      "name": "Costa Rica",
+      "shortName": "Costa Rica",
+      "officialName": "Costa Rica",
+      "code": "CRC",
+      "lastUpdated": "2023-04-25T13:11:17Z"
+    },
+    {
+      "id": "ea68amhsn28ijs7bzjuzeqrz6",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "officialName": "Qatar",
+      "code": "QAT",
+      "lastUpdated": "2023-05-17T11:26:51Z"
+    },
+    {
+      "id": "eg7vduna0h3vis1wd47s41za7",
+      "name": "Canada",
+      "shortName": "Canada",
+      "officialName": "Canada",
+      "code": "CAN",
+      "lastUpdated": "2023-06-16T02:46:58Z"
+    },
+    {
+      "id": "m49kr6rapkqh6zbqdm01w3sj",
+      "name": "Cuba",
+      "shortName": "Cuba",
+      "officialName": "Cuba",
+      "code": "CUB",
+      "lastUpdated": "2023-05-05T17:26:21Z"
+    }
+  ],
+  "lastUpdated": "2023-06-21T04:48:25Z"
+}

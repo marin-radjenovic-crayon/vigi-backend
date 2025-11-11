@@ -1,0 +1,13 @@
+version: "3"
+services:
+#  spovizz_app:
+  spovizz-app-worldcup:
+#    container_name: ${INSTANCEID}
+    restart: always
+    image: h2908577.stratoserver.net:5001/spovizz/${INSTANCEID}:2.1.7
+    env_file:
+      - .env.prod.worldcup
+networks:
+  default:
+    external:
+      name: live_network

@@ -1,0 +1,47 @@
+{
+  "id": 2092,
+  "start_date": "2021-04-18 14:30:00",
+  "real_end_date": "2021-04-18 16:38:00",
+  "league_id": 1,
+  "league": "DEL",
+  "season": "2020",
+  "round": "42",
+  "home": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "guest": {
+    "id": 5,
+    "name": "Krefeld Pinguine",
+    "shortcut": "KEV"
+  },
+  "status": "AFTER_MATCH",
+  "overtimeCount": null,
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 4,
+        "score_guest": 2
+      },
+      "first_period": {
+        "score_home": 1,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 2,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 1,
+        "score_guest": 2
+      }
+    }
+  },
+  "actual_time_name": "Ende",
+  "actual_time_alias": "K",
+  "last_event_time": 3600
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "playerId": 487,
+    "matchPlayerId": 120921,
+    "jersey": 22,
+    "name": "Matthias",
+    "surname": "Plachta",
+    "teamSide": "home",
+    "eventId": "11494",
+    "realTime": "2021-04-11 16:33:54",
+    "currentScore": "1:4",
+    "scoreboardTime": "56:11",
+    "period": "3",
+    "shooting": false
+  }
+]

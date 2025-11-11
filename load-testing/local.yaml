@@ -1,0 +1,17 @@
+config:
+  target: "http://localhost:3000" # default target
+  phases:
+    - arrivalRate: 50
+      duration: 5
+  environments:
+    local:
+      target: "http://localhost:3000"
+      phases:
+        - arrivalRate: 50000
+          duration: 2
+    prod:
+      target: "http://localhost:3000/videos"
+scenarios:
+  - flow:
+      - get:
+          url: "/videos"

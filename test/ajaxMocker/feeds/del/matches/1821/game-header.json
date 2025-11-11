@@ -1,0 +1,85 @@
+{
+  "actualTimeName": "Ende",
+  "actualTimeAlias": "K",
+  "stadium": "SAP-Arena",
+  "numberOfViewers": 0,
+  "referees": {
+    "headReferee1": {
+      "id": 134,
+      "name": "Marian Rohatsch"
+    },
+    "headReferee2": {
+      "id": 260,
+      "name": "Christopher Schadewaldt"
+    },
+    "lineReferee1": {
+      "id": 91,
+      "name": "Christoffer Hurtik"
+    },
+    "lineReferee2": {
+      "id": 202,
+      "name": "Patrick Laguzov"
+    }
+  },
+  "teamInfo": {
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "visitor": {
+      "id": 14,
+      "name": "Nürnberg Ice Tigers",
+      "shortcut": "NIT"
+    }
+  },
+  "trainers": {
+    "visitorHeadCoach": {
+      "id": 667,
+      "name": "Frank Fischöder"
+    },
+    "homeHeadCoach": {
+      "id": 103,
+      "name": "Pavel Gross"
+    }
+  },
+  "teamBilance": {
+    "homeWin": 10,
+    "visitorWin": 10
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 5,
+        "score_guest": 1
+      },
+      "first_period": {
+        "score_home": 3,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 1,
+        "score_guest": 1
+      },
+      "third_period": {
+        "score_home": 1,
+        "score_guest": 0
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": null,
+      "name": null
+    },
+    "visitor": {
+      "id": null,
+      "name": null
+    }
+  },
+  "overtimeCount": null,
+  "lastEventTime": 3600
+}

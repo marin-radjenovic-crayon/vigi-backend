@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1856,
+    "start_date": "2021-01-10 17:00:00",
+    "real_end_date": "2021-01-10 19:10:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "7",
+    "home": {
+      "id": 13,
+      "name": "Augsburger Panther",
+      "shortcut": "AEV"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": 1,
+    "results": {
+      "extra_time": true,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 3,
+          "score_guest": 4
+        },
+        "first_period": {
+          "score_home": 2,
+          "score_guest": 1
+        },
+        "second_period": {
+          "score_home": 1,
+          "score_guest": 1
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 1
+        },
+        "overtime": {
+          "score_home": 0,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende n. Verlängerung",
+    "actual_time_alias": "KP",
+    "last_event_time": 3735
+  },
+  {
+    "id": 1855,
+    "start_date": "2021-01-09 17:30:00",
+    "real_end_date": "2021-01-09 19:43:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "7",
+    "home": {
+      "id": 5,
+      "name": "Krefeld Pinguine",
+      "shortcut": "KEV"
+    },
+    "guest": {
+      "id": 9,
+      "name": "Pinguins Bremerhaven",
+      "shortcut": "BHV"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 2
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 1
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  },
+  {
+    "id": 1858,
+    "start_date": "2021-01-10 14:30:00",
+    "real_end_date": "2021-01-10 16:42:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "7",
+    "home": {
+      "id": 15,
+      "name": "Schwenninger Wild Wings",
+      "shortcut": "SWW"
+    },
+    "guest": {
+      "id": 12,
+      "name": "EHC Red Bull München",
+      "shortcut": "RBM"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 2,
+          "score_guest": 3
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 1,
+          "score_guest": 2
+        },
+        "third_period": {
+          "score_home": 1,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  },
+  {
+    "id": 1857,
+    "start_date": "2021-01-10 19:30:00",
+    "real_end_date": "2021-01-10 21:46:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "7",
+    "home": {
+      "id": 14,
+      "name": "Nürnberg Ice Tigers",
+      "shortcut": "NIT"
+    },
+    "guest": {
+      "id": 6,
+      "name": "Straubing Tigers",
+      "shortcut": "STR"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 4,
+          "score_guest": 3
+        },
+        "first_period": {
+          "score_home": 2,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 2,
+          "score_guest": 3
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  },
+  {
+    "id": 1859,
+    "start_date": "2021-01-11 18:30:00",
+    "real_end_date": "2021-01-11 20:56:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "7",
+    "home": {
+      "id": 4,
+      "name": "Düsseldorfer EG",
+      "shortcut": "DEG"
+    },
+    "guest": {
+      "id": 3,
+      "name": "Eisbären Berlin",
+      "shortcut": "EBB"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": 1,
+    "results": {
+      "extra_time": true,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 5,
+          "score_guest": 4
+        },
+        "first_period": {
+          "score_home": 1,
+          "score_guest": 3
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 3,
+          "score_guest": 1
+        },
+        "overtime": {
+          "score_home": 1,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "Ende n. Verlängerung",
+    "actual_time_alias": "KP",
+    "last_event_time": 3666
+  },
+  {
+    "id": 1860,
+    "start_date": "2021-01-11 20:30:00",
+    "real_end_date": "2021-01-11 23:11:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "7",
+    "home": {
+      "id": 11,
+      "name": "Kölner Haie",
+      "shortcut": "KEC"
+    },
+    "guest": {
+      "id": 7,
+      "name": "Iserlohn Roosters",
+      "shortcut": "IEC"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": 1,
+    "results": {
+      "extra_time": true,
+      "shooting": true,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 3,
+          "score_guest": 4
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 1,
+          "score_guest": 2
+        },
+        "third_period": {
+          "score_home": 2,
+          "score_guest": 1
+        },
+        "overtime": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "shootout": {
+          "score_home": 0,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende n. Penaltyschießen",
+    "actual_time_alias": "KN",
+    "last_event_time": 3900
+  }
+]

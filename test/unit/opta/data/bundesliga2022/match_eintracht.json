@@ -1,0 +1,76 @@
+{
+  "id": "d7jq17znw97xt4hbghsq4q4no",
+  "coverageLevel": "15",
+  "date": "2022-08-05Z",
+  "time": "18:30:00Z",
+  "localDate": "2022-08-05",
+  "localTime": "20:30:00",
+  "week": "1",
+  "numberOfPeriods": 2,
+  "periodLength": 45,
+  "lastUpdated": "2022-10-22T12:47:31Z",
+  "description": "Eintracht Frankfurt vs Bayern München",
+  "sport": {
+    "id": "289u5typ3vp4ifwh5thalohmq",
+    "name": "Soccer"
+  },
+  "ruleset": {
+    "id": "79plas4983031idr6vw83nuel",
+    "name": "Men"
+  },
+  "competition": {
+    "id": "6by3h89i2eykc341oz7lv1ddd",
+    "name": "Bundesliga",
+    "competitionCode": "BUN",
+    "competitionFormat": "Domestic league",
+    "country": {
+      "id": "36min0qztu8eydwvpv8t1is0m",
+      "name": "Germany"
+    }
+  },
+  "tournamentCalendar": {
+    "id": "eg8fn8zof4ps7z12vlxa6efx0",
+    "startDate": "2022-08-05Z",
+    "endDate": "2023-05-27Z",
+    "name": "2022/2023"
+  },
+  "stage": {
+    "id": "egi94n9ib3cq1ejjwp52nrcb8",
+    "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+    "startDate": "2022-08-05Z",
+    "endDate": "2023-05-27Z",
+    "name": "Regular Season"
+  },
+  "contestant": [
+    {
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "officialName": "Eintracht Frankfurt",
+      "code": "SGE",
+      "position": "home",
+      "country": {
+        "id": "36min0qztu8eydwvpv8t1is0m",
+        "name": "Germany"
+      }
+    },
+    {
+      "id": "apoawtpvac4zqlancmvw4nk4o",
+      "name": "Bayern München",
+      "shortName": "Bayern München",
+      "officialName": "FC Bayern München",
+      "code": "FCB",
+      "position": "away",
+      "country": {
+        "id": "36min0qztu8eydwvpv8t1is0m",
+        "name": "Germany"
+      }
+    }
+  ],
+  "venue": {
+    "id": "6a9rbm0r7b7dgp0zz0je0l4lj",
+    "neutral": "no",
+    "longName": "Deutsche Bank Park",
+    "shortName": "Deutsche Bank Park"
+  }
+}

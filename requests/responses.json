@@ -1,0 +1,272 @@
+[
+  {
+    "streamId": "uefa-cl-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "uefa-cl-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0ba816e5-d31a-4fbb-87eb-788336d01b84?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "uefa-cl-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "uefa-cl-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0ba816e5-d31a-4fbb-87eb-788336d01b84?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "epl-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "epl-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/c7b74203-8109-4f89-a535-58d34dabc387?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "epl-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "epl-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/c7b74203-8109-4f89-a535-58d34dabc387?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "bundesliga-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "bundesliga-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/90f276ac-7ea4-495d-a5dc-048357cb7103?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "bundesliga-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "bundesliga-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/90f276ac-7ea4-495d-a5dc-048357cb7103?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "eu-league-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "eu-league-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/de41df2d-433e-438e-af3e-b8ffbaed13cc?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "eu-league-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "eu-league-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/de41df2d-433e-438e-af3e-b8ffbaed13cc?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "spanish-la-liga-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "spanish-la-liga-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0c067933-8f3c-4748-8801-9780714a98d8?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "spanish-la-liga-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "spanish-la-liga-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0c067933-8f3c-4748-8801-9780714a98d8?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "italian-serie-a-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "italian-serie-a-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/8d943150-7e5e-4773-b6d8-2fcc3100ba8d?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "italian-serie-a-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "italian-serie-a-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/8d943150-7e5e-4773-b6d8-2fcc3100ba8d?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "2-bundesliga-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "2-bundesliga-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/52fd6f66-a37c-464d-80c3-2e7268badc01?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "us-mls-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "us-mls-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0a1fed60-f847-4cab-a501-2d255016b3b4?format=1920x1080&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "tr-super-lig-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "tr-super-lig-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/eb8d8467-ef6a-4fd3-a6ed-f79a51a808fe?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "womens-bundesliga-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "womens-bundesliga-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/6c8c9cc4-20ca-43cf-b979-fca383c57f35?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "fr-ligue-1-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "fr-ligue-1-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/08c78a05-94f5-4223-9959-d0a37c609f12?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "fr-ligue-1-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "fr-ligue-1-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/08c78a05-94f5-4223-9959-d0a37c609f12?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "copa-america-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "copa-america-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/08c78a05-94f5-4223-9959-d0a37c609f12?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "euro-2024-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "euro-2024-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/19d06b09-302c-412f-b7d7-74e6dc192e1b?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "euro-2024-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "euro-2024-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/19d06b09-302c-412f-b7d7-74e6dc192e1b?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "euro-2024-dfb-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "euro-2024-dfb-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/11e8ae52-6c1e-4d6b-b686-4c259a78d33e?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "euro-2024-dfb-de",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "euro-2024-dfb-de",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/11e8ae52-6c1e-4d6b-b686-4c259a78d33e?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "serie-a-brasileiro-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "serie-a-brasileiro-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/2dea7840-c7be-4547-9635-7ac4daab8e94?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "serie-a-brasileiro-pt",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "serie-a-brasileiro-pt",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/2dea7840-c7be-4547-9635-7ac4daab8e94?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "primera-division-argentina-en",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "primera-division-argentina-en",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/f2d2838c-f70f-4f1b-a1e1-eae3a5ef7735?format=1920x1080&lng=en&stream=audio"
+      }
+    }
+  },
+  {
+    "streamId": "primera-division-argentina-es",
+    "startResponse": {
+      "success": true,
+      "obj": {
+        "id": "primera-division-argentina-es",
+        "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/f2d2838c-f70f-4f1b-a1e1-eae3a5ef7735?format=1920x1080&lng=de&stream=audio"
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "actualTimeName": "vor dem Spiel",
+  "actualTimeAlias": "0",
+  "stadium": "",
+  "numberOfViewers": null,
+  "referees": {
+    "headReferee1": null,
+    "headReferee2": null,
+    "lineReferee1": null,
+    "lineReferee2": null
+  },
+  "teamInfo": {
+    "home": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "visitor": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    }
+  },
+  "trainers": [],
+  "teamBilance": {
+    "homeWin": 0,
+    "visitorWin": 0
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 0
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": null,
+      "name": null
+    },
+    "visitor": {
+      "id": null,
+      "name": null
+    }
+  },
+  "overtimeCount": null,
+  "lastEventTime": 0
+}

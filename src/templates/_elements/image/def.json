@@ -1,0 +1,19 @@
+{
+  "type": "image",
+  "defaults": {
+    "label": "",
+    "height": "",
+    "width": "",
+    "src": "placeholderimage.png",
+    "ext": "png",
+    "styles": {
+      "left": "0",
+      "right": "auto",
+      "top": "0",
+      "bottom": "auto",
+      "height": "auto",
+      "width": "auto",
+      "z-index": 2
+    }
+  }
+}

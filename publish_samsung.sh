@@ -1,0 +1,12 @@
+#!/bin/bash
+
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+source ${SCRIPT_DIR}/config_samsung.sh
+
+NAME=${INSTANCEID}
+VERSION=1.0.8
+1d98d2c286ac8159fb166d4a5daa37fdf380b852
+
+
+docker tag ${NAME}:latest h2908577.stratoserver.net:5001/spovizz/${INSTANCEID}:${VERSION}
+docker push h2908577.stratoserver.net:5001/spovizz/${INSTANCEID}:${VERSION}

@@ -1,0 +1,63 @@
+# Deployment configuration
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-deployment
+  namespace: hello-namespace
+  labels:
+    app: hello
+spec:
+  replicas: 1  # Number of pods to run
+  selector:
+    matchLabels:
+      app: hello
+  template:
+    metadata:
+      labels:
+        app: hello
+    spec:
+      containers:
+        - name: hello
+          image: gcr.io/google-samples/hello-app:1.0  # Container image to use
+          ports:
+            - containerPort: 8080  # Port the container exposes
+---
+# Ingress to manage external access to the services in a cluster
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: hello-ingress
+  namespace: hello-namespace
+  annotations:
+    kubernetes.io/ingress.class: "traefik"  # Ingress class used
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"  # ClusterIssuer for managing TLS certificates
+spec:
+  tls:
+    - hosts:
+        - hello.cloud.vigitalsolutions.com
+      secretName: hello-tls  # Secret that will store the TLS certificate
+  rules:
+    - host: hello.cloud.vigitalsolutions.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: hello-service
+                port:
+                  number: 80
+---
+# Service to expose the application within the cluster
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-service
+  namespace: hello-namespace
+spec:
+  type: ClusterIP  # Default service type, accessible only within the cluster
+  selector:
+    app: hello  # Selector that determines which pods will receive the traffic
+  ports:
+    - port: 80  # Port the service listens on
+      targetPort: 8080  # Target port on the pod to forward traffic to

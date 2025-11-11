@@ -1,0 +1,2032 @@
+[
+  {
+    "id": 22,
+    "name": "Dennis Endras",
+    "firstname": "Dennis",
+    "surname": "Endras",
+    "dateOfBirth": "1985-07-14",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 78,
+    "height": 183,
+    "jersey": 44,
+    "birthCountry": "Immenstadt, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sinan Akdag",
+    "firstname": "Sinan",
+    "surname": "Akdag",
+    "dateOfBirth": "1989-11-05",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 91,
+    "height": 188,
+    "jersey": 7,
+    "birthCountry": "Rosenheim, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 4,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1145,
+      "timeOnIcePP": 106,
+      "timeOnIceSH": 94,
+      "timeOnIcePerGame": 1145,
+      "shifts": 24,
+      "shiftsPerGame": 24
+    }
+  },
+  {
+    "id": 25,
+    "name": "Denis Reul",
+    "firstname": "Denis",
+    "surname": "Reul",
+    "dateOfBirth": "1989-06-29",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 112,
+    "height": 193,
+    "jersey": 29,
+    "birthCountry": "Marktredwitz, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 11,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 4
+      },
+      "shotsMissed": 4,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 2,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1176,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 93,
+      "timeOnIcePerGame": 1176,
+      "shifts": 24,
+      "shiftsPerGame": 24
+    }
+  },
+  {
+    "id": 59,
+    "name": "Stefan Loibl",
+    "firstname": "Stefan",
+    "surname": "Loibl",
+    "dateOfBirth": "1996-06-24",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 84,
+    "height": 188,
+    "jersey": 13,
+    "birthCountry": "Straubing, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 1,
+      "shotEfficiency": 25,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 1,
+      "shotsAttempts": 9,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 4
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 2,
+      "faceoffsLosses": 8,
+      "faceoffsCount": 10,
+      "timeOnIce": 911,
+      "timeOnIcePP": 133,
+      "timeOnIceSH": 82,
+      "timeOnIcePerGame": 911,
+      "shifts": 20,
+      "shiftsPerGame": 20
+    }
+  },
+  {
+    "id": 143,
+    "name": "Nicolas Krämmer",
+    "firstname": "Nicolas",
+    "surname": "Krämmer",
+    "dateOfBirth": "1992-10-23",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 89,
+    "height": 186,
+    "jersey": 21,
+    "birthCountry": "Landshut, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 291,
+    "name": "Jason Bast",
+    "firstname": "Jason",
+    "surname": "Bast",
+    "dateOfBirth": "1989-06-02",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 81,
+    "height": 178,
+    "jersey": 39,
+    "birthCountry": "Regina, SK, CAN",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 2,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 2,
+      "faceoffsLosses": 5,
+      "faceoffsCount": 7,
+      "timeOnIce": 757,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 129,
+      "timeOnIcePerGame": 757,
+      "shifts": 15,
+      "shiftsPerGame": 15
+    }
+  },
+  {
+    "id": 303,
+    "name": "Cody Lampl",
+    "firstname": "Cody",
+    "surname": "Lampl",
+    "dateOfBirth": "1986-06-19",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 81,
+    "height": 178,
+    "jersey": 32,
+    "birthCountry": "Allegheny, PA, USA",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 487,
+    "name": "Matthias Plachta",
+    "firstname": "Matthias",
+    "surname": "Plachta",
+    "dateOfBirth": "1991-05-16",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 90,
+    "height": 184,
+    "jersey": 22,
+    "birthCountry": "Freiburg, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 7,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 2
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1125,
+      "timeOnIcePP": 109,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 1125,
+      "shifts": 19,
+      "shiftsPerGame": 19
+    }
+  },
+  {
+    "id": 493,
+    "name": "David Wolf",
+    "firstname": "David",
+    "surname": "Wolf",
+    "dateOfBirth": "1989-09-15",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 98,
+    "height": 189,
+    "jersey": 89,
+    "birthCountry": "Düsseldorf, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 2,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 6,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 3
+      },
+      "shotsMissed": 2,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1166,
+      "timeOnIcePP": 131,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 1166,
+      "shifts": 18,
+      "shiftsPerGame": 18
+    }
+  },
+  {
+    "id": 516,
+    "name": "Felix Brückmann",
+    "firstname": "Felix",
+    "surname": "Brückmann",
+    "dateOfBirth": "1990-12-16",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 83,
+    "height": 180,
+    "jersey": 90,
+    "birthCountry": "Breisach, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 528,
+    "name": "Björn Krupp",
+    "firstname": "Björn",
+    "surname": "Krupp",
+    "dateOfBirth": "1991-03-06",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 93,
+    "height": 189,
+    "jersey": 5,
+    "birthCountry": "Amherst, GA, USA",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 3,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 3
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 2,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 965,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 137,
+      "timeOnIcePerGame": 965,
+      "shifts": 22,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 656,
+    "name": "Thomas Larkin",
+    "firstname": "Thomas",
+    "surname": "Larkin",
+    "dateOfBirth": "1990-12-31",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 103,
+    "height": 196,
+    "jersey": 37,
+    "birthCountry": "London, GBR",
+    "nationality": "Italy",
+    "nationalityShort": "ITA",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 3,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 2,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1231,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 39,
+      "timeOnIcePerGame": 1231,
+      "shifts": 26,
+      "shiftsPerGame": 26
+    }
+  },
+  {
+    "id": 926,
+    "name": "Felix Schütz",
+    "firstname": "Felix",
+    "surname": "Schütz",
+    "dateOfBirth": "1987-11-03",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 89,
+    "height": 181,
+    "jersey": 11,
+    "birthCountry": "Erding, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 2,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 654,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 654,
+      "shifts": 13,
+      "shiftsPerGame": 13
+    }
+  },
+  {
+    "id": 1182,
+    "name": "Yannik Valenti",
+    "firstname": "Yannik",
+    "surname": "Valenti",
+    "dateOfBirth": "2000-09-24",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 82,
+    "height": 178,
+    "jersey": 26,
+    "birthCountry": "Bad Tölz, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1194,
+    "name": "Andrew Desjardins",
+    "firstname": "Andrew",
+    "surname": "Desjardins",
+    "dateOfBirth": "1986-07-27",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 89,
+    "height": 183,
+    "jersey": 84,
+    "birthCountry": "Sudbury, ON, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 5,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 2
+      },
+      "shotsMissed": 2,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 7,
+      "faceoffsLosses": 6,
+      "faceoffsCount": 13,
+      "timeOnIce": 936,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 936,
+      "shifts": 18,
+      "shiftsPerGame": 18
+    }
+  },
+  {
+    "id": 1197,
+    "name": "Pierre Rosa Preto",
+    "firstname": "Pierre",
+    "surname": "Rosa Preto",
+    "dateOfBirth": "1999-04-13",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 86,
+    "height": 186,
+    "jersey": 36,
+    "birthCountry": "Speyer, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1359,
+    "name": "Benjamin Smith",
+    "firstname": "Benjamin",
+    "surname": "Smith",
+    "dateOfBirth": "1988-07-11",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 94,
+    "height": 180,
+    "jersey": 18,
+    "birthCountry": "Winston-Salem, NC, USA",
+    "nationality": "USA",
+    "nationalityShort": "USA",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 2,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 2
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 7,
+      "faceoffsLosses": 11,
+      "faceoffsCount": 18,
+      "timeOnIce": 1288,
+      "timeOnIcePP": 106,
+      "timeOnIceSH": 91,
+      "timeOnIcePerGame": 1288,
+      "shifts": 23,
+      "shiftsPerGame": 23
+    }
+  },
+  {
+    "id": 1362,
+    "name": "Joonas Lehtivuori",
+    "firstname": "Joonas",
+    "surname": "Lehtivuori",
+    "dateOfBirth": "1988-07-19",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 78,
+    "height": 180,
+    "jersey": 6,
+    "birthCountry": "Pirkkala, FIN",
+    "nationality": "Finland",
+    "nationalityShort": "FIN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1363,
+    "name": "Tommi Huhtala",
+    "firstname": "Tommi",
+    "surname": "Huhtala",
+    "dateOfBirth": "1987-12-07",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 87,
+    "height": 183,
+    "jersey": 61,
+    "birthCountry": "Tampere, FIN",
+    "nationality": "Finland",
+    "nationalityShort": "FIN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 2,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 827,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 85,
+      "timeOnIcePerGame": 827,
+      "shifts": 20,
+      "shiftsPerGame": 20
+    }
+  },
+  {
+    "id": 1364,
+    "name": "Markus Eisenschmid",
+    "firstname": "Markus",
+    "surname": "Eisenschmid",
+    "dateOfBirth": "1995-01-22",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 81,
+    "height": 183,
+    "jersey": 16,
+    "birthCountry": "Marktoberdorf, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 6,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 4
+      },
+      "shotsMissed": 2,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 990,
+      "timeOnIcePP": 107,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 990,
+      "shifts": 18,
+      "shiftsPerGame": 18
+    }
+  },
+  {
+    "id": 1365,
+    "name": "Mark Katic",
+    "firstname": "Mark",
+    "surname": "Katic",
+    "dateOfBirth": "1989-05-09",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 82,
+    "height": 178,
+    "jersey": 95,
+    "birthCountry": "Timmins, ON, CAN",
+    "nationality": "Croatia",
+    "nationalityShort": "CRO",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 5,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 2,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1099,
+      "timeOnIcePP": 136,
+      "timeOnIceSH": 9,
+      "timeOnIcePerGame": 1099,
+      "shifts": 24,
+      "shiftsPerGame": 24
+    }
+  },
+  {
+    "id": 1407,
+    "name": "Louis Brune",
+    "firstname": "Louis",
+    "surname": "Brune",
+    "dateOfBirth": "2000-05-05",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 84,
+    "height": 184,
+    "jersey": 50,
+    "birthCountry": "München, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1473,
+    "name": "Moritz Wirth",
+    "firstname": "Moritz",
+    "surname": "Wirth",
+    "dateOfBirth": "1999-06-10",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 91,
+    "height": 188,
+    "jersey": 70,
+    "birthCountry": "Frankfurt a.M., GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 1,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 614,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 614,
+      "shifts": 12,
+      "shiftsPerGame": 12
+    }
+  },
+  {
+    "id": 1503,
+    "name": "Valentino Klos",
+    "firstname": "Valentino",
+    "surname": "Klos",
+    "dateOfBirth": "2000-02-01",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 87,
+    "height": 186,
+    "jersey": 40,
+    "birthCountry": "Kaiserslautern, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1504,
+    "name": "Florian Mnich",
+    "firstname": "Florian",
+    "surname": "Mnich",
+    "dateOfBirth": "2000-01-14",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 83,
+    "height": 186,
+    "jersey": 72,
+    "birthCountry": "Passau, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1557,
+    "name": "Arno Tiefensee",
+    "firstname": "Arno",
+    "surname": "Tiefensee",
+    "dateOfBirth": "2002-05-01",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 86,
+    "height": 192,
+    "jersey": 30,
+    "birthCountry": "Weißwasser, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1578,
+    "name": "Florian Elias",
+    "firstname": "Florian",
+    "surname": "Elias",
+    "dateOfBirth": "2002-08-07",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 77,
+    "height": 172,
+    "jersey": 77,
+    "birthCountry": "Augsburg, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 3,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 2
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 630,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 630,
+      "shifts": 13,
+      "shiftsPerGame": 13
+    }
+  },
+  {
+    "id": 1579,
+    "name": "Brendan Shinnimin",
+    "firstname": "Brendan",
+    "surname": "Shinnimin",
+    "dateOfBirth": "1991-01-07",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 84,
+    "height": 178,
+    "jersey": 24,
+    "birthCountry": "East St. Paul, MB, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 2,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 7,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 3
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1040,
+      "timeOnIcePP": 34,
+      "timeOnIceSH": 13,
+      "timeOnIcePerGame": 1040,
+      "shifts": 22,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 1670,
+    "name": "Simon Thiel",
+    "firstname": "Simon",
+    "surname": "Thiel",
+    "dateOfBirth": "2001-04-04",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 72,
+    "height": 182,
+    "jersey": 96,
+    "birthCountry": "Mannheim, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1671,
+    "name": "Lukas Ribarik",
+    "firstname": "Lukas",
+    "surname": "Ribarik",
+    "dateOfBirth": "2001-05-05",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 84,
+    "height": 185,
+    "jersey": 97,
+    "birthCountry": "Nürnberg, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1702,
+    "name": "Craig Schira",
+    "firstname": "Craig",
+    "surname": "Schira",
+    "dateOfBirth": "1988-04-21",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 89,
+    "height": 182,
+    "jersey": 64,
+    "birthCountry": "Saskatoon, SK",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 8,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 3
+      },
+      "shotsMissed": 4,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1130,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 107,
+      "timeOnIcePerGame": 1130,
+      "shifts": 27,
+      "shiftsPerGame": 27
+    }
+  },
+  {
+    "id": 1705,
+    "name": "Arkadiusz Dziambor",
+    "firstname": "Arkadiusz",
+    "surname": "Dziambor",
+    "dateOfBirth": "2002-01-31",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 82,
+    "height": 187,
+    "jersey": 53,
+    "birthCountry": "Peiskretscham, POL",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1707,
+    "name": "Luca Ganz",
+    "firstname": "Luca",
+    "surname": "Ganz",
+    "dateOfBirth": "2003-04-21",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 79,
+    "height": 182,
+    "jersey": 31,
+    "birthCountry": "Kaufbeuren, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1714,
+    "name": "Taylor Leier",
+    "firstname": "Taylor",
+    "surname": "Leier",
+    "dateOfBirth": "1994-02-15",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 82,
+    "height": 180,
+    "jersey": 23,
+    "birthCountry": "Saskatoon, SK, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1742,
+    "name": "Sean Collins",
+    "firstname": "Sean",
+    "surname": "Collins",
+    "dateOfBirth": "1988-12-29",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 90,
+    "height": 185,
+    "jersey": 81,
+    "birthCountry": "Saskatoon, SK, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "MAN",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 1,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 4,
+      "faceoffsLosses": 4,
+      "faceoffsCount": 8,
+      "timeOnIce": 968,
+      "timeOnIcePP": 134,
+      "timeOnIceSH": 78,
+      "timeOnIcePerGame": 968,
+      "shifts": 17,
+      "shiftsPerGame": 17
+    }
+  }
+]

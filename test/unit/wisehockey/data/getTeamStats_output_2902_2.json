@@ -1,0 +1,620 @@
+{
+  "home": {
+    "totalStatistics": {
+      "skatingStatistics": {
+        "distanceTravelled": 70628.69,
+        "distanceTravelledWithPuck": 4432.81,
+        "forwardDistanceTravelledWithPuck": 2341.04,
+        "accelerations": 1130,
+        "highAccelerations": 94,
+        "decelerations": 941
+      },
+      "shotStatistics": {
+        "shots": 56,
+        "shotsOnGoal": 25,
+        "shotsWithScreen": 21,
+        "goals": 0,
+        "saves": 14,
+        "expectedGoalsSum": 1.81
+      },
+      "passStatistics": {
+        "successfulPasses": 385,
+        "allPasses": 514,
+        "totalPassDistance": 4023.02,
+        "forwardPassDistance": 1254.73
+      },
+      "puckContestStatistics": {
+        "puckContestsWon": 73,
+        "puckContestsLost": 54,
+        "totalPuckContests": 127
+      },
+      "faceoffStatistics": {
+        "faceoffWins": 29,
+        "faceoffCount": 54
+      },
+      "traditionalStatistics": {
+        "corsiFor": 32,
+        "corsiAgainst": 25,
+        "corsiForPercentage": 0.56,
+        "fenwickFor": 26,
+        "fenwickAgainst": 21,
+        "fenwickForPercentage": 0.55,
+        "pdo": 0.85
+      },
+      "speedZoneStatistics": [
+        {
+          "minSpeed": 0,
+          "maxSpeed": 5,
+          "secondsInZone": 2158.48
+        },
+        {
+          "minSpeed": 5,
+          "maxSpeed": 10,
+          "secondsInZone": 3243.64
+        },
+        {
+          "minSpeed": 10,
+          "maxSpeed": 15,
+          "secondsInZone": 4016.2
+        },
+        {
+          "minSpeed": 15,
+          "maxSpeed": 20,
+          "secondsInZone": 4318.94
+        },
+        {
+          "minSpeed": 20,
+          "maxSpeed": 25,
+          "secondsInZone": 2877.08
+        },
+        {
+          "minSpeed": 25,
+          "maxSpeed": null,
+          "secondsInZone": 1208.34
+        }
+      ]
+    },
+    "periodStatistics": [
+      {
+        "period": 1,
+        "statistics": {
+          "skatingStatistics": {
+            "distanceTravelled": 23933.61,
+            "distanceTravelledWithPuck": 1635.93,
+            "forwardDistanceTravelledWithPuck": 893.5,
+            "accelerations": 385,
+            "highAccelerations": 30,
+            "decelerations": 306
+          },
+          "shotStatistics": {
+            "shots": 22,
+            "shotsOnGoal": 7,
+            "shotsWithScreen": 10,
+            "goals": 0,
+            "saves": 6,
+            "expectedGoalsSum": 0.61
+          },
+          "passStatistics": {
+            "successfulPasses": 157,
+            "allPasses": 187,
+            "totalPassDistance": 1632.04,
+            "forwardPassDistance": 492.92
+          },
+          "puckContestStatistics": {
+            "puckContestsWon": 24,
+            "puckContestsLost": 16,
+            "totalPuckContests": 40
+          },
+          "faceoffStatistics": {
+            "faceoffWins": 13,
+            "faceoffCount": 23
+          },
+          "traditionalStatistics": {
+            "corsiFor": 14,
+            "corsiAgainst": 12,
+            "corsiForPercentage": 0.54,
+            "fenwickFor": 11,
+            "fenwickAgainst": 11,
+            "fenwickForPercentage": 0.5,
+            "pdo": 0.86
+          },
+          "speedZoneStatistics": [
+            {
+              "minSpeed": 0,
+              "maxSpeed": 5,
+              "secondsInZone": 783.88
+            },
+            {
+              "minSpeed": 5,
+              "maxSpeed": 10,
+              "secondsInZone": 1085.6
+            },
+            {
+              "minSpeed": 10,
+              "maxSpeed": 15,
+              "secondsInZone": 1343.16
+            },
+            {
+              "minSpeed": 15,
+              "maxSpeed": 20,
+              "secondsInZone": 1420.8
+            },
+            {
+              "minSpeed": 20,
+              "maxSpeed": 25,
+              "secondsInZone": 978.88
+            },
+            {
+              "minSpeed": 25,
+              "maxSpeed": null,
+              "secondsInZone": 440.28
+            }
+          ]
+        }
+      },
+      {
+        "period": 2,
+        "statistics": {
+          "skatingStatistics": {
+            "distanceTravelled": 24428.73,
+            "distanceTravelledWithPuck": 1634.96,
+            "forwardDistanceTravelledWithPuck": 820.1,
+            "accelerations": 360,
+            "highAccelerations": 23,
+            "decelerations": 321
+          },
+          "shotStatistics": {
+            "shots": 15,
+            "shotsOnGoal": 10,
+            "shotsWithScreen": 4,
+            "goals": 0,
+            "saves": 1,
+            "expectedGoalsSum": 0.64
+          },
+          "passStatistics": {
+            "successfulPasses": 126,
+            "allPasses": 176,
+            "totalPassDistance": 1412.62,
+            "forwardPassDistance": 468.08
+          },
+          "puckContestStatistics": {
+            "puckContestsWon": 24,
+            "puckContestsLost": 25,
+            "totalPuckContests": 49
+          },
+          "faceoffStatistics": {
+            "faceoffWins": 11,
+            "faceoffCount": 15
+          },
+          "traditionalStatistics": {
+            "corsiFor": 11,
+            "corsiAgainst": 5,
+            "corsiForPercentage": 0.69,
+            "fenwickFor": 8,
+            "fenwickAgainst": 4,
+            "fenwickForPercentage": 0.67,
+            "pdo": 0.5
+          },
+          "speedZoneStatistics": [
+            {
+              "minSpeed": 0,
+              "maxSpeed": 5,
+              "secondsInZone": 589.44
+            },
+            {
+              "minSpeed": 5,
+              "maxSpeed": 10,
+              "secondsInZone": 936.6
+            },
+            {
+              "minSpeed": 10,
+              "maxSpeed": 15,
+              "secondsInZone": 1288.58
+            },
+            {
+              "minSpeed": 15,
+              "maxSpeed": 20,
+              "secondsInZone": 1588.26
+            },
+            {
+              "minSpeed": 20,
+              "maxSpeed": 25,
+              "secondsInZone": 1061.88
+            },
+            {
+              "minSpeed": 25,
+              "maxSpeed": null,
+              "secondsInZone": 413.7
+            }
+          ]
+        }
+      },
+      {
+        "period": 3,
+        "statistics": {
+          "skatingStatistics": {
+            "distanceTravelled": 22266.34,
+            "distanceTravelledWithPuck": 1161.93,
+            "forwardDistanceTravelledWithPuck": 627.44,
+            "accelerations": 385,
+            "highAccelerations": 41,
+            "decelerations": 314
+          },
+          "shotStatistics": {
+            "shots": 19,
+            "shotsOnGoal": 8,
+            "shotsWithScreen": 7,
+            "goals": 0,
+            "saves": 7,
+            "expectedGoalsSum": 0.57
+          },
+          "passStatistics": {
+            "successfulPasses": 102,
+            "allPasses": 151,
+            "totalPassDistance": 978.36,
+            "forwardPassDistance": 293.73
+          },
+          "puckContestStatistics": {
+            "puckContestsWon": 25,
+            "puckContestsLost": 13,
+            "totalPuckContests": 38
+          },
+          "faceoffStatistics": {
+            "faceoffWins": 5,
+            "faceoffCount": 16
+          },
+          "traditionalStatistics": {
+            "corsiFor": 7,
+            "corsiAgainst": 8,
+            "corsiForPercentage": 0.47,
+            "fenwickFor": 7,
+            "fenwickAgainst": 6,
+            "fenwickForPercentage": 0.54,
+            "pdo": 1
+          },
+          "speedZoneStatistics": [
+            {
+              "minSpeed": 0,
+              "maxSpeed": 5,
+              "secondsInZone": 785.16
+            },
+            {
+              "minSpeed": 5,
+              "maxSpeed": 10,
+              "secondsInZone": 1221.44
+            },
+            {
+              "minSpeed": 10,
+              "maxSpeed": 15,
+              "secondsInZone": 1384.46
+            },
+            {
+              "minSpeed": 15,
+              "maxSpeed": 20,
+              "secondsInZone": 1309.88
+            },
+            {
+              "minSpeed": 20,
+              "maxSpeed": 25,
+              "secondsInZone": 836.32
+            },
+            {
+              "minSpeed": 25,
+              "maxSpeed": null,
+              "secondsInZone": 354.36
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "away": {
+    "totalStatistics": {
+      "skatingStatistics": {
+        "distanceTravelled": 64187.01,
+        "distanceTravelledWithPuck": 2612.38,
+        "forwardDistanceTravelledWithPuck": 1420.8,
+        "accelerations": 1162,
+        "highAccelerations": 95,
+        "decelerations": 993
+      },
+      "shotStatistics": {
+        "shots": 31,
+        "shotsOnGoal": 17,
+        "shotsWithScreen": 9,
+        "goals": 3,
+        "saves": 25,
+        "expectedGoalsSum": 1.36
+      },
+      "passStatistics": {
+        "successfulPasses": 243,
+        "allPasses": 356,
+        "totalPassDistance": 2490.3,
+        "forwardPassDistance": 857.54
+      },
+      "puckContestStatistics": {
+        "puckContestsWon": 54,
+        "puckContestsLost": 73,
+        "totalPuckContests": 127
+      },
+      "faceoffStatistics": {
+        "faceoffWins": 25,
+        "faceoffCount": 54
+      },
+      "traditionalStatistics": {
+        "corsiFor": 25,
+        "corsiAgainst": 32,
+        "corsiForPercentage": 0.44,
+        "fenwickFor": 21,
+        "fenwickAgainst": 26,
+        "fenwickForPercentage": 0.45,
+        "pdo": 1.15
+      },
+      "speedZoneStatistics": [
+        {
+          "minSpeed": 0,
+          "maxSpeed": 5,
+          "secondsInZone": 2371.14
+        },
+        {
+          "minSpeed": 5,
+          "maxSpeed": 10,
+          "secondsInZone": 3722.64
+        },
+        {
+          "minSpeed": 10,
+          "maxSpeed": 15,
+          "secondsInZone": 4245.3
+        },
+        {
+          "minSpeed": 15,
+          "maxSpeed": 20,
+          "secondsInZone": 3895.76
+        },
+        {
+          "minSpeed": 20,
+          "maxSpeed": 25,
+          "secondsInZone": 2284.44
+        },
+        {
+          "minSpeed": 25,
+          "maxSpeed": null,
+          "secondsInZone": 876.1
+        }
+      ]
+    },
+    "periodStatistics": [
+      {
+        "period": 1,
+        "statistics": {
+          "skatingStatistics": {
+            "distanceTravelled": 21393.49,
+            "distanceTravelledWithPuck": 755.31,
+            "forwardDistanceTravelledWithPuck": 444.38,
+            "accelerations": 405,
+            "highAccelerations": 39,
+            "decelerations": 335
+          },
+          "shotStatistics": {
+            "shots": 12,
+            "shotsOnGoal": 7,
+            "shotsWithScreen": 4,
+            "goals": 1,
+            "saves": 7,
+            "expectedGoalsSum": 0.39
+          },
+          "passStatistics": {
+            "successfulPasses": 63,
+            "allPasses": 101,
+            "totalPassDistance": 668.73,
+            "forwardPassDistance": 250.24
+          },
+          "puckContestStatistics": {
+            "puckContestsWon": 16,
+            "puckContestsLost": 24,
+            "totalPuckContests": 40
+          },
+          "faceoffStatistics": {
+            "faceoffWins": 10,
+            "faceoffCount": 23
+          },
+          "traditionalStatistics": {
+            "corsiFor": 12,
+            "corsiAgainst": 14,
+            "corsiForPercentage": 0.46,
+            "fenwickFor": 11,
+            "fenwickAgainst": 11,
+            "fenwickForPercentage": 0.5,
+            "pdo": 1.14
+          },
+          "speedZoneStatistics": [
+            {
+              "minSpeed": 0,
+              "maxSpeed": 5,
+              "secondsInZone": 776.46
+            },
+            {
+              "minSpeed": 5,
+              "maxSpeed": 10,
+              "secondsInZone": 1229.12
+            },
+            {
+              "minSpeed": 10,
+              "maxSpeed": 15,
+              "secondsInZone": 1402.76
+            },
+            {
+              "minSpeed": 15,
+              "maxSpeed": 20,
+              "secondsInZone": 1231.42
+            },
+            {
+              "minSpeed": 20,
+              "maxSpeed": 25,
+              "secondsInZone": 765.18
+            },
+            {
+              "minSpeed": 25,
+              "maxSpeed": null,
+              "secondsInZone": 339.16
+            }
+          ]
+        }
+      },
+      {
+        "period": 2,
+        "statistics": {
+          "skatingStatistics": {
+            "distanceTravelled": 21928.77,
+            "distanceTravelledWithPuck": 789.08,
+            "forwardDistanceTravelledWithPuck": 410.03,
+            "accelerations": 384,
+            "highAccelerations": 29,
+            "decelerations": 343
+          },
+          "shotStatistics": {
+            "shots": 6,
+            "shotsOnGoal": 2,
+            "shotsWithScreen": 3,
+            "goals": 1,
+            "saves": 10,
+            "expectedGoalsSum": 0.17
+          },
+          "passStatistics": {
+            "successfulPasses": 64,
+            "allPasses": 103,
+            "totalPassDistance": 655.64,
+            "forwardPassDistance": 218.11
+          },
+          "puckContestStatistics": {
+            "puckContestsWon": 25,
+            "puckContestsLost": 24,
+            "totalPuckContests": 49
+          },
+          "faceoffStatistics": {
+            "faceoffWins": 4,
+            "faceoffCount": 15
+          },
+          "traditionalStatistics": {
+            "corsiFor": 5,
+            "corsiAgainst": 11,
+            "corsiForPercentage": 0.31,
+            "fenwickFor": 4,
+            "fenwickAgainst": 8,
+            "fenwickForPercentage": 0.33,
+            "pdo": 1.5
+          },
+          "speedZoneStatistics": [
+            {
+              "minSpeed": 0,
+              "maxSpeed": 5,
+              "secondsInZone": 680.48
+            },
+            {
+              "minSpeed": 5,
+              "maxSpeed": 10,
+              "secondsInZone": 1196.76
+            },
+            {
+              "minSpeed": 10,
+              "maxSpeed": 15,
+              "secondsInZone": 1419.02
+            },
+            {
+              "minSpeed": 15,
+              "maxSpeed": 20,
+              "secondsInZone": 1358.7
+            },
+            {
+              "minSpeed": 20,
+              "maxSpeed": 25,
+              "secondsInZone": 821.38
+            },
+            {
+              "minSpeed": 25,
+              "maxSpeed": null,
+              "secondsInZone": 296.06
+            }
+          ]
+        }
+      },
+      {
+        "period": 3,
+        "statistics": {
+          "skatingStatistics": {
+            "distanceTravelled": 20864.75,
+            "distanceTravelledWithPuck": 1067.99,
+            "forwardDistanceTravelledWithPuck": 566.4,
+            "accelerations": 373,
+            "highAccelerations": 27,
+            "decelerations": 315
+          },
+          "shotStatistics": {
+            "shots": 13,
+            "shotsOnGoal": 8,
+            "shotsWithScreen": 2,
+            "goals": 1,
+            "saves": 8,
+            "expectedGoalsSum": 0.81
+          },
+          "passStatistics": {
+            "successfulPasses": 116,
+            "allPasses": 152,
+            "totalPassDistance": 1165.94,
+            "forwardPassDistance": 389.19
+          },
+          "puckContestStatistics": {
+            "puckContestsWon": 13,
+            "puckContestsLost": 25,
+            "totalPuckContests": 38
+          },
+          "faceoffStatistics": {
+            "faceoffWins": 11,
+            "faceoffCount": 16
+          },
+          "traditionalStatistics": {
+            "corsiFor": 8,
+            "corsiAgainst": 7,
+            "corsiForPercentage": 0.53,
+            "fenwickFor": 6,
+            "fenwickAgainst": 7,
+            "fenwickForPercentage": 0.46,
+            "pdo": 1
+          },
+          "speedZoneStatistics": [
+            {
+              "minSpeed": 0,
+              "maxSpeed": 5,
+              "secondsInZone": 914.2
+            },
+            {
+              "minSpeed": 5,
+              "maxSpeed": 10,
+              "secondsInZone": 1296.76
+            },
+            {
+              "minSpeed": 10,
+              "maxSpeed": 15,
+              "secondsInZone": 1423.52
+            },
+            {
+              "minSpeed": 15,
+              "maxSpeed": 20,
+              "secondsInZone": 1305.64
+            },
+            {
+              "minSpeed": 20,
+              "maxSpeed": 25,
+              "secondsInZone": 697.88
+            },
+            {
+              "minSpeed": 25,
+              "maxSpeed": null,
+              "secondsInZone": 240.88
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

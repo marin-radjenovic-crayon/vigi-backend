@@ -1,0 +1,999 @@
+{
+  "1": [
+    {
+      "time": 0,
+      "type": "periodStart"
+    },
+    {
+      "time": 0,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 13765,
+        "team": "visitor",
+        "time": 0,
+        "player": {
+          "playerId": 599,
+          "matchPlayerId": 107525,
+          "jersey": 31,
+          "name": "Niklas",
+          "surname": "Treutle"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 0,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 13764,
+        "team": "home",
+        "time": 0,
+        "player": {
+          "playerId": 22,
+          "matchPlayerId": 107497,
+          "jersey": 44,
+          "name": "Dennis",
+          "surname": "Endras"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 482,
+      "type": "penalty",
+      "data": {
+        "id": 16436,
+        "team": "home",
+        "createTime": 482,
+        "disciplinedPlayer": {
+          "playerId": 1364,
+          "matchPlayerId": 107512,
+          "jersey": 16,
+          "name": "Markus",
+          "surname": "Eisenschmid"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2020-12-19 16:40:04",
+            "scoreboardTime": 482
+          },
+          "to": {
+            "realTime": "2020-12-19 16:42:04",
+            "scoreboardTime": 602
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HI-ST"
+      }
+    },
+    {
+      "time": 895,
+      "type": "goal",
+      "data": {
+        "id": 10041,
+        "team": "home",
+        "currentScore": "1:0",
+        "realTime": "2020-12-19 16:56:07",
+        "scoreboardTime": 895,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 1363,
+          "matchPlayerId": 107511,
+          "jersey": 61,
+          "name": "Tommi",
+          "surname": "Huhtala"
+        },
+        "assistants": [
+          {
+            "playerId": 143,
+            "matchPlayerId": 107500,
+            "jersey": 21,
+            "name": "Nicolas",
+            "surname": "Krämmer"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 22,
+              "matchPlayerId": 107497,
+              "jersey": 44,
+              "name": "Dennis",
+              "surname": "Endras"
+            },
+            {
+              "playerId": 1363,
+              "matchPlayerId": 107511,
+              "jersey": 61,
+              "name": "Tommi",
+              "surname": "Huhtala"
+            },
+            {
+              "playerId": 1359,
+              "matchPlayerId": 107509,
+              "jersey": 18,
+              "name": "Benjamin",
+              "surname": "Smith"
+            },
+            {
+              "playerId": 143,
+              "matchPlayerId": 107500,
+              "jersey": 21,
+              "name": "Nicolas",
+              "surname": "Krämmer"
+            },
+            {
+              "playerId": 1362,
+              "matchPlayerId": 107510,
+              "jersey": 6,
+              "name": "Joonas",
+              "surname": "Lehtivuori"
+            },
+            {
+              "playerId": 303,
+              "matchPlayerId": 107502,
+              "jersey": 32,
+              "name": "Cody",
+              "surname": "Lampl"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 599,
+              "matchPlayerId": 107525,
+              "jersey": 31,
+              "name": "Niklas",
+              "surname": "Treutle"
+            },
+            {
+              "playerId": 100,
+              "matchPlayerId": 107518,
+              "jersey": 24,
+              "name": "Marcus",
+              "surname": "Weber"
+            },
+            {
+              "playerId": 1664,
+              "matchPlayerId": 107535,
+              "jersey": 39,
+              "name": "Brett",
+              "surname": "Pollock"
+            },
+            {
+              "playerId": 1082,
+              "matchPlayerId": 107528,
+              "jersey": 14,
+              "name": "Thomas",
+              "surname": "Gilbert"
+            },
+            {
+              "playerId": 94,
+              "matchPlayerId": 107517,
+              "jersey": 17,
+              "name": "Patrick",
+              "surname": "Reimer"
+            },
+            {
+              "playerId": 1665,
+              "matchPlayerId": 107536,
+              "jersey": 20,
+              "name": "Eric",
+              "surname": "Cornel"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 938,
+      "type": "goal",
+      "data": {
+        "id": 10042,
+        "team": "home",
+        "currentScore": "2:0",
+        "realTime": "2020-12-19 16:57:58",
+        "scoreboardTime": 938,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 487,
+          "matchPlayerId": 107503,
+          "jersey": 22,
+          "name": "Matthias",
+          "surname": "Plachta"
+        },
+        "assistants": [
+          {
+            "playerId": 493,
+            "matchPlayerId": 107504,
+            "jersey": 89,
+            "name": "David",
+            "surname": "Wolf"
+          },
+          {
+            "playerId": 1359,
+            "matchPlayerId": 107509,
+            "jersey": 18,
+            "name": "Benjamin",
+            "surname": "Smith"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 22,
+              "matchPlayerId": 107497,
+              "jersey": 44,
+              "name": "Dennis",
+              "surname": "Endras"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 107503,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            },
+            {
+              "playerId": 493,
+              "matchPlayerId": 107504,
+              "jersey": 89,
+              "name": "David",
+              "surname": "Wolf"
+            },
+            {
+              "playerId": 1359,
+              "matchPlayerId": 107509,
+              "jersey": 18,
+              "name": "Benjamin",
+              "surname": "Smith"
+            },
+            {
+              "playerId": 25,
+              "matchPlayerId": 107499,
+              "jersey": 29,
+              "name": "Denis",
+              "surname": "Reul"
+            },
+            {
+              "playerId": 656,
+              "matchPlayerId": 107507,
+              "jersey": 37,
+              "name": "Thomas",
+              "surname": "Larkin"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 599,
+              "matchPlayerId": 107525,
+              "jersey": 31,
+              "name": "Niklas",
+              "surname": "Treutle"
+            },
+            {
+              "playerId": 1081,
+              "matchPlayerId": 107527,
+              "jersey": 74,
+              "name": "Dane",
+              "surname": "Fox"
+            },
+            {
+              "playerId": 1370,
+              "matchPlayerId": 107531,
+              "jersey": 71,
+              "name": "Andrew",
+              "surname": "Bodnarchuk"
+            },
+            {
+              "playerId": 1668,
+              "matchPlayerId": 107539,
+              "jersey": 27,
+              "name": "David",
+              "surname": "Trinkberger"
+            },
+            {
+              "playerId": 442,
+              "matchPlayerId": 107522,
+              "jersey": 25,
+              "name": "Daniel",
+              "surname": "Schmölz"
+            },
+            {
+              "playerId": 436,
+              "matchPlayerId": 107521,
+              "jersey": 10,
+              "name": "Marcel",
+              "surname": "Kurth"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 1066,
+      "type": "goal",
+      "data": {
+        "id": 10043,
+        "team": "home",
+        "currentScore": "3:0",
+        "realTime": "2020-12-19 17:02:27",
+        "scoreboardTime": 1066,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 528,
+          "matchPlayerId": 107506,
+          "jersey": 5,
+          "name": "Björn",
+          "surname": "Krupp"
+        },
+        "assistants": [
+          {
+            "playerId": 1364,
+            "matchPlayerId": 107512,
+            "jersey": 16,
+            "name": "Markus",
+            "surname": "Eisenschmid"
+          },
+          {
+            "playerId": 1579,
+            "matchPlayerId": 107515,
+            "jersey": 24,
+            "name": "Brendan",
+            "surname": "Shinnimin"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 22,
+              "matchPlayerId": 107497,
+              "jersey": 44,
+              "name": "Dennis",
+              "surname": "Endras"
+            },
+            {
+              "playerId": 528,
+              "matchPlayerId": 107506,
+              "jersey": 5,
+              "name": "Björn",
+              "surname": "Krupp"
+            },
+            {
+              "playerId": 1579,
+              "matchPlayerId": 107515,
+              "jersey": 24,
+              "name": "Brendan",
+              "surname": "Shinnimin"
+            },
+            {
+              "playerId": 1364,
+              "matchPlayerId": 107512,
+              "jersey": 16,
+              "name": "Markus",
+              "surname": "Eisenschmid"
+            },
+            {
+              "playerId": 25,
+              "matchPlayerId": 107499,
+              "jersey": 29,
+              "name": "Denis",
+              "surname": "Reul"
+            },
+            {
+              "playerId": 1670,
+              "matchPlayerId": 107818,
+              "jersey": 96,
+              "name": "Simon",
+              "surname": "Thiel"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 599,
+              "matchPlayerId": 107525,
+              "jersey": 31,
+              "name": "Niklas",
+              "surname": "Treutle"
+            },
+            {
+              "playerId": 436,
+              "matchPlayerId": 107521,
+              "jersey": 10,
+              "name": "Marcel",
+              "surname": "Kurth"
+            },
+            {
+              "playerId": 100,
+              "matchPlayerId": 107518,
+              "jersey": 24,
+              "name": "Marcus",
+              "surname": "Weber"
+            },
+            {
+              "playerId": 1082,
+              "matchPlayerId": 107528,
+              "jersey": 14,
+              "name": "Thomas",
+              "surname": "Gilbert"
+            },
+            {
+              "playerId": 1014,
+              "matchPlayerId": 107526,
+              "jersey": 11,
+              "name": "Christopher",
+              "surname": "Brown"
+            },
+            {
+              "playerId": 442,
+              "matchPlayerId": 107522,
+              "jersey": 25,
+              "name": "Daniel",
+              "surname": "Schmölz"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 1200,
+      "type": "periodEnd"
+    }
+  ],
+  "2": [
+    {
+      "time": 1200,
+      "type": "periodStart"
+    },
+    {
+      "time": 1467,
+      "type": "penalty",
+      "data": {
+        "id": 16437,
+        "team": "visitor",
+        "createTime": 1467,
+        "disciplinedPlayer": {
+          "playerId": 599,
+          "matchPlayerId": 107525,
+          "jersey": 31,
+          "name": "Niklas",
+          "surname": "Treutle"
+        },
+        "replacedPlayer": {
+          "playerId": 1664,
+          "matchPlayerId": 107535,
+          "jersey": 39,
+          "name": "Brett",
+          "surname": "Pollock"
+        },
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2020-12-19 16:30:09",
+            "scoreboardTime": 1467
+          },
+          "to": {
+            "realTime": "2020-12-19 17:31:27",
+            "scoreboardTime": 1484
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "TRIP"
+      }
+    },
+    {
+      "time": 1484,
+      "type": "goal",
+      "data": {
+        "id": 10044,
+        "team": "home",
+        "currentScore": "4:0",
+        "realTime": "2020-12-19 17:31:06",
+        "scoreboardTime": 1484,
+        "balance": "PP1",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 1359,
+          "matchPlayerId": 107509,
+          "jersey": 18,
+          "name": "Benjamin",
+          "surname": "Smith"
+        },
+        "assistants": [
+          {
+            "playerId": 1363,
+            "matchPlayerId": 107511,
+            "jersey": 61,
+            "name": "Tommi",
+            "surname": "Huhtala"
+          },
+          {
+            "playerId": 926,
+            "matchPlayerId": 108048,
+            "jersey": 11,
+            "name": "Felix",
+            "surname": "Schütz"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 22,
+              "matchPlayerId": 107497,
+              "jersey": 44,
+              "name": "Dennis",
+              "surname": "Endras"
+            },
+            {
+              "playerId": 1359,
+              "matchPlayerId": 107509,
+              "jersey": 18,
+              "name": "Benjamin",
+              "surname": "Smith"
+            },
+            {
+              "playerId": 926,
+              "matchPlayerId": 108048,
+              "jersey": 11,
+              "name": "Felix",
+              "surname": "Schütz"
+            },
+            {
+              "playerId": 1362,
+              "matchPlayerId": 107510,
+              "jersey": 6,
+              "name": "Joonas",
+              "surname": "Lehtivuori"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 107503,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            },
+            {
+              "playerId": 1363,
+              "matchPlayerId": 107511,
+              "jersey": 61,
+              "name": "Tommi",
+              "surname": "Huhtala"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 599,
+              "matchPlayerId": 107525,
+              "jersey": 31,
+              "name": "Niklas",
+              "surname": "Treutle"
+            },
+            {
+              "playerId": 1668,
+              "matchPlayerId": 107539,
+              "jersey": 27,
+              "name": "David",
+              "surname": "Trinkberger"
+            },
+            {
+              "playerId": 1370,
+              "matchPlayerId": 107531,
+              "jersey": 71,
+              "name": "Andrew",
+              "surname": "Bodnarchuk"
+            },
+            {
+              "playerId": 436,
+              "matchPlayerId": 107521,
+              "jersey": 10,
+              "name": "Marcel",
+              "surname": "Kurth"
+            },
+            {
+              "playerId": 1014,
+              "matchPlayerId": 107526,
+              "jersey": 11,
+              "name": "Christopher",
+              "surname": "Brown"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 1644,
+      "type": "penalty",
+      "data": {
+        "id": 16438,
+        "team": "visitor",
+        "createTime": 1644,
+        "disciplinedPlayer": {
+          "playerId": 1664,
+          "matchPlayerId": 107535,
+          "jersey": 39,
+          "name": "Brett",
+          "surname": "Pollock"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2020-12-19 17:34:30",
+            "scoreboardTime": 1644
+          },
+          "to": {
+            "realTime": "2020-12-19 17:36:30",
+            "scoreboardTime": 1764
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HOLD"
+      }
+    },
+    {
+      "time": 2122,
+      "type": "goal",
+      "data": {
+        "id": 10045,
+        "team": "visitor",
+        "currentScore": "4:1",
+        "realTime": "2020-12-19 17:45:26",
+        "scoreboardTime": 2122,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 373,
+          "matchPlayerId": 108053,
+          "jersey": 44,
+          "name": "John-Magnus",
+          "surname": "Broda"
+        },
+        "assistants": [
+          {
+            "playerId": 1682,
+            "matchPlayerId": 108054,
+            "jersey": 46,
+            "name": "Moritz",
+            "surname": "Elias"
+          },
+          {
+            "playerId": 1082,
+            "matchPlayerId": 107528,
+            "jersey": 14,
+            "name": "Thomas",
+            "surname": "Gilbert"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 599,
+              "matchPlayerId": 107525,
+              "jersey": 31,
+              "name": "Niklas",
+              "surname": "Treutle"
+            },
+            {
+              "playerId": 1667,
+              "matchPlayerId": 107538,
+              "jersey": 18,
+              "name": "Timo",
+              "surname": "Walther"
+            },
+            {
+              "playerId": 373,
+              "matchPlayerId": 108053,
+              "jersey": 44,
+              "name": "John-Magnus",
+              "surname": "Broda"
+            },
+            {
+              "playerId": 1082,
+              "matchPlayerId": 107528,
+              "jersey": 14,
+              "name": "Thomas",
+              "surname": "Gilbert"
+            },
+            {
+              "playerId": 100,
+              "matchPlayerId": 107518,
+              "jersey": 24,
+              "name": "Marcus",
+              "surname": "Weber"
+            },
+            {
+              "playerId": 1682,
+              "matchPlayerId": 108054,
+              "jersey": 46,
+              "name": "Moritz",
+              "surname": "Elias"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 22,
+              "matchPlayerId": 107497,
+              "jersey": 44,
+              "name": "Dennis",
+              "surname": "Endras"
+            },
+            {
+              "playerId": 1364,
+              "matchPlayerId": 107512,
+              "jersey": 16,
+              "name": "Markus",
+              "surname": "Eisenschmid"
+            },
+            {
+              "playerId": 1670,
+              "matchPlayerId": 107818,
+              "jersey": 96,
+              "name": "Simon",
+              "surname": "Thiel"
+            },
+            {
+              "playerId": 1362,
+              "matchPlayerId": 107510,
+              "jersey": 6,
+              "name": "Joonas",
+              "surname": "Lehtivuori"
+            },
+            {
+              "playerId": 1359,
+              "matchPlayerId": 107509,
+              "jersey": 18,
+              "name": "Benjamin",
+              "surname": "Smith"
+            },
+            {
+              "playerId": 303,
+              "matchPlayerId": 107502,
+              "jersey": 32,
+              "name": "Cody",
+              "surname": "Lampl"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 2400,
+      "type": "periodEnd"
+    }
+  ],
+  "3": [
+    {
+      "time": 2400,
+      "type": "periodStart"
+    },
+    {
+      "time": 2658,
+      "type": "goal",
+      "data": {
+        "id": 10046,
+        "team": "home",
+        "currentScore": "5:1",
+        "realTime": "2020-12-19 18:16:05",
+        "scoreboardTime": 2658,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 493,
+          "matchPlayerId": 107504,
+          "jersey": 89,
+          "name": "David",
+          "surname": "Wolf"
+        },
+        "assistants": [
+          {
+            "playerId": 1362,
+            "matchPlayerId": 107510,
+            "jersey": 6,
+            "name": "Joonas",
+            "surname": "Lehtivuori"
+          },
+          {
+            "playerId": 291,
+            "matchPlayerId": 107501,
+            "jersey": 39,
+            "name": "Jason",
+            "surname": "Bast"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 22,
+              "matchPlayerId": 107497,
+              "jersey": 44,
+              "name": "Dennis",
+              "surname": "Endras"
+            },
+            {
+              "playerId": 493,
+              "matchPlayerId": 107504,
+              "jersey": 89,
+              "name": "David",
+              "surname": "Wolf"
+            },
+            {
+              "playerId": 1362,
+              "matchPlayerId": 107510,
+              "jersey": 6,
+              "name": "Joonas",
+              "surname": "Lehtivuori"
+            },
+            {
+              "playerId": 291,
+              "matchPlayerId": 107501,
+              "jersey": 39,
+              "name": "Jason",
+              "surname": "Bast"
+            },
+            {
+              "playerId": 25,
+              "matchPlayerId": 107499,
+              "jersey": 29,
+              "name": "Denis",
+              "surname": "Reul"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 107503,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 599,
+              "matchPlayerId": 107525,
+              "jersey": 31,
+              "name": "Niklas",
+              "surname": "Treutle"
+            },
+            {
+              "playerId": 1664,
+              "matchPlayerId": 107535,
+              "jersey": 39,
+              "name": "Brett",
+              "surname": "Pollock"
+            },
+            {
+              "playerId": 1668,
+              "matchPlayerId": 107539,
+              "jersey": 27,
+              "name": "David",
+              "surname": "Trinkberger"
+            },
+            {
+              "playerId": 94,
+              "matchPlayerId": 107517,
+              "jersey": 17,
+              "name": "Patrick",
+              "surname": "Reimer"
+            },
+            {
+              "playerId": 1370,
+              "matchPlayerId": 107531,
+              "jersey": 71,
+              "name": "Andrew",
+              "surname": "Bodnarchuk"
+            },
+            {
+              "playerId": 1665,
+              "matchPlayerId": 107536,
+              "jersey": 20,
+              "name": "Eric",
+              "surname": "Cornel"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 2956,
+      "type": "penalty",
+      "data": {
+        "id": 16439,
+        "team": "home",
+        "createTime": 2956,
+        "disciplinedPlayer": {
+          "playerId": 1671,
+          "matchPlayerId": 107819,
+          "jersey": 97,
+          "name": "Lukas",
+          "surname": "Ribarik"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2020-12-19 18:23:33",
+            "scoreboardTime": 2956
+          },
+          "to": {
+            "realTime": "2020-12-19 18:25:33",
+            "scoreboardTime": 3076
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "INTRF"
+      }
+    },
+    {
+      "time": 3202,
+      "type": "penalty",
+      "data": {
+        "id": 16440,
+        "team": "visitor",
+        "createTime": 3202,
+        "disciplinedPlayer": {
+          "playerId": 1668,
+          "matchPlayerId": 107539,
+          "jersey": 27,
+          "name": "David",
+          "surname": "Trinkberger"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2020-12-19 18:29:26",
+            "scoreboardTime": 3202
+          },
+          "to": {
+            "realTime": "2020-12-19 18:31:26",
+            "scoreboardTime": 3322
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HOOK"
+      }
+    },
+    {
+      "time": 3600,
+      "type": "periodEnd"
+    }
+  ],
+  "overtime": [],
+  "shootout": []
+}

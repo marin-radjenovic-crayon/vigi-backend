@@ -1,0 +1,1282 @@
+[
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "10/13/2022",
+    "homeName": "Qatar",
+    "awayName": "Nicaragua",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "10/23/2022",
+    "homeName": "Qatar",
+    "awayName": "Guatemala",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "10/27/2022",
+    "homeName": "Qatar",
+    "awayName": "Honduras",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/5/2022",
+    "homeName": "Qatar",
+    "awayName": "Panama",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/9/2022",
+    "homeName": "Qatar",
+    "awayName": "Albanien",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "6/5/2022",
+    "homeName": "Ecuador",
+    "awayName": "Mexico",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "6/11/2022",
+    "homeName": "Ecuador",
+    "awayName": "Kap Verde",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Ecuador",
+    "awayName": "Saudi Arabia",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Ecuador",
+    "awayName": "Japan",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/12/2022",
+    "homeName": "Ecuador",
+    "awayName": "Irak",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "COSAFA Cup (N)",
+    "date": "7/13/2022",
+    "homeName": "Senegal",
+    "awayName": "Eswatini",
+    "scoreHome": "1 (10)",
+    "scoreAway": "1 (9)"
+  },
+  {
+    "competition": "COSAFA Cup (N)",
+    "date": "7/15/2022",
+    "homeName": "Senegal",
+    "awayName": "Sambia",
+    "scoreHome": "3",
+    "scoreAway": "4"
+  },
+  {
+    "competition": "COSAFA Cup (N)",
+    "date": "7/17/2022",
+    "homeName": "Senegal",
+    "awayName": "Mosambik",
+    "scoreHome": "1 (4)",
+    "scoreAway": "1 (2)"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/24/2022",
+    "homeName": "Senegal",
+    "awayName": "Bolivia",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Senegal",
+    "awayName": "Iran",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/8/2022",
+    "homeName": "Wales",
+    "awayName": "Netherlands",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/11/2022",
+    "homeName": "Netherlands",
+    "awayName": "Poland",
+    "scoreHome": "2",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/14/2022",
+    "homeName": "Netherlands",
+    "awayName": "Wales",
+    "scoreHome": "3",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "Poland",
+    "awayName": "Netherlands",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Netherlands",
+    "awayName": "Belgium",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/7/2022",
+    "homeName": "Germany",
+    "awayName": "England",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/11/2022",
+    "homeName": "England",
+    "awayName": "Italy",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/14/2022",
+    "homeName": "England",
+    "awayName": "Hungary",
+    "scoreHome": "0",
+    "scoreAway": "4"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/23/2022",
+    "homeName": "Italy",
+    "awayName": "England",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/26/2022",
+    "homeName": "England",
+    "awayName": "Germany",
+    "scoreHome": "3",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "WM-Qualifikation",
+    "date": "3/29/2022",
+    "homeName": "Iran",
+    "awayName": "Lebanon",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "6/12/2022",
+    "homeName": "Iran",
+    "awayName": "Algeria",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Iran",
+    "awayName": "Uruguay",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Iran",
+    "awayName": "Senegal",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/10/2022",
+    "homeName": "Iran",
+    "awayName": "Nicaragua",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "6/5/2022",
+    "homeName": "United States",
+    "awayName": "Uruguay",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "CONCACAF Nations League",
+    "date": "6/10/2022",
+    "homeName": "United States",
+    "awayName": "Grenada",
+    "scoreHome": "5",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "CONCACAF Nations League",
+    "date": "6/14/2022",
+    "homeName": "El Salvador",
+    "awayName": "United States",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "United States",
+    "awayName": "Japan",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "United States",
+    "awayName": "Saudi Arabia",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/8/2022",
+    "homeName": "Wales ",
+    "awayName": "Netherlands",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/11/2022",
+    "homeName": "Wales ",
+    "awayName": "Belgium",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/14/2022",
+    "homeName": "Netherlands",
+    "awayName": "Wales ",
+    "scoreHome": "3",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "Belgium",
+    "awayName": "Wales ",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Wales ",
+    "awayName": "Poland",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Finalissima (N)",
+    "date": "6/1/2022",
+    "homeName": "Argentina",
+    "awayName": "Italy",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "6/5/2022",
+    "homeName": "Argentina",
+    "awayName": "Estland",
+    "scoreHome": "5",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Argentina",
+    "awayName": "Honduras",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Argentina",
+    "awayName": "Jamaika",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/16/2022",
+    "homeName": "VAE",
+    "awayName": "Argentina",
+    "scoreHome": "0",
+    "scoreAway": "5"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "10/26/2022",
+    "homeName": "Saudi Arabia",
+    "awayName": "Albanien",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "10/30/2022",
+    "homeName": "Saudi Arabia",
+    "awayName": "Honduras",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/6/2022",
+    "homeName": "Saudi Arabia",
+    "awayName": "Island",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/10/2022",
+    "homeName": "Saudi Arabia",
+    "awayName": "Panama",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/16/2022",
+    "homeName": "Saudi Arabia",
+    "awayName": "Croatia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "8/31/2022",
+    "homeName": "Mexico",
+    "awayName": "Paraguay",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/24/2022",
+    "homeName": "Mexico",
+    "awayName": "Peru",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Mexico",
+    "awayName": "Colombia",
+    "scoreHome": "2",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/9/2022",
+    "homeName": "Mexico",
+    "awayName": "Irak",
+    "scoreHome": "4",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/16/2022",
+    "homeName": "Mexico",
+    "awayName": "Sweden",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/11/2022",
+    "homeName": "Netherlands",
+    "awayName": "Poland",
+    "scoreHome": "2",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/14/2022",
+    "homeName": "Poland",
+    "awayName": "Belgium",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "Poland",
+    "awayName": "Netherlands",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Wales",
+    "awayName": "Poland",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/16/2022",
+    "homeName": "Poland",
+    "awayName": "Chile",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/6/2022",
+    "homeName": "Croatia",
+    "awayName": "France",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/10/2022",
+    "homeName": "Austria",
+    "awayName": "France",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/13/2022",
+    "homeName": "France",
+    "awayName": "Croatia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "France",
+    "awayName": "Austria",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Denmark",
+    "awayName": "France",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "6/1/2022",
+    "homeName": "Australia",
+    "awayName": "Jordan",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "WM-Qualifikation (N)",
+    "date": "6/7/2022",
+    "homeName": "Australia",
+    "awayName": "VAE",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "WM-Qualifikation (N)",
+    "date": "6/13/2022",
+    "homeName": "Australia",
+    "awayName": "Peru",
+    "scoreHome": "0 (5)",
+    "scoreAway": "0 (4)"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "9/22/2022",
+    "homeName": "Australia",
+    "awayName": "New Zealand",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "9/25/2022",
+    "homeName": "New Zealand",
+    "awayName": "Australia",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/6/2022",
+    "homeName": "Austria",
+    "awayName": "Denmark",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/10/2022",
+    "homeName": "Denmark",
+    "awayName": "Croatia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/13/2022",
+    "homeName": "Denmark",
+    "awayName": "Austria",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "Croatia",
+    "awayName": "Denmark",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Denmark",
+    "awayName": "France",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "WM-Qualifikation",
+    "date": "6/5/2022",
+    "homeName": "Botswana",
+    "awayName": "Tunisia",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Kirin Cup (N)",
+    "date": "6/10/2022",
+    "homeName": "Tunisia",
+    "awayName": "Chile",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Kirin Cup",
+    "date": "6/14/2022",
+    "homeName": "Japan",
+    "awayName": "Tunisia",
+    "scoreHome": "0",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/22/2022",
+    "homeName": "Tunisia",
+    "awayName": "Comoros",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Tunisia",
+    "awayName": "Brazil",
+    "scoreHome": "1",
+    "scoreAway": "5"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/9/2022",
+    "homeName": "Switzerland",
+    "awayName": "Spain",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/12/2022",
+    "homeName": "Spain",
+    "awayName": "Czech Republic",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/24/2022",
+    "homeName": "Spain",
+    "awayName": "Switzerland",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/27/2022",
+    "homeName": "Portugal",
+    "awayName": "Spain",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/17/2022",
+    "homeName": "Jordan",
+    "awayName": "Spain",
+    "scoreHome": "1",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "CONCACAF Nations League",
+    "date": "6/5/2022",
+    "homeName": "Costa Rica",
+    "awayName": "Martinique",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "WM-Qualifikation (N)",
+    "date": "6/14/2022",
+    "homeName": "Costa Rica",
+    "awayName": "New Zealand",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "9/23/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Costa Rica",
+    "scoreHome": "2",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Costa Rica",
+    "awayName": "Usbekistan",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/9/2022",
+    "homeName": "Costa Rica",
+    "awayName": "Nigeria",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/11/2022",
+    "homeName": "Hungary",
+    "awayName": "Germany",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/14/2022",
+    "homeName": "Germany",
+    "awayName": "Italy",
+    "scoreHome": "5",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/23/2022",
+    "homeName": "Germany",
+    "awayName": "Hungary",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/26/2022",
+    "homeName": "England",
+    "awayName": "Germany",
+    "scoreHome": "3",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/16/2022",
+    "homeName": "Oman",
+    "awayName": "Germany",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "EAFF Championships",
+    "date": "7/24/2022",
+    "homeName": "Japan",
+    "awayName": "China",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "EAFF Championships",
+    "date": "7/27/2022",
+    "homeName": "Japan",
+    "awayName": "Korea Republic",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Kirin Cup (N)",
+    "date": "9/23/2022",
+    "homeName": "Japan",
+    "awayName": "United States",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Kirin Cup (N)",
+    "date": "9/27/2022",
+    "homeName": "Japan",
+    "awayName": "Ecuador",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/17/2022",
+    "homeName": "Japan",
+    "awayName": "Canada",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/11/2022",
+    "homeName": "Wales",
+    "awayName": "Belgium",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/14/2022",
+    "homeName": "Poland",
+    "awayName": "Belgium",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "Belgium",
+    "awayName": "Wales",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Netherlands",
+    "awayName": "Belgium",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/18/2022",
+    "homeName": "Belgium",
+    "awayName": "Ägypten",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "CONCACAF Nations League",
+    "date": "6/13/2022",
+    "homeName": "Honduras",
+    "awayName": "Canada",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Canada",
+    "awayName": "Qatar",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Canada",
+    "awayName": "Uruguay",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/11/2022",
+    "homeName": "Bahrain",
+    "awayName": "Canada",
+    "scoreHome": "2",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/17/2022",
+    "homeName": "Canada",
+    "awayName": "Japan",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "WM-Qualifikation",
+    "date": "6/9/2022",
+    "homeName": "Morocco",
+    "awayName": "South Africa",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "WM-Qualifikation",
+    "date": "6/13/2022",
+    "homeName": "Morocco",
+    "awayName": "Liberia",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Morocco",
+    "awayName": "Chile",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Morocco",
+    "awayName": "Paraguay",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/17/2022",
+    "homeName": "Morocco",
+    "awayName": "Georgien",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/10/2022",
+    "homeName": "Denmark",
+    "awayName": "Croatia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/13/2022",
+    "homeName": "France",
+    "awayName": "Croatia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/22/2022",
+    "homeName": "Croatia",
+    "awayName": "Denmark",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/25/2022",
+    "homeName": "Austria",
+    "awayName": "Croatia",
+    "scoreHome": "1",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/16/2022",
+    "homeName": "Saudi Arabia",
+    "awayName": "Croatia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "WM-Qualifikation",
+    "date": "3/29/2022",
+    "homeName": "Bolivia",
+    "awayName": "Brazil",
+    "scoreHome": "0",
+    "scoreAway": "4"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "6/2/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Brazil",
+    "scoreHome": "1",
+    "scoreAway": "5"
+  },
+  {
+    "competition": "Kirin Cup",
+    "date": "6/6/2022",
+    "homeName": "Japan",
+    "awayName": "Brazil",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Brazil",
+    "awayName": "Ghana",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Brazil",
+    "awayName": "Tunisia",
+    "scoreHome": "5",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/9/2022",
+    "homeName": "Sweden",
+    "awayName": "Serbia",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/12/2022",
+    "homeName": "Slovenia",
+    "awayName": "Serbia",
+    "scoreHome": "2",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/24/2022",
+    "homeName": "Serbia",
+    "awayName": "Sweden",
+    "scoreHome": "4",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/27/2022",
+    "homeName": "Norway",
+    "awayName": "Serbia",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/18/2022",
+    "homeName": "Bahrain",
+    "awayName": "Serbia",
+    "scoreHome": "1",
+    "scoreAway": "5"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/9/2022",
+    "homeName": "Switzerland",
+    "awayName": "Spain",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/12/2022",
+    "homeName": "Switzerland",
+    "awayName": "Portugal",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/24/2022",
+    "homeName": "Spain",
+    "awayName": "Switzerland",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/27/2022",
+    "homeName": "Switzerland",
+    "awayName": "Czech Republic",
+    "scoreHome": "2",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/17/2022",
+    "homeName": "Switzerland",
+    "awayName": "Ghana",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "WM-Qualifikation (N)",
+    "date": "6/9/2022",
+    "homeName": "Burundi",
+    "awayName": "Cameroon",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Cameroon",
+    "awayName": "Usbekistan",
+    "scoreHome": "0",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "9/27/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Cameroon",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/9/2022",
+    "homeName": "Cameroon",
+    "awayName": "Jamaika",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/18/2022",
+    "homeName": "Cameroon",
+    "awayName": "Panama",
+    "scoreHome": "1",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/9/2022",
+    "homeName": "Portugal",
+    "awayName": "Czech Republic",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "6/12/2022",
+    "homeName": "Switzerland",
+    "awayName": "Portugal",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/24/2022",
+    "homeName": "Czech Republic",
+    "awayName": "Portugal",
+    "scoreHome": "0",
+    "scoreAway": "4"
+  },
+  {
+    "competition": "UEFA Nations League",
+    "date": "9/27/2022",
+    "homeName": "Portugal",
+    "awayName": "Spain",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/17/2022",
+    "homeName": "Portugal",
+    "awayName": "Nigeria",
+    "scoreHome": "4",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Kirin Cup (N)",
+    "date": "6/14/2022",
+    "homeName": "Ghana",
+    "awayName": "Chile",
+    "scoreHome": "0 (3)",
+    "scoreAway": "0 (1)"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "8/23/2022",
+    "homeName": "Ghana",
+    "awayName": "Qatar",
+    "scoreHome": "1",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Ghana",
+    "awayName": "Brazil",
+    "scoreHome": "0",
+    "scoreAway": "3"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Ghana",
+    "awayName": "Nicaragua",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "11/17/2022",
+    "homeName": "Ghana",
+    "awayName": "Switzerland",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "6/2/2022",
+    "homeName": "Uruguay",
+    "awayName": "Mexico",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "6/5/2022",
+    "homeName": "United States",
+    "awayName": "Uruguay",
+    "scoreHome": "0",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "6/11/2022",
+    "homeName": "Uruguay",
+    "awayName": "Panama",
+    "scoreHome": "5",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/23/2022",
+    "homeName": "Uruguay",
+    "awayName": "Iran",
+    "scoreHome": "0",
+    "scoreAway": "1"
+  },
+  {
+    "competition": "Freundschaftsspiel (N)",
+    "date": "9/27/2022",
+    "homeName": "Uruguay",
+    "awayName": "Canada",
+    "scoreHome": "2",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "EAFF Championships (N)",
+    "date": "7/24/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Hong Kong",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "EAFF Championships",
+    "date": "7/27/2022",
+    "homeName": "Japan",
+    "awayName": "Korea Republic",
+    "scoreHome": "3",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "9/23/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Costa Rica",
+    "scoreHome": "2",
+    "scoreAway": "2"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "9/27/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Cameroon",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  },
+  {
+    "competition": "Freundschaftsspiel",
+    "date": "11/11/2022",
+    "homeName": "Korea Republic",
+    "awayName": "Island",
+    "scoreHome": "1",
+    "scoreAway": "0"
+  }
+]

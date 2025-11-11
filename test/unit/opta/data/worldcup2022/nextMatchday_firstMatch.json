@@ -1,0 +1,21 @@
+{
+  "id": "bzyh8uc9dcu6mnj4zpx9nh6hg",
+  "coverageLevel": "15",
+  "date": "2022-11-21Z",
+  "time": "13:00:00Z",
+  "localDate": "2022-11-21",
+  "localTime": "16:00:00",
+  "homeContestantId": "ck8m1cn23sukwsurgx5qakttk",
+  "awayContestantId": "cubclbw5k5gdqdau95bnav0nn",
+  "homeContestantName": "England",
+  "awayContestantName": "Iran",
+  "homeContestantOfficialName": "England",
+  "awayContestantOfficialName": "Iran",
+  "homeContestantShortName": "England",
+  "awayContestantShortName": "Iran",
+  "homeContestantCode": "ENG",
+  "awayContestantCode": "IRN",
+  "numberOfPeriods": 2,
+  "periodLength": 45,
+  "_round": 2
+}

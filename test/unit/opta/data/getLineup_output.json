@@ -1,0 +1,324 @@
+{
+  "actualTimeName": "Ende n. Penaltyschießen",
+  "actualTimeAlias": "KN",
+  "stadium": "Yayla-Arena",
+  "numberOfViewers": 0,
+  "teamBilance": {
+    "homeWin": 9,
+    "visitorWin": 9
+  },
+  "results": {
+    "extra_time": true,
+    "shooting": true,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 0,
+        "score_guest": 1
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "overtime": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "shootout": {
+        "score_home": 0,
+        "score_guest": 1
+      }
+    }
+  },
+  "home": {
+    "id": 5,
+    "name": "Krefeld Pinguine",
+    "shortcut": "KEV"
+  },
+  "away": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "lineup": {
+    "line1": [
+      {
+        "playerId": 1364,
+        "matchPlayerId": 121596,
+        "name": "Markus",
+        "surname": "Eisenschmid",
+        "jersey": 16,
+        "position": "FO",
+        "captain": false,
+        "startingSix": true,
+        "roster": "311"
+      },
+      {
+        "playerId": 1359,
+        "matchPlayerId": 121593,
+        "name": "Benjamin",
+        "surname": "Smith",
+        "jersey": 18,
+        "position": "FO",
+        "captain": true,
+        "startingSix": true,
+        "roster": "312"
+      },
+      {
+        "playerId": 1579,
+        "matchPlayerId": 121604,
+        "name": "Brendan",
+        "surname": "Shinnimin",
+        "jersey": 24,
+        "position": "FO",
+        "captain": false,
+        "startingSix": true,
+        "roster": "313"
+      },
+      {
+        "playerId": 1365,
+        "matchPlayerId": 121597,
+        "name": "Mark",
+        "surname": "Katic",
+        "jersey": 95,
+        "position": "DE",
+        "captain": false,
+        "startingSix": true,
+        "roster": "211"
+      },
+      {
+        "playerId": 1702,
+        "matchPlayerId": 121607,
+        "name": "Craig",
+        "surname": "Schira",
+        "jersey": 64,
+        "position": "DE",
+        "captain": false,
+        "startingSix": true,
+        "roster": "212"
+      }
+    ],
+    "line2": [
+      {
+        "playerId": 493,
+        "matchPlayerId": 121585,
+        "name": "David",
+        "surname": "Wolf",
+        "jersey": 89,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "321"
+      },
+      {
+        "playerId": 1194,
+        "matchPlayerId": 121591,
+        "name": "Andrew",
+        "surname": "Desjardins",
+        "jersey": 84,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "322"
+      },
+      {
+        "playerId": 487,
+        "matchPlayerId": 121584,
+        "name": "Matthias",
+        "surname": "Plachta",
+        "jersey": 22,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "323"
+      },
+      {
+        "playerId": 528,
+        "matchPlayerId": 121587,
+        "name": "Björn",
+        "surname": "Krupp",
+        "jersey": 5,
+        "position": "DE",
+        "captain": false,
+        "startingSix": false,
+        "roster": "221"
+      },
+      {
+        "playerId": 656,
+        "matchPlayerId": 121588,
+        "name": "Thomas",
+        "surname": "Larkin",
+        "jersey": 37,
+        "position": "DE",
+        "captain": false,
+        "startingSix": false,
+        "roster": "222"
+      }
+    ],
+    "line3": [
+      {
+        "playerId": 1742,
+        "matchPlayerId": 121611,
+        "name": "Sean",
+        "surname": "Collins",
+        "jersey": 81,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "331"
+      },
+      {
+        "playerId": 291,
+        "matchPlayerId": 121582,
+        "name": "Jason",
+        "surname": "Bast",
+        "jersey": 39,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "332"
+      },
+      {
+        "playerId": 926,
+        "matchPlayerId": 121589,
+        "name": "Felix",
+        "surname": "Schütz",
+        "jersey": 11,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "333"
+      },
+      {
+        "playerId": 23,
+        "matchPlayerId": 121578,
+        "name": "Sinan",
+        "surname": "Akdag",
+        "jersey": 7,
+        "position": "DE",
+        "captain": false,
+        "startingSix": false,
+        "roster": "231"
+      },
+      {
+        "playerId": 25,
+        "matchPlayerId": 121579,
+        "name": "Denis",
+        "surname": "Reul",
+        "jersey": 29,
+        "position": "DE",
+        "captain": false,
+        "startingSix": false,
+        "roster": "232"
+      }
+    ],
+    "line4": [
+      {
+        "playerId": 1578,
+        "matchPlayerId": 121603,
+        "name": "Florian",
+        "surname": "Elias",
+        "jersey": 77,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "341"
+      },
+      {
+        "playerId": 59,
+        "matchPlayerId": 121580,
+        "name": "Stefan",
+        "surname": "Loibl",
+        "jersey": 13,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "342"
+      },
+      {
+        "playerId": 1363,
+        "matchPlayerId": 121595,
+        "name": "Tommi",
+        "surname": "Huhtala",
+        "jersey": 61,
+        "position": "FO",
+        "captain": false,
+        "startingSix": false,
+        "roster": "343"
+      },
+      {
+        "playerId": 1473,
+        "matchPlayerId": 121599,
+        "name": "Moritz",
+        "surname": "Wirth",
+        "jersey": 70,
+        "position": "DE",
+        "captain": false,
+        "startingSix": false,
+        "roster": "241"
+      }
+    ],
+    "lineGoalie": [
+      {
+        "playerId": 516,
+        "matchPlayerId": 121586,
+        "name": "Felix",
+        "surname": "Brückmann",
+        "jersey": 90,
+        "position": "GK",
+        "captain": false,
+        "startingSix": true,
+        "roster": "101"
+      },
+      {
+        "playerId": 22,
+        "matchPlayerId": 121577,
+        "name": "Dennis",
+        "surname": "Endras",
+        "jersey": 44,
+        "position": "GK",
+        "captain": false,
+        "startingSix": false,
+        "roster": "102"
+      },
+      {
+        "playerId": 1557,
+        "matchPlayerId": 121602,
+        "name": "Arno",
+        "surname": "Tiefensee",
+        "jersey": 30,
+        "position": "GK",
+        "captain": false,
+        "startingSix": false,
+        "roster": "103"
+      }
+    ]
+  },
+  "side": "away",
+  "referees": {
+    "headReferee1": {
+      "id": 49,
+      "name": "Benjamin Hoppe"
+    },
+    "headReferee2": {
+      "id": 65,
+      "name": "Lasse Kopitz"
+    },
+    "lineReferee1": {
+      "id": 201,
+      "name": "Kai Jürgens"
+    },
+    "lineReferee2": {
+      "id": 91,
+      "name": "Christoffer Hurtik"
+    }
+  }
+}

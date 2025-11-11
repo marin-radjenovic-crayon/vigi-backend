@@ -1,0 +1,63 @@
+version: '3'
+services:
+  spovizz-api-aws:
+#    container_name: ${INSTANCEID}
+    restart: always
+    image: h2908577.stratoserver.net:5001/spovizz/${INSTANCEID}:1.0.0
+    #    image: ${INSTANCEID}:latest
+    env_file:
+      - .env.prod.aws
+    #    build:
+    #      dockerfile: Dockerfile
+    #      context: ""
+#    ports:
+#      - '15010:8080'
+    volumes:
+      - /data/docker-data/aws/screenshots:/usr/src/app/public/screenshots
+      - /data/docker-data/aws/upload:/usr/src/app/public/upload
+    networks:
+      default:
+        ipv4_address: 172.18.0.8
+#    deploy:
+#      replicas: 2  # Scale up the service to 2 instances
+#      update_config:
+#        parallelism: 1
+#        delay: 10s
+#      restart_policy:
+#        condition: on-failure
+  spovizz_chrome:
+    command: [ 'sh', 'run.sh' ]
+    image: chrome-image:2.0.1
+    build:
+      context: "./deployment/chrome"
+      dockerfile: "./Dockerfile"
+    networks:
+      default:
+        ipv4_address: 172.18.0.200
+    environment:
+      - TZ=Europe/Berlin
+    shm_size: 2gb
+  spovizz_mongo:
+    container_name: "spovizz-mongo-aws"
+    image: mongo
+    networks:
+      default:
+        ipv4_address: 172.18.0.9
+  redis:
+    container_name: redis
+    image: redis:alpine
+    command: redis-server --requirepass 2400632bd2d976c5a16661b78dd9ek21
+    ports:
+      - '6500:6379'
+    volumes:
+      - redis_data:/data
+    networks:
+      default:
+        ipv4_address: 172.18.0.2
+networks:
+  default:
+    external:
+      name: live_network
+volumes:
+  redis_data:
+    external: false

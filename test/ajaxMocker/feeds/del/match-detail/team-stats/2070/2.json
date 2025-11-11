@@ -1,0 +1,50 @@
+{
+  "shotEfficiency": 4.55,
+  "ppEfficiency": 20,
+  "shEfficiency": 100,
+  "ppCount": 5,
+  "shCount": 4,
+  "goals": 1,
+  "shotsAttempts": 49,
+  "shotsOnGoal": 22,
+  "shotsMissed": 14,
+  "shotsBlocked": 13,
+  "saves": 20,
+  "savesPercent": 83.33,
+  "ppGoals": 1,
+  "shGoals": 0,
+  "ppLosses": 4,
+  "penaltyMinutes": 8,
+  "powerPlaySeconds": 502,
+  "faceOffsWon": 31,
+  "faceOffsWonPercent": 55.36,
+  "periods": {
+    "1": {
+      "goals": 0,
+      "shotsOnGoal": 3,
+      "shotsBlocked": 2,
+      "faceOffsWon": 11,
+      "penaltyMinutes": 4,
+      "ppCount": 0,
+      "ppGoals": 0
+    },
+    "2": {
+      "goals": 0,
+      "shotsOnGoal": 9,
+      "shotsBlocked": 6,
+      "faceOffsWon": 10,
+      "penaltyMinutes": 2,
+      "ppCount": 3,
+      "ppGoals": 0
+    },
+    "3": {
+      "goals": 1,
+      "shotsOnGoal": 10,
+      "shotsBlocked": 5,
+      "faceOffsWon": 10,
+      "penaltyMinutes": 2,
+      "ppCount": 2,
+      "ppGoals": 1
+    }
+  }
+}

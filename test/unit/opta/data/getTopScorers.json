@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1172,
+    "name": "Matthew White",
+    "firstname": "Matthew",
+    "surname": "White",
+    "dateOfBirth": "1989-08-23",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 83,
+    "height": 180,
+    "jersey": 97,
+    "birthCountry": "Los Angeles, CA, USA",
+    "nationality": "USA",
+    "nationalityShort": "USA",
+    "statistics": {
+      "teamShortcut": "EBB",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 2
+      },
+      "penaltyMinutes": 0,
+      "positive": 2,
+      "negative": 0,
+      "pointsPerGame": 2,
+      "shotEfficiency": 40,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 1,
+      "gwGoals": 1,
+      "shotsAttempts": 6,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 5
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 1,
+      "faceoffsCount": 1,
+      "timeOnIce": 1338,
+      "timeOnIcePP": 258,
+      "timeOnIceSH": 285,
+      "timeOnIcePerGame": 1338,
+      "shifts": 28,
+      "shiftsPerGame": 28
+    }
+  },
+  {
+    "id": 1711,
+    "name": "Zachary Boychuk",
+    "firstname": "Zachary",
+    "surname": "Boychuk",
+    "dateOfBirth": "1989-10-04",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 84,
+    "height": 178,
+    "jersey": 89,
+    "birthCountry": "Airdrie, AB, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "EBB",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 2
+      },
+      "points": {
+        "home": 0,
+        "away": 2
+      },
+      "penaltyMinutes": 2,
+      "positive": 2,
+      "negative": 0,
+      "pointsPerGame": 2,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 2,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 1
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 2,
+      "faceoffsWin": 7,
+      "faceoffsLosses": 15,
+      "faceoffsCount": 22,
+      "timeOnIce": 1144,
+      "timeOnIcePP": 273,
+      "timeOnIceSH": 181,
+      "timeOnIcePerGame": 1144,
+      "shifts": 26,
+      "shiftsPerGame": 26
+    }
+  },
+  {
+    "id": 6,
+    "name": "Frank Hördler",
+    "firstname": "Frank",
+    "surname": "Hördler",
+    "dateOfBirth": "1985-01-26",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 88,
+    "height": 185,
+    "jersey": 7,
+    "birthCountry": "Bad Muskau, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "EBB",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 2,
+      "positive": 1,
+      "negative": 0,
+      "pointsPerGame": 1,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 3,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 1328,
+      "timeOnIcePP": 267,
+      "timeOnIceSH": 184,
+      "timeOnIcePerGame": 1328,
+      "shifts": 27,
+      "shiftsPerGame": 27
+    }
+  }
+]

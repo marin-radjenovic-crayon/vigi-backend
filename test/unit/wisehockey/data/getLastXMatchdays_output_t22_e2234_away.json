@@ -1,0 +1,237 @@
+[
+  {
+    "id": 2223,
+    "start_date": "2021-10-24 14:00:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "16",
+    "home": {
+      "id": 5,
+      "name": "Krefeld Pinguine",
+      "shortcut": "KEV"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  },
+  {
+    "id": 2220,
+    "start_date": "2021-10-22 19:30:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "15",
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "guest": {
+      "id": 13,
+      "name": "Augsburger Panther",
+      "shortcut": "AEV"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  },
+  {
+    "id": 2213,
+    "start_date": "2021-10-20 19:30:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "14",
+    "home": {
+      "id": 12,
+      "name": "EHC Red Bull München",
+      "shortcut": "RBM"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  },
+  {
+    "id": 2204,
+    "start_date": "2021-10-17 16:30:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "13",
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "guest": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  },
+  {
+    "id": 2199,
+    "start_date": "2021-10-15 19:30:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "12",
+    "home": {
+      "id": 15,
+      "name": "Schwenninger Wild Wings",
+      "shortcut": "SWW"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  }
+]

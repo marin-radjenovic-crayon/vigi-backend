@@ -1,0 +1,249 @@
+[
+  {
+    "id": 2063,
+    "start_date": "2021-04-09 19:30:00",
+    "real_end_date": "2021-04-09 21:43:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "38",
+    "home": {
+      "id": 4,
+      "name": "Düsseldorfer EG",
+      "shortcut": "DEG"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": 1,
+    "results": {
+      "extra_time": true,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 2,
+          "score_guest": 3
+        },
+        "first_period": {
+          "score_home": 1,
+          "score_guest": 1
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 1,
+          "score_guest": 1
+        },
+        "overtime": {
+          "score_home": 0,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende n. Verlängerung",
+    "actual_time_alias": "KP",
+    "last_event_time": 3781
+  },
+  {
+    "id": 2059,
+    "start_date": "2021-04-08 18:30:00",
+    "real_end_date": "2021-04-08 21:02:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "37",
+    "home": {
+      "id": 11,
+      "name": "Kölner Haie",
+      "shortcut": "KEC"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": 1,
+    "results": {
+      "extra_time": true,
+      "shooting": true,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 2,
+          "score_guest": 3
+        },
+        "first_period": {
+          "score_home": 2,
+          "score_guest": 1
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 1
+        },
+        "overtime": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "shootout": {
+          "score_home": 0,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende n. Penaltyschießen",
+    "actual_time_alias": "KN",
+    "last_event_time": 3900
+  },
+  {
+    "id": 2049,
+    "start_date": "2021-04-05 18:30:00",
+    "real_end_date": "2021-04-05 20:47:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "36",
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "guest": {
+      "id": 9,
+      "name": "Pinguins Bremerhaven",
+      "shortcut": "BHV"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 1,
+          "score_guest": 2
+        },
+        "first_period": {
+          "score_home": 1,
+          "score_guest": 1
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 1
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  },
+  {
+    "id": 2040,
+    "start_date": "2021-04-03 17:30:00",
+    "real_end_date": "2021-04-03 19:42:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "35",
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "guest": {
+      "id": 11,
+      "name": "Kölner Haie",
+      "shortcut": "KEC"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 5,
+          "score_guest": 1
+        },
+        "first_period": {
+          "score_home": 1,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 1,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 3,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  },
+  {
+    "id": 2035,
+    "start_date": "2021-04-01 19:30:00",
+    "real_end_date": "2021-04-01 21:48:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2020",
+    "round": "34",
+    "home": {
+      "id": 7,
+      "name": "Iserlohn Roosters",
+      "shortcut": "IEC"
+    },
+    "guest": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 2,
+          "score_guest": 4
+        },
+        "first_period": {
+          "score_home": 1,
+          "score_guest": 1
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 2
+        },
+        "third_period": {
+          "score_home": 1,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  }
+]

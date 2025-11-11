@@ -1,0 +1,2 @@
+CONFIGTYPE=onefootball_live
+INSTANCEID=spovizz-onefootball-app

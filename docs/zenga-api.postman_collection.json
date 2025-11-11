@@ -1,0 +1,1651 @@
+{
+	"info": {
+		"_postman_id": "704f8d6a-b0f9-43cb-88e1-3f964d5e4a14",
+		"name": "zenga-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "auth",
+			"item": [
+				{
+					"name": "/register",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "Accept-Language",
+								"value": "en",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "My Name",
+									"type": "text"
+								},
+								{
+									"key": "email",
+									"value": "my@email.com",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "12345",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/auth/register",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/verify",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "id",
+									"value": "b98b1dea-b3f4-4b72-bcdf-9d36607e2603",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/auth/verify",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"auth",
+								"verify"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/forgot",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "Accept-Language",
+								"value": "en",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "email",
+									"value": "admin@admin.com",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/auth/forgot",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"auth",
+								"forgot"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/reset",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "id",
+									"value": "f5b08991-02fc-4f3d-9a32-6d703bef5c57",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "12345",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/auth/reset",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"auth",
+								"reset"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/login",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"//- auto populates token to environment variables",
+									"pm.test(\"Token returned from login, added to environment.\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"token\");",
+									"    const jsonData = pm.response.json();",
+									"    pm.environment.set('authToken', jsonData.token);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "email",
+									"value": "admin@admin.com",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "12345",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/auth/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/token",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/auth/token",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"auth",
+								"token"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "users",
+			"item": [
+				{
+					"name": "/users",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/users?filter={\"name\": { \"$regex\": \"admin\", \"$options\":\"i\"}}&page=1&limit=10&sort=name&order=-1",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"users"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"name\": { \"$regex\": \"admin\", \"$options\":\"i\"}}"
+								},
+								{
+									"key": "page",
+									"value": "1"
+								},
+								{
+									"key": "limit",
+									"value": "10"
+								},
+								{
+									"key": "sort",
+									"value": "name"
+								},
+								{
+									"key": "order",
+									"value": "-1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/users",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "New User",
+									"type": "text"
+								},
+								{
+									"key": "email",
+									"value": "myemail@email.com",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "12345",
+									"type": "text"
+								},
+								{
+									"key": "role",
+									"value": "admin",
+									"type": "text"
+								},
+								{
+									"key": "phone",
+									"value": "123123",
+									"type": "text"
+								},
+								{
+									"key": "city",
+									"value": "Bucaramamga",
+									"type": "text"
+								},
+								{
+									"key": "country",
+									"value": "Colombia",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/users",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/users/:id",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{server}}/users/5aab2443ef417d2d19e6c8f2",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"users",
+								"5aab2443ef417d2d19e6c8f2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/users/:id",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/users/5aa1c2c35ef7a4e97b5e995a",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"users",
+								"5aa1c2c35ef7a4e97b5e995a"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/users/:id",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "New Name",
+									"type": "text"
+								},
+								{
+									"key": "email",
+									"value": "new@email.com",
+									"type": "text"
+								},
+								{
+									"key": "role",
+									"value": "admin",
+									"type": "text"
+								},
+								{
+									"key": "phone",
+									"value": "12345",
+									"type": "text"
+								},
+								{
+									"key": "city",
+									"value": "Cali",
+									"type": "text"
+								},
+								{
+									"key": "country",
+									"value": "Colombia",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://localhost:3000/users/5aa1c2c35ef7a4e97b5e995a",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"5aa1c2c35ef7a4e97b5e995a"
+							],
+							"query": [
+								{
+									"key": "sort",
+									"value": "id ASC",
+									"disabled": true
+								},
+								{
+									"key": "skip",
+									"value": "3",
+									"disabled": true
+								},
+								{
+									"key": "where",
+									"value": "{ 'email' : { startsWith : 'f' } }",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "events",
+			"item": [
+				{
+					"name": "/events",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/events",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"events"
+							]
+						},
+						"description": "get event saved in setup"
+					},
+					"response": []
+				},
+				{
+					"name": "/events/:cid/:tid/:mid",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/events/1/11/1000",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"events",
+								"1",
+								"11",
+								"1000"
+							]
+						},
+						"description": "get event saved in setup"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "profile",
+			"item": [
+				{
+					"name": "/profile",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/profile",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"profile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/profile",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "My Name",
+									"type": "text"
+								},
+								{
+									"key": "urlTwitter",
+									"value": "https://hello.com",
+									"type": "text"
+								},
+								{
+									"key": "urlGitHub",
+									"value": "https://hello.io",
+									"type": "text"
+								},
+								{
+									"key": "phone",
+									"value": "444444",
+									"type": "text"
+								},
+								{
+									"key": "city",
+									"value": "Boston2",
+									"type": "text"
+								},
+								{
+									"key": "country",
+									"value": "Colombia2",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/profile",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"profile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/profile/changePassword",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "oldPassword",
+									"value": "12345",
+									"type": "text"
+								},
+								{
+									"key": "newPassword",
+									"value": "12345",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/profile/changePassword",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"profile",
+								"changePassword"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "templates",
+			"item": [
+				{
+					"name": "/templates/all",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates/all",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/template with filters",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates?filter={\"season\":\"2021\"}&sort=name&order=1",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"season\":\"2021\"}"
+								},
+								{
+									"key": "sort",
+									"value": "name"
+								},
+								{
+									"key": "order",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/template by template ids, with selected columns",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates?filter={\"uuid\":[\"0004\", \"0001\"]}&sort=name&order=1&projection=[\"data.options.id\", \"data.options.value\"]",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"uuid\":[\"0004\", \"0001\"]}"
+								},
+								{
+									"key": "sort",
+									"value": "name"
+								},
+								{
+									"key": "order",
+									"value": "1"
+								},
+								{
+									"key": "projection",
+									"value": "[\"data.options.id\", \"data.options.value\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates by matchday",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates?filter={\"season\":\"2021\", \"event.id\": \"5000\"}&sort=name&order=1",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"season\":\"2021\", \"event.id\": \"5000\"}"
+								},
+								{
+									"key": "sort",
+									"value": "name"
+								},
+								{
+									"key": "order",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "Miami",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/templates",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates/:id",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Accept-Language",
+								"value": "es",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates/playerfacts/0",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"playerfacts",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates/:id",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "Seatle2",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/templates/5bd08db979bbc504c14ebfdd",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"5bd08db979bbc504c14ebfdd"
+							],
+							"query": [
+								{
+									"key": "sort",
+									"value": "id ASC",
+									"disabled": true
+								},
+								{
+									"key": "skip",
+									"value": "3",
+									"disabled": true
+								},
+								{
+									"key": "where",
+									"value": "{ 'email' : { startsWith : 'f' } }",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates/:id",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{server}}/templates/5b38171b1843d58427c5d6c4",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"5b38171b1843d58427c5d6c4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "timelines",
+			"item": [
+				{
+					"name": "/templates/all",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates/all",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/template with filters",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates?filter={\"season\":\"2021\"}&sort=name&order=1",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"season\":\"2021\"}"
+								},
+								{
+									"key": "sort",
+									"value": "name"
+								},
+								{
+									"key": "order",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates by matchday",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates?filter={\"season\":\"2021\", \"event.id\": \"5000\"}&sort=name&order=1",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"season\":\"2021\", \"event.id\": \"5000\"}"
+								},
+								{
+									"key": "sort",
+									"value": "name"
+								},
+								{
+									"key": "order",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "Miami",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/templates",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates/:id",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Accept-Language",
+								"value": "es",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{server}}/templates/playerfacts/0",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"playerfacts",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates/:id",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded"
+							}
+						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "Seatle2",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{server}}/templates/5bd08db979bbc504c14ebfdd",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"5bd08db979bbc504c14ebfdd"
+							],
+							"query": [
+								{
+									"key": "sort",
+									"value": "id ASC",
+									"disabled": true
+								},
+								{
+									"key": "skip",
+									"value": "3",
+									"disabled": true
+								},
+								{
+									"key": "where",
+									"value": "{ 'email' : { startsWith : 'f' } }",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates/:id",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{server}}/templates/5b38171b1843d58427c5d6c4",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"templates",
+								"5b38171b1843d58427c5d6c4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "screenshot",
+			"item": [
+				{
+					"name": "/templates",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}",
+								"disabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"actions\":[\n    {\"templateId\":\"000000-0000-0000-1000\",\n    \"url\":\"https://wp.pl\",\n    \"dir\":\"playerfacts\",\"format\":\"1920x1080\",\"preview\":true}\n]\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/screenshot",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"screenshot"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/templates custom waitForSelector",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}",
+								"disabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"chrome\": {\n        \"waitForSelector\": \".template-container > div\"\n    },\n    \"actions\":[\n    {\"templateId\":\"000000-0000-0000-1000\",\n    \"url\":\"https://wp.pl\",\n    \"dir\":\"playerfacts\",\"format\":\"1920x1080\",\"preview\":true}\n]\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/screenshot",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"screenshot"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "videos",
+			"item": [
+				{
+					"name": "/templates",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \"template_uuid\": \"0001\",\n        \"template_name\": \"playerfacts\",\n        \"name\": \"Player Facts (04.06)\",\n        \"format\": \"1920x1080\",\n        \"event\": {\n          \"selectedTeamId\": \"11\",\n          \"competitionId\": \"1\",\n          \"competitionName\": \"Bundesliga\",\n          \"type\": \"match\",\n          \"homeTeamId\": \"11\",\n          \"awayTeamId\": \"20\",\n          \"side\": \"home\",\n          \"eventId\": \"1000\",\n          \"dateObj\": \"202130203023\"\n        },\n        \"videoquery\": {\n          \"url\": \"http://localhost:3001/frontend/video/playerfacts/0001\",\n          \"seconds\": 10,\n          \"webhook\": \"http://localhost:3000/webhook/videoproduction\",\n          \"sound\": \"https://ia800201.us.archive.org/6/items/WeWillRockYou_95/08.Queen-WeWillRockYou-weAreTheChampions.mp3\",\n          \"width\": 1920,\n          \"height\": 1080\n        }\n      }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/videos/template",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"videos",
+								"template"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "upload",
+			"item": [
+				{
+					"name": "/upload",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}",
+								"disabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "label",
+									"value": "test_image",
+									"type": "text"
+								},
+								{
+									"key": "daasd",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/home/desiqx/Downloads/PENNY-DEL-LOGO_rgb.png"
+								}
+							],
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/upload",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"upload"
+							]
+						},
+						"description": "upload file with optional label, and save in db"
+					},
+					"response": []
+				},
+				{
+					"name": "/upload",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}",
+								"disabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/upload?filter={\"content_type\": \"image\", \"group\": \"players\"}",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"upload"
+							],
+							"query": [
+								{
+									"key": "filter",
+									"value": "{\"content_type\": \"image\", \"group\": \"players\"}"
+								}
+							]
+						},
+						"description": "get uploaded files by filter"
+					},
+					"response": []
+				},
+				{
+					"name": "/upload",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}",
+								"disabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"uuid\": [\"80591485-b258-4801-9039-23f543f569d3\"]}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/upload",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"upload"
+							]
+						},
+						"description": "get uploaded files by filter"
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "setup",
+			"item": [
+				{
+					"name": "/setup/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{authToken}}",
+								"disabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/setup/1",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"setup",
+								"1"
+							]
+						},
+						"description": "get uploaded files by filter"
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "ws",
+			"item": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "server",
+			"value": "http://localhost:3000"
+		},
+		{
+			"key": "authToken",
+			"value": "4fcf3f78138f61fe6273dbd1d6c05f15e30496d7a085919bbcdcf11f271dcecfb564cd09ae8877ede8f0b29ede2a1cbf04de20a3b81e8b5f942704e99706889e94b7594bf85ca12dee93dc0970c79a627917698bf7b2afe528dbab1e2e0fcef8661ca3f7801f52d8944be0b58ca90caa8ccc51da747269306c19533fe3c1497cea5a5fb771f4aebbf8c76e7bf85ac1e2f065d4247353b9c8db572b182e5b6b452108bea37d35a2d4e2b67ff448ae2e1241b14795b64f2f13904d9c8025afc624"
+		}
+	]
+}

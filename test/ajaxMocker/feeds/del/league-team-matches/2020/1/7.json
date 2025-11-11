@@ -1,0 +1,1803 @@
+{
+  "matches": [
+    {
+      "id": 1829,
+      "start_date": "2020-12-23 20:30:00",
+      "real_end_date": "2020-12-23 22:52:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "2",
+      "home": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1833,
+      "start_date": "2020-12-27 17:00:00",
+      "real_end_date": "2020-12-27 19:22:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "3",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 4,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1837,
+      "start_date": "2020-12-29 20:30:00",
+      "real_end_date": "2020-12-29 22:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "4",
+      "home": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1849,
+      "start_date": "2021-01-05 19:30:00",
+      "real_end_date": "2021-01-05 21:52:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "5",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1851,
+      "start_date": "2021-01-07 20:30:00",
+      "real_end_date": "2021-01-07 22:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "6",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 6
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 4
+          },
+          "second_period": {
+            "score_home": 4,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3739
+    },
+    {
+      "id": 1860,
+      "start_date": "2021-01-11 20:30:00",
+      "real_end_date": "2021-01-11 23:11:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "7",
+      "home": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1864,
+      "start_date": "2021-01-13 20:30:00",
+      "real_end_date": "2021-01-13 22:56:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "8",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 6,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1867,
+      "start_date": "2021-01-15 18:30:00",
+      "real_end_date": "2021-01-15 20:51:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "9",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3730
+    },
+    {
+      "id": 1873,
+      "start_date": "2021-01-18 20:30:00",
+      "real_end_date": "2021-01-18 22:41:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "10",
+      "home": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1882,
+      "start_date": "2021-01-22 20:30:00",
+      "real_end_date": "2021-01-22 22:52:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "11",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 6
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1894,
+      "start_date": "2021-01-28 18:30:00",
+      "real_end_date": "2021-01-28 20:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "13",
+      "home": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1899,
+      "start_date": "2021-01-31 19:30:00",
+      "real_end_date": "2021-01-31 21:55:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "14",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3740
+    },
+    {
+      "id": 1907,
+      "start_date": "2021-02-03 20:30:00",
+      "real_end_date": "2021-02-03 22:42:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "15",
+      "home": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 7
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 5
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1910,
+      "start_date": "2021-02-05 20:30:00",
+      "real_end_date": "2021-02-05 22:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "16",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3716
+    },
+    {
+      "id": 1916,
+      "start_date": "2021-02-12 18:30:00",
+      "real_end_date": "2021-02-12 20:49:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "17",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1928,
+      "start_date": "2021-02-18 18:30:00",
+      "real_end_date": "2021-02-18 20:55:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "19",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1939,
+      "start_date": "2021-02-23 18:30:00",
+      "real_end_date": "2021-02-23 20:41:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "20",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1943,
+      "start_date": "2021-02-25 20:30:00",
+      "real_end_date": "2021-02-25 22:46:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "21",
+      "home": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1947,
+      "start_date": "2021-02-28 17:00:00",
+      "real_end_date": "2021-02-28 19:13:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "22",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1952,
+      "start_date": "2021-03-02 20:30:00",
+      "real_end_date": "2021-03-02 22:55:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "23",
+      "home": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3833
+    },
+    {
+      "id": 1961,
+      "start_date": "2021-03-07 17:00:00",
+      "real_end_date": "2021-03-07 19:14:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "24",
+      "home": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1969,
+      "start_date": "2021-03-10 20:30:00",
+      "real_end_date": "2021-03-10 22:46:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "25",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 4,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1972,
+      "start_date": "2021-03-12 20:30:00",
+      "real_end_date": "2021-03-12 23:00:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "26",
+      "home": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1980,
+      "start_date": "2021-03-15 18:30:00",
+      "real_end_date": "2021-03-15 20:41:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "27",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1998,
+      "start_date": "2021-03-20 17:30:00",
+      "real_end_date": "2021-03-20 19:41:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "29",
+      "home": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 7,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 3
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2006,
+      "start_date": "2021-03-23 20:30:00",
+      "real_end_date": "2021-03-23 22:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "30",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 8,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2017,
+      "start_date": "2021-03-26 19:30:00",
+      "real_end_date": "2021-03-26 21:55:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "31",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 2023,
+      "start_date": "2021-03-29 18:30:00",
+      "real_end_date": "2021-03-29 20:43:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "32",
+      "home": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3898
+    },
+    {
+      "id": 2029,
+      "start_date": "2021-03-30 18:30:00",
+      "real_end_date": "2021-03-30 21:05:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "33",
+      "home": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3769
+    },
+    {
+      "id": 2035,
+      "start_date": "2021-04-01 19:30:00",
+      "real_end_date": "2021-04-01 21:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "34",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2041,
+      "start_date": "2021-04-15 19:30:00",
+      "real_end_date": "2021-04-15 21:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "35",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2058,
+      "start_date": "2021-04-08 18:30:00",
+      "real_end_date": "2021-04-08 20:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "37",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3793
+    },
+    {
+      "id": 2064,
+      "start_date": "2021-04-09 19:30:00",
+      "real_end_date": "2021-04-09 21:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "38",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 4
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2068,
+      "start_date": "2021-04-11 19:30:00",
+      "real_end_date": "2021-04-11 21:47:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "39",
+      "home": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 4
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2076,
+      "start_date": "2021-04-13 20:30:00",
+      "real_end_date": "2021-04-13 23:00:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "40",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3797
+    },
+    {
+      "id": 2086,
+      "start_date": "2021-04-16 19:30:00",
+      "real_end_date": "2021-04-16 22:08:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "41",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2091,
+      "start_date": "2021-04-18 14:30:00",
+      "real_end_date": "2021-04-18 16:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "42",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    }
+  ]
+}

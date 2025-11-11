@@ -1,0 +1,12 @@
+version: "3"
+services:
+  spovizz_app:
+    container_name: ${INSTANCEID}
+    restart: always
+    image: h2908577.stratoserver.net:5001/spovizz/${INSTANCEID}:1.0.2
+    env_file:
+      - .env.prod.test
+networks:
+  default:
+    external:
+      name: live_network

@@ -1,0 +1,94 @@
+[
+  {
+    "eventId": "1000",
+    "teamId": "11",
+    "competitionId": "1",
+    "competitionName": "Bundesliga",
+    "date": "20.03.2021",
+    "time": "19:00",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Hannover 96 A",
+      "id": "11",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "FC Kaiserslautern A",
+      "id": "20",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  },
+  {
+    "eventId": "1001",
+    "teamId": "11",
+    "competitionId": "1",
+    "competitionName": "Bundesliga",
+    "date": "23.03.2021",
+    "time": "19:30",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Team 2 A",
+      "id": "22",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "Team 4 A",
+      "id": "20",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  },
+  {
+    "eventId": "1002",
+    "teamId": "11",
+    "competitionId": "1",
+    "competitionName": "Bundesliga",
+    "date": "26.03.2021",
+    "time": "19:30",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Team 3",
+      "id": "33",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "Team 1",
+      "id": "20",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  },
+  {
+    "eventId": "1003",
+    "teamId": "11",
+    "competitionId": "1",
+    "competitionName": "Bundesliga",
+    "date": "26.03.2021",
+    "time": "19:30",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Team 3",
+      "id": "11",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "Team 1",
+      "id": "44",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  }
+]

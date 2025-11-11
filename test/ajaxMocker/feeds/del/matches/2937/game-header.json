@@ -1,0 +1,85 @@
+{
+  "actualTimeName": "Ende",
+  "actualTimeAlias": "K",
+  "stadium": "SAP Arena",
+  "numberOfViewers": 7990,
+  "referees": {
+    "headReferee1": {
+      "id": 120,
+      "name": "Marc Iwert"
+    },
+    "headReferee2": {
+      "id": 284,
+      "name": "Roman Gofman"
+    },
+    "lineReferee1": {
+      "id": 254,
+      "name": "Jan Philipp Priebsch"
+    },
+    "lineReferee2": {
+      "id": 201,
+      "name": "Kai Jürgens"
+    }
+  },
+  "teamInfo": {
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "visitor": {
+      "id": 7,
+      "name": "Iserlohn Roosters",
+      "shortcut": "IEC"
+    }
+  },
+  "trainers": {
+    "visitorHeadCoach": {
+      "id": 378,
+      "name": "Greg Poss"
+    },
+    "homeHeadCoach": {
+      "id": 362,
+      "name": "Bill Stewart"
+    }
+  },
+  "teamBilance": {
+    "homeWin": 13,
+    "visitorWin": 13
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 0,
+        "score_guest": 3
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 2
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 1
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": 1768,
+      "name": "Korbinian Holzer"
+    },
+    "visitor": {
+      "id": 2183,
+      "name": "Emile Poirier"
+    }
+  },
+  "overtimeCount": null,
+  "lastEventTime": 3600
+}

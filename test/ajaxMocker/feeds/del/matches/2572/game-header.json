@@ -1,0 +1,85 @@
+{
+  "actualTimeName": "Ende",
+  "actualTimeAlias": "K",
+  "stadium": "SAP Arena",
+  "numberOfViewers": 11512,
+  "referees": {
+    "headReferee1": {
+      "id": 267,
+      "name": "Sean MacFarlane"
+    },
+    "headReferee2": {
+      "id": 226,
+      "name": "Aleksi Rantala"
+    },
+    "lineReferee1": {
+      "id": 51,
+      "name": "Andreas Hofer"
+    },
+    "lineReferee2": {
+      "id": 205,
+      "name": "Marius Wölzmüller"
+    }
+  },
+  "teamInfo": {
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "visitor": {
+      "id": 3,
+      "name": "Eisbären Berlin",
+      "shortcut": "EBB"
+    }
+  },
+  "trainers": {
+    "visitorHeadCoach": {
+      "id": 581,
+      "name": "Serge Aubin"
+    },
+    "homeHeadCoach": {
+      "id": 362,
+      "name": "Bill Stewart"
+    }
+  },
+  "teamBilance": {
+    "homeWin": 6,
+    "visitorWin": 6
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 4,
+        "score_guest": 3
+      },
+      "first_period": {
+        "score_home": 1,
+        "score_guest": 1
+      },
+      "second_period": {
+        "score_home": 2,
+        "score_guest": 2
+      },
+      "third_period": {
+        "score_home": 1,
+        "score_guest": 0
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": 1365,
+      "name": "Mark Katic"
+    },
+    "visitor": {
+      "id": 1711,
+      "name": "Zachary Boychuk"
+    }
+  },
+  "overtimeCount": null,
+  "lastEventTime": 3600
+}

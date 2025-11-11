@@ -1,0 +1,62 @@
+[
+  {
+    "contestantId": "9gefq4dz9b2hl8rqrxwrlrzmp",
+    "contestantName": "Rasen Ballsport Leipzig",
+    "id": "1j0a3ml1zglc9s31yentfckb9",
+    "firstName": "Christopher Alan",
+    "lastName": "Nkunku",
+    "shortFirstName": "Christopher",
+    "shortLastName": "Nkunku",
+    "matchName": "C. Nkunku",
+    "rank": 1,
+    "value": 11
+  },
+  {
+    "contestantId": "cu0eztmjcsbydyp53aleznorw",
+    "contestantName": "SV Werder Bremen",
+    "id": "cjq9g6zgcxk1ceo2xzpe1qnyt",
+    "firstName": "Niclas",
+    "lastName": "Füllkrug",
+    "shortFirstName": "Niclas",
+    "shortLastName": "Füllkrug",
+    "matchName": "N. Füllkrug",
+    "rank": 2,
+    "value": 10
+  },
+  {
+    "contestantId": "go76xxm0xyfgqt1h6tcrtimm",
+    "contestantName": "Borussia VfL Mönchengladbach",
+    "id": "66nvc8a4kd3cyeyj3i474cudx",
+    "firstName": "Marcus Lilian",
+    "lastName": "Thuram-Ulien",
+    "shortFirstName": "Marcus",
+    "shortLastName": "Thuram",
+    "matchName": "M. Thuram",
+    "rank": 3,
+    "value": 9
+  },
+  {
+    "contestantId": "apoawtpvac4zqlancmvw4nk4o",
+    "contestantName": "FC Bayern München",
+    "id": "bhsdzppop8jwjsxwftizot1t6",
+    "firstName": "Jamal",
+    "lastName": "Musiala",
+    "shortFirstName": "Jamal",
+    "shortLastName": "Musiala",
+    "matchName": "J. Musiala",
+    "rank": 4,
+    "value": 8
+  },
+  {
+    "contestantId": "c5hderjlkcoaze51e5wgvptk",
+    "contestantName": "Eintracht Frankfurt",
+    "id": "az15xx7m923srf9gdbwmiyga1",
+    "firstName": "Daichi",
+    "lastName": "Kamada",
+    "shortFirstName": "Daichi",
+    "shortLastName": "Kamada",
+    "matchName": "D. Kamada",
+    "rank": 5,
+    "value": 7
+  }
+]

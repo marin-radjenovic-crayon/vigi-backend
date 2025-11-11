@@ -1,0 +1,55 @@
+{
+  "id": 2079,
+  "start_date": "2021-04-13 20:30:00",
+  "real_end_date": "2021-04-13 22:50:00",
+  "league_id": 1,
+  "league": "DEL",
+  "season": "2020",
+  "round": "40",
+  "home": {
+    "id": 5,
+    "name": "Krefeld Pinguine",
+    "shortcut": "KEV"
+  },
+  "guest": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "status": "AFTER_MATCH",
+  "overtimeCount": 1,
+  "results": {
+    "extra_time": true,
+    "shooting": true,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 0,
+        "score_guest": 1
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "overtime": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "shootout": {
+        "score_home": 0,
+        "score_guest": 1
+      }
+    }
+  },
+  "actual_time_name": "Ende n. Penaltyschießen",
+  "actual_time_alias": "KN",
+  "last_event_time": 3900
+}

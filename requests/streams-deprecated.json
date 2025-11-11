@@ -1,0 +1,72 @@
+[
+  {
+    "label": "Spanish La Liga DE",
+    "streamer": "streamer-1.vigitalsolutions.com",
+    "streamId": "spanish-la-liga-de",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0c067933-8f3c-4748-8801-9780714a98d8?format=1920x1080&lng=de&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/0c067933-8f3c-4748-8801-9780714a98d8?format=1920x1080&lng=de&stream=audio",
+    "hls": "https://streamer-1.vigitalsolutions.com:10000/hls/spanish-la-liga-de/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-1.vigitalsolutions.com:10000/hls/spanish-la-liga-de/stream.m3u8"
+  },
+  {
+    "label": "Spanish La Liga EN",
+    "streamer": "streamer-1.vigitalsolutions.com",
+    "streamId": "spanish-la-liga-en",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0c067933-8f3c-4748-8801-9780714a98d8?format=1920x1080&lng=en&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/0c067933-8f3c-4748-8801-9780714a98d8?format=1920x1080&lng=en&stream=audio",
+    "hls": "https://streamer-1.vigitalsolutions.com:10000/hls/spanish-la-liga-en/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-1.vigitalsolutions.com:10000/hls/spanish-la-liga-en/stream.m3u8"
+  },
+  {
+    "label": "Italian Serie A DE",
+    "streamer": "streamer-1.vigitalsolutions.com",
+    "streamId": "italian-serie-a-de",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/8d943150-7e5e-4773-b6d8-2fcc3100ba8d?format=1920x1080&lng=de&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/8d943150-7e5e-4773-b6d8-2fcc3100ba8d?format=1920x1080&lng=de&stream=audio",
+    "hls": "https://streamer-1.vigitalsolutions.com:10000/hls/italian-serie-a-de/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-1.vigitalsolutions.com:10000/hls/italian-serie-a-de/stream.m3u8"
+  },
+  {
+    "label": "Italian Serie A EN",
+    "streamer": "streamer-1.vigitalsolutions.com",
+    "streamId": "italian-serie-a-en",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/8d943150-7e5e-4773-b6d8-2fcc3100ba8d?format=1920x1080&lng=en&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/8d943150-7e5e-4773-b6d8-2fcc3100ba8d?format=1920x1080&lng=en&stream=audio",
+    "hls": "https://streamer-1.vigitalsolutions.com:10000/hls/italian-serie-a-en/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-1.vigitalsolutions.com:10000/hls/italian-serie-a-en/stream.m3u8"
+  },
+  {
+    "label": "UEFA EM DFB 2024 DE",
+    "streamer": "streamer-3.vigitalsolutions.com",
+    "streamId": "euro-2024-dfb-de",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/0ab75b17-c747-4604-9904-528a0fe68bc2?format=1920x1080&lng=de&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/0ab75b17-c747-4604-9904-528a0fe68bc2?format=1920x1080&lng=de&stream=audio",
+    "hls": "https://streamer-3.vigitalsolutions.com:10000/hls/euro-2024-dfb-de/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-3.vigitalsolutions.com:10000/hls/euro-2024-dfb-de/stream.m3u8"
+  },
+  {
+    "label": "UEFA Euro 2024 EN",
+    "streamer": "streamer-3.vigitalsolutions.com",
+    "streamId": "euro-2024-en",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/d85a30de-2bae-4d57-9587-6a692989833b?format=1920x1080&lng=en&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/d85a30de-2bae-4d57-9587-6a692989833b?format=1920x1080&lng=en&stream=audio",
+    "hls": "https://streamer-3.vigitalsolutions.com:10000/hls/euro-2024-en/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-3.vigitalsolutions.com:10000/hls/euro-2024-en/stream.m3u8"
+  },
+  {
+    "label": "UEFA Euro 2024 DE",
+    "streamer": "streamer-3.vigitalsolutions.com",
+    "streamId": "euro-2024-de",
+    "scte35": true,
+    "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/d85a30de-2bae-4d57-9587-6a692989833b?format=1920x1080&lng=de&stream=audio&ads=true",
+    "urlPreview": "https://app.womansworldcup.spovizz.com/frontend/timeline/d85a30de-2bae-4d57-9587-6a692989833b?format=1920x1080&lng=de&stream=audio",
+    "hls": "https://streamer-3.vigitalsolutions.com:10000/hls/euro-2024-de/ads/master.m3u8",
+    "hlsNoAds": "https://streamer-3.vigitalsolutions.com:10000/hls/euro-2024-de/stream.m3u8"
+  }
+]

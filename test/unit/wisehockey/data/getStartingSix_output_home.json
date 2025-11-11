@@ -1,0 +1,138 @@
+{
+  "actualTimeName": "Ende n. Penaltyschießen",
+  "actualTimeAlias": "KN",
+  "stadium": "Yayla-Arena",
+  "numberOfViewers": 0,
+  "teamBilance": {
+    "homeWin": 9,
+    "visitorWin": 9
+  },
+  "results": {
+    "extra_time": true,
+    "shooting": true,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 0,
+        "score_guest": 1
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "overtime": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "shootout": {
+        "score_home": 0,
+        "score_guest": 1
+      }
+    }
+  },
+  "home": {
+    "id": 5,
+    "name": "Krefeld Pinguine",
+    "shortcut": "KEV"
+  },
+  "away": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "startingSix": [
+    {
+      "playerId": 1539,
+      "matchPlayerId": 121573,
+      "name": "Philipp",
+      "surname": "Mass",
+      "jersey": 83,
+      "position": "DE",
+      "captain": false,
+      "startingSix": true,
+      "roster": "211"
+    },
+    {
+      "playerId": 1544,
+      "matchPlayerId": 121558,
+      "name": "Lucas",
+      "surname": "Lessio",
+      "jersey": 6,
+      "position": "FO",
+      "captain": false,
+      "startingSix": true,
+      "roster": "311"
+    },
+    {
+      "playerId": 1010,
+      "matchPlayerId": 121568,
+      "name": "Brett",
+      "surname": "Olson",
+      "jersey": 16,
+      "position": "FO",
+      "captain": false,
+      "startingSix": true,
+      "roster": "312"
+    },
+    {
+      "playerId": 4,
+      "matchPlayerId": 121551,
+      "name": "Constantin",
+      "surname": "Braun",
+      "jersey": 11,
+      "position": "DE",
+      "captain": false,
+      "startingSix": true,
+      "roster": "313"
+    },
+    {
+      "playerId": 1086,
+      "matchPlayerId": 121569,
+      "name": "Mirko",
+      "surname": "Sacher",
+      "jersey": 19,
+      "position": "DE",
+      "captain": false,
+      "startingSix": true,
+      "roster": "212"
+    },
+    {
+      "playerId": 1,
+      "matchPlayerId": 121554,
+      "name": "Marvin",
+      "surname": "Cüpper",
+      "jersey": 39,
+      "position": "GK",
+      "captain": false,
+      "startingSix": true,
+      "roster": "101"
+    }
+  ],
+  "side": "home",
+  "referees": {
+    "headReferee1": {
+      "id": 49,
+      "name": "Benjamin Hoppe"
+    },
+    "headReferee2": {
+      "id": 65,
+      "name": "Lasse Kopitz"
+    },
+    "lineReferee1": {
+      "id": 201,
+      "name": "Kai Jürgens"
+    },
+    "lineReferee2": {
+      "id": 91,
+      "name": "Christoffer Hurtik"
+    }
+  }
+}

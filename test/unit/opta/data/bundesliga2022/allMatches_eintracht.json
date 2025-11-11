@@ -1,0 +1,1056 @@
+[
+  {
+    "eventId": "d7jq17znw97xt4hbghsq4q4no",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "05.08.2022",
+    "time": "20:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "1",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Bayern München",
+      "id": "apoawtpvac4zqlancmvw4nk4o",
+      "shortcut": "FCB"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "d9d0tsfbmyfb4qxjixjqbnjmc",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "13.08.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "5",
+    "home": {
+      "name": "Hertha BSC",
+      "id": "f0w62l8zql3tukxsy8fqwp72x",
+      "shortcut": "BSC"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "da4q3ewqqxj20zdiqan3vhfys",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "21.08.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "9",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Köln",
+      "id": "8q1ul09cygzswb7tb456bmifv",
+      "shortcut": "KOE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dbi41qrn32kua70a40xa6n7ys",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "28.08.2022",
+    "time": "17:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "12",
+    "home": {
+      "name": "Werder Bremen",
+      "id": "cu0eztmjcsbydyp53aleznorw",
+      "shortcut": "SVW"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dc1cgrfpc9j6xr6w78hxfcu1g",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "03.09.2022",
+    "time": "18:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "14",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "id": "9gefq4dz9b2hl8rqrxwrlrzmp",
+      "shortcut": "RBL"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dd3ttxj21dzydzhblhk9gwxlg",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "10.09.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "17",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Wolfsburg",
+      "id": "a8l3w3n0j99qjlsxj3jnmgkz1",
+      "shortcut": "WOB"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "de8y30x8xojzn2lsc679idp1w",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "17.09.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "20",
+    "home": {
+      "name": "Stuttgart",
+      "id": "3dwlvz6cl4lcavvrg0y2dycrt",
+      "shortcut": "VFB"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dexkfqt853ww4hk763324gwt0",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "01.10.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "23",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Union Berlin",
+      "id": "a8d2gb2nag8fy0itbuxmcibh2",
+      "shortcut": "FCU"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dg1b1lqnbtzvctfzbk5mm6d5g",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "08.10.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "26",
+    "home": {
+      "name": "Bochum",
+      "id": "eq1oq6y61xnzq88zu0cnw131z",
+      "shortcut": "BOC"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dh0jx9bowu7h80gc6dxgh4xzo",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "15.10.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "29",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Bayer Leverkusen",
+      "id": "7ad69ngbpjuyzv96drf8d9sn2",
+      "shortcut": "LEV"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "di4pv5h4x9tmcz314rxad0j6c",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "22.10.2022",
+    "time": "18:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "32",
+    "home": {
+      "name": "Borussia M'gladbach",
+      "id": "go76xxm0xyfgqt1h6tcrtimm",
+      "shortcut": "BMG"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dj2joz9uvy5pqvahtn14mg8pg",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "29.10.2022",
+    "time": "18:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "35",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "id": "dt4pinj0vw0t0cvz7za6mhmzy",
+      "shortcut": "BVB"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dkaaew39fbp8yu5mqzhcqqkus",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "05.11.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "38",
+    "home": {
+      "name": "Augsburg",
+      "id": "ex3psl8e3ajeypwjy4xfltpx6",
+      "shortcut": "FCA"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dl30clhaafmujtzqzoio7kw0k",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "09.11.2022",
+    "time": "20:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "41",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Hoffenheim",
+      "id": "4l9mrqzmajz5crzlz50mtbt6x",
+      "shortcut": "TSG"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dluxxsi6x1x0ikraqci6dc4d0",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "13.11.2022",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "44",
+    "home": {
+      "name": "Mainz 05",
+      "id": "1c7qokc1j5z50cjj4tcu32haa",
+      "shortcut": "M05"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dn9851vi2bfig112s8jb0bztg",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "21.01.2023",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "46",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Schalke 04",
+      "id": "cz4a6wmzx2obyisadhgaccx7b",
+      "shortcut": "S04"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dnxqn7efjypztfik6f2q0r11w",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "25.01.2023",
+    "time": "20:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "49",
+    "home": {
+      "name": "Freiburg",
+      "id": "6k5zscdm9ufw0tguvzyjlp5hq",
+      "shortcut": "SCF"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dorcjs7pf1sg256u11i5utyj8",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "28.01.2023",
+    "time": "18:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "51",
+    "home": {
+      "name": "Bayern München",
+      "id": "apoawtpvac4zqlancmvw4nk4o",
+      "shortcut": "FCB"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dq81q2uxvpwjau64dpapoytjo",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "04.02.2023",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "54",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Hertha BSC",
+      "id": "f0w62l8zql3tukxsy8fqwp72x",
+      "shortcut": "BSC"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dr5vrdps0gng49mpgoeo57k0k",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "11.02.2023",
+    "time": "01:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "56",
+    "home": {
+      "name": "Köln",
+      "id": "8q1ul09cygzswb7tb456bmifv",
+      "shortcut": "KOE"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "ds9yrddsy9gghr3m8sfvm4etw",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "18.02.2023",
+    "time": "01:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "57",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Werder Bremen",
+      "id": "cu0eztmjcsbydyp53aleznorw",
+      "shortcut": "SVW"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dszla24cbet2iig6ruj8mh15g",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "25.02.2023",
+    "time": "01:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "58",
+    "home": {
+      "name": "RB Leipzig",
+      "id": "9gefq4dz9b2hl8rqrxwrlrzmp",
+      "shortcut": "RBL"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "duh0p24wivwtxeq0j3n1lt4pg",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "04.03.2023",
+    "time": "01:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "59",
+    "home": {
+      "name": "Wolfsburg",
+      "id": "a8l3w3n0j99qjlsxj3jnmgkz1",
+      "shortcut": "WOB"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dvd355f6mls6pn4t7ji60z6z8",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "11.03.2023",
+    "time": "01:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "60",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Stuttgart",
+      "id": "3dwlvz6cl4lcavvrg0y2dycrt",
+      "shortcut": "VFB"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dw6k7tc5jccu46amxnqyjynf8",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "18.03.2023",
+    "time": "01:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "61",
+    "home": {
+      "name": "Union Berlin",
+      "id": "a8d2gb2nag8fy0itbuxmcibh2",
+      "shortcut": "FCU"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dxkqdc61ns58w0e9faqzn9hxw",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "01.04.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "62",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Bochum",
+      "id": "eq1oq6y61xnzq88zu0cnw131z",
+      "shortcut": "BOC"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dy5nmmf37t468cpy17yae56hg",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "08.04.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "63",
+    "home": {
+      "name": "Bayer Leverkusen",
+      "id": "7ad69ngbpjuyzv96drf8d9sn2",
+      "shortcut": "LEV"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "dzvjsbupplkxfxrq93sdwp15g",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "15.04.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "64",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Borussia M'gladbach",
+      "id": "go76xxm0xyfgqt1h6tcrtimm",
+      "shortcut": "BMG"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "e0hgs4p6bigohc25zyo0xl3is",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "22.04.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "65",
+    "home": {
+      "name": "Borussia Dortmund",
+      "id": "dt4pinj0vw0t0cvz7za6mhmzy",
+      "shortcut": "BVB"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "e1ze5t0pp25ziprorn3n2dtsk",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "29.04.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "66",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Augsburg",
+      "id": "ex3psl8e3ajeypwjy4xfltpx6",
+      "shortcut": "FCA"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "e31aob8q9y00p7ynbxvpr51jo",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "06.05.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "67",
+    "home": {
+      "name": "Hoffenheim",
+      "id": "4l9mrqzmajz5crzlz50mtbt6x",
+      "shortcut": "TSG"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "e45gws1lx5eov6e9g7w1wd05w",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "13.05.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "68",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Mainz 05",
+      "id": "1c7qokc1j5z50cjj4tcu32haa",
+      "shortcut": "M05"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "e5hqacgmr8a5m3aohqo4zcx78",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "20.05.2023",
+    "time": "02:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "69",
+    "home": {
+      "name": "Schalke 04",
+      "id": "cz4a6wmzx2obyisadhgaccx7b",
+      "shortcut": "S04"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  },
+  {
+    "eventId": "e6bulgzeagud216xfaktx0yz8",
+    "competitionId": "eg8fn8zof4ps7z12vlxa6efx0",
+    "competitionName": "2022 Qatar",
+    "date": "27.05.2023",
+    "time": "15:30",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "70",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "id": "c5hderjlkcoaze51e5wgvptk",
+      "shortcut": "SGE"
+    },
+    "away": {
+      "name": "Freiburg",
+      "id": "6k5zscdm9ufw0tguvzyjlp5hq",
+      "shortcut": "SCF"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "c5hderjlkcoaze51e5wgvptk"
+  }
+]

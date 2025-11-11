@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TeamB 1",
+    "id": "111",
+    "logo": "/images/teams/t808.png"
+  },
+  {
+    "name": "TeamB 2",
+    "id": "222",
+    "logo": "/images/teams/t808.png"
+  },
+  {
+    "name": "TeamB 3",
+    "id": "333",
+    "logo": "/images/teams/t808.png"
+  },
+  {
+    "name": "TeamB 4",
+    "id": "444",
+    "logo": "/images/teams/t808.png"
+  },
+  {
+    "name": "TeamB 5",
+    "id": "555",
+    "logo": "/images/teams/t808.png"
+  }
+]

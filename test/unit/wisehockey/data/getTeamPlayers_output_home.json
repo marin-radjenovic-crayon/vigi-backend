@@ -1,0 +1,317 @@
+[
+  {
+    "id": "22",
+    "name": "Dennis Endras",
+    "firstname": "Dennis",
+    "surname": "Endras",
+    "position": "GK",
+    "jersey": 44,
+    "nationality": "Germany"
+  },
+  {
+    "id": "23",
+    "name": "Sinan Akdag",
+    "firstname": "Sinan",
+    "surname": "Akdag",
+    "position": "DE",
+    "jersey": 7,
+    "nationality": "Germany"
+  },
+  {
+    "id": "25",
+    "name": "Denis Reul",
+    "firstname": "Denis",
+    "surname": "Reul",
+    "position": "DE",
+    "jersey": 29,
+    "nationality": "Germany"
+  },
+  {
+    "id": "59",
+    "name": "Stefan Loibl",
+    "firstname": "Stefan",
+    "surname": "Loibl",
+    "position": "FO",
+    "jersey": 13,
+    "nationality": "Germany"
+  },
+  {
+    "id": "143",
+    "name": "Nicolas Krämmer",
+    "firstname": "Nicolas",
+    "surname": "Krämmer",
+    "position": "FO",
+    "jersey": 21,
+    "nationality": "Germany"
+  },
+  {
+    "id": "291",
+    "name": "Jason Bast",
+    "firstname": "Jason",
+    "surname": "Bast",
+    "position": "FO",
+    "jersey": 39,
+    "nationality": "Germany"
+  },
+  {
+    "id": "303",
+    "name": "Cody Lampl",
+    "firstname": "Cody",
+    "surname": "Lampl",
+    "position": "DE",
+    "jersey": 32,
+    "nationality": "Germany"
+  },
+  {
+    "id": "487",
+    "name": "Matthias Plachta",
+    "firstname": "Matthias",
+    "surname": "Plachta",
+    "position": "FO",
+    "jersey": 22,
+    "nationality": "Germany"
+  },
+  {
+    "id": "493",
+    "name": "David Wolf",
+    "firstname": "David",
+    "surname": "Wolf",
+    "position": "FO",
+    "jersey": 89,
+    "nationality": "Germany"
+  },
+  {
+    "id": "516",
+    "name": "Felix Brückmann",
+    "firstname": "Felix",
+    "surname": "Brückmann",
+    "position": "GK",
+    "jersey": 90,
+    "nationality": "Germany"
+  },
+  {
+    "id": "528",
+    "name": "Björn Krupp",
+    "firstname": "Björn",
+    "surname": "Krupp",
+    "position": "DE",
+    "jersey": 5,
+    "nationality": "Germany"
+  },
+  {
+    "id": "656",
+    "name": "Thomas Larkin",
+    "firstname": "Thomas",
+    "surname": "Larkin",
+    "position": "DE",
+    "jersey": 37,
+    "nationality": "Italy"
+  },
+  {
+    "id": "926",
+    "name": "Felix Schütz",
+    "firstname": "Felix",
+    "surname": "Schütz",
+    "position": "FO",
+    "jersey": 11,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1182",
+    "name": "Yannik Valenti",
+    "firstname": "Yannik",
+    "surname": "Valenti",
+    "position": "FO",
+    "jersey": 26,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1194",
+    "name": "Andrew Desjardins",
+    "firstname": "Andrew",
+    "surname": "Desjardins",
+    "position": "FO",
+    "jersey": 84,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1197",
+    "name": "Pierre Rosa Preto",
+    "firstname": "Pierre",
+    "surname": "Rosa Preto",
+    "position": "FO",
+    "jersey": 36,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1359",
+    "name": "Benjamin Smith",
+    "firstname": "Benjamin",
+    "surname": "Smith",
+    "position": "FO",
+    "jersey": 18,
+    "nationality": "USA"
+  },
+  {
+    "id": "1362",
+    "name": "Joonas Lehtivuori",
+    "firstname": "Joonas",
+    "surname": "Lehtivuori",
+    "position": "DE",
+    "jersey": 6,
+    "nationality": "Finland"
+  },
+  {
+    "id": "1363",
+    "name": "Tommi Huhtala",
+    "firstname": "Tommi",
+    "surname": "Huhtala",
+    "position": "FO",
+    "jersey": 61,
+    "nationality": "Finland"
+  },
+  {
+    "id": "1364",
+    "name": "Markus Eisenschmid",
+    "firstname": "Markus",
+    "surname": "Eisenschmid",
+    "position": "FO",
+    "jersey": 16,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1365",
+    "name": "Mark Katic",
+    "firstname": "Mark",
+    "surname": "Katic",
+    "position": "DE",
+    "jersey": 95,
+    "nationality": "Croatia"
+  },
+  {
+    "id": "1407",
+    "name": "Louis Brune",
+    "firstname": "Louis",
+    "surname": "Brune",
+    "position": "FO",
+    "jersey": 50,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1473",
+    "name": "Moritz Wirth",
+    "firstname": "Moritz",
+    "surname": "Wirth",
+    "position": "DE",
+    "jersey": 70,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1503",
+    "name": "Valentino Klos",
+    "firstname": "Valentino",
+    "surname": "Klos",
+    "position": "FO",
+    "jersey": 40,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1504",
+    "name": "Florian Mnich",
+    "firstname": "Florian",
+    "surname": "Mnich",
+    "position": "GK",
+    "jersey": 72,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1557",
+    "name": "Arno Tiefensee",
+    "firstname": "Arno",
+    "surname": "Tiefensee",
+    "position": "GK",
+    "jersey": 30,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1578",
+    "name": "Florian Elias",
+    "firstname": "Florian",
+    "surname": "Elias",
+    "position": "FO",
+    "jersey": 77,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1579",
+    "name": "Brendan Shinnimin",
+    "firstname": "Brendan",
+    "surname": "Shinnimin",
+    "position": "FO",
+    "jersey": 24,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1670",
+    "name": "Simon Thiel",
+    "firstname": "Simon",
+    "surname": "Thiel",
+    "position": "FO",
+    "jersey": 96,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1671",
+    "name": "Lukas Ribarik",
+    "firstname": "Lukas",
+    "surname": "Ribarik",
+    "position": "FO",
+    "jersey": 97,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1702",
+    "name": "Craig Schira",
+    "firstname": "Craig",
+    "surname": "Schira",
+    "position": "DE",
+    "jersey": 64,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1705",
+    "name": "Arkadiusz Dziambor",
+    "firstname": "Arkadiusz",
+    "surname": "Dziambor",
+    "position": "DE",
+    "jersey": 53,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1707",
+    "name": "Luca Ganz",
+    "firstname": "Luca",
+    "surname": "Ganz",
+    "position": "GK",
+    "jersey": 31,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1714",
+    "name": "Taylor Leier",
+    "firstname": "Taylor",
+    "surname": "Leier",
+    "position": "FO",
+    "jersey": 23,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1742",
+    "name": "Sean Collins",
+    "firstname": "Sean",
+    "surname": "Collins",
+    "position": "FO",
+    "jersey": 81,
+    "nationality": "Canada"
+  }
+]

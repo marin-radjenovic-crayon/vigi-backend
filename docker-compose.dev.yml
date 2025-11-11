@@ -1,0 +1,26 @@
+version: '3'
+services:
+  spovizz_chrome:
+    container_name: "spovizz_chrome"
+    command: [ 'sh', 'run.sh' ]
+    image: spovizz_chrome
+    build:
+      context: "./deployment/chrome"
+      dockerfile: "./Dockerfile"
+    environment:
+      - TZ=Europe/Berlin
+    shm_size: 2gb
+#    mem_limit: "0"
+#    memswap_limit: -1
+    security_opt:
+      - seccomp:./deployment/chrome/security-opt-chrome.json
+    #    networks:
+    #      default:
+    #        ipv4_address: 172.19.0.200
+    #    ports:
+    #      - 9222:9222
+    network_mode: host
+networks:
+  default:
+    external:
+      name: dev_network

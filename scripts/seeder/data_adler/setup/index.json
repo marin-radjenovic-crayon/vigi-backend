@@ -1,0 +1,312 @@
+[
+  {
+    "id": "3",
+    "name": "Timeline automation",
+    "data": {
+      "preMatch": {
+        "label": "PRE-MATCH",
+        "templates": [
+          {
+            "name": "adlerlineup",
+            "fields": {
+              "statsSide": "home"
+            }
+          },
+          {
+            "name": "adlerlineup",
+            "fields": {
+              "statsSide": "away"
+            }
+          },
+          {
+            "name": "adlerteamstats",
+            "fields": {
+              "statsSide": "home"
+            }
+          },
+          {
+            "name": "adlerteamstats",
+            "fields": {
+              "statsSide": "away"
+            }
+          },
+          {
+            "name": "adlertopscorer"
+          },
+          {
+            "name": "adlerlivematchdays"
+          },
+          {
+            "name": "adlerreferee"
+          },
+          {
+            "name": "adlertable"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Spieltagsflyer"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Merch"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "WLAN"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Social Wall"
+          }
+        ]
+      },
+      "liveMatch": {
+        "label": "LIVE-MATCH",
+        "templates": [
+          {
+            "name": "adlerlineup",
+            "fields": {
+              "statsSide": "home"
+            }
+          },
+          {
+            "name": "adlerlineup",
+            "fields": {
+              "statsSide": "away"
+            }
+          },
+          {
+            "name": "adlerteamstats",
+            "fields": {
+              "statsSide": "home"
+            }
+          },
+          {
+            "name": "adlerteamstats",
+            "fields": {
+              "statsSide": "away"
+            }
+          },
+          {
+            "name": "adlertopscorer"
+          },
+          {
+            "name": "adlerlivematchdays"
+          },
+          {
+            "name": "adlerreferee"
+          },
+          {
+            "name": "adlerstatistics"
+          },
+          {
+            "name": "adlermatchrankwise",
+            "type": "distanceTravelled"
+          },
+          {
+            "name": "adlermatchrankwise",
+            "type": "fastestScater"
+          },
+          {
+            "name": "adlermatchrankwise",
+            "type": "shotSpeed"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Spieltagsflyer"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Merch"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "WLAN"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Social Wall"
+          }
+        ]
+      },
+      "postMatch": {
+        "label": "POST-MATCH",
+        "templates": [
+          {
+            "name": "adlerlivematchdays"
+          },
+          {
+            "name": "adlertable"
+          },
+          {
+            "name": "adlerstatistics"
+          },
+          {
+            "name": "staticmedia",
+            "keyword": "Auf Wiedersehen"
+          }
+        ]
+      },
+      "custom": [
+        {
+          "label": "VIP",
+          "templates": [
+            {
+              "name": "adlerlineup",
+              "fields": {
+                "statsSide": "home"
+              }
+            },
+            {
+              "name": "adlerlineup",
+              "fields": {
+                "statsSide": "away"
+              }
+            },
+            {
+              "name": "adlerteamstats",
+              "fields": {
+                "statsSide": "home"
+              }
+            },
+            {
+              "name": "adlerteamstats",
+              "fields": {
+                "statsSide": "away"
+              }
+            },
+            {
+              "name": "adlertopscorer"
+            },
+            {
+              "name": "adlerlivematchdays"
+            },
+            {
+              "name": "adlertable"
+            },
+            {
+              "name": "adlerreferee"
+            },
+            {
+              "name": "adlerstatistics"
+            },
+            {
+              "name": "adlermatchrankwise",
+              "type": "distanceTravelled"
+            },
+            {
+              "name": "adlermatchrankwise",
+              "type": "fastestScater"
+            },
+            {
+              "name": "adlermatchrankwise",
+              "type": "shotSpeed"
+            },
+            {
+              "name": "staticmedia",
+              "keyword": "Tippspiel Ankündigung"
+            },
+            {
+              "name": "staticmedia",
+              "keyword": "Spieltagsflyer"
+            },
+            {
+              "name": "staticmedia",
+              "keyword": "VIP Shop"
+            },
+            {
+              "name": "staticmedia",
+              "keyword": "7x Merch"
+            },
+            {
+              "name": "staticmedia",
+              "keyword": "WLAN"
+            },
+            {
+              "name": "staticmedia",
+              "keyword": "Social Wall"
+            }
+          ]
+        },
+        {
+          "label": "Pause",
+          "templates": [
+            {
+              "name": "adlerstatistics"
+            },
+            {
+              "name": "adlerlivematchdays"
+            },
+            {
+              "name": "adlertable"
+            },
+            {
+              "name": "adlermatchrankwise",
+              "type": "distanceTravelled"
+            },
+            {
+              "name": "adlermatchrankwise",
+              "type": "fastestScater"
+            },
+            {
+              "name": "adlermatchrankwise",
+              "type": "shotSpeed"
+            }
+          ]
+        },
+        {
+          "label": "Vorprogramm",
+          "templates": [
+            {
+              "name": "adlerlineup",
+              "fields": {
+                "statsSide": "away"
+              }
+            },
+            {
+              "name": "adlerteamstats",
+              "fields": {
+                "statsSide": "away"
+              }
+            },
+            {
+              "name": "adlerteamstats",
+              "fields": {
+                "statsSide": "home"
+              }
+            },
+            {
+              "name": "adlertopscorer"
+            },
+            {
+              "name": "adlerlivematchdays"
+            },
+            {
+              "name": "adlertable"
+            }
+          ]
+        },
+        {
+          "label": "S6+Schiris",
+          "templates": [
+            {
+              "name": "adlerreferee"
+            },
+            {
+              "name": "adlerstartingsix",
+              "fields": {
+                "statsSide": "home"
+              }
+            },
+            {
+              "name": "adlerstartingsix",
+              "fields": {
+                "statsSide": "away"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

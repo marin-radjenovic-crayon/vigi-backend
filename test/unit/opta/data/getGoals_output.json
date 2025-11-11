@@ -1,0 +1,56 @@
+{
+  "home": [
+    {
+      "playerId": 487,
+      "matchPlayerId": 120921,
+      "jersey": 22,
+      "name": "Matthias",
+      "surname": "Plachta",
+      "scoreboardTime": [
+        "57."
+      ]
+    }
+  ],
+  "visitor": [
+    {
+      "playerId": 1464,
+      "matchPlayerId": 120964,
+      "jersey": 87,
+      "name": "Fabian",
+      "surname": "Dietz",
+      "scoreboardTime": [
+        "10."
+      ]
+    },
+    {
+      "playerId": 1172,
+      "matchPlayerId": 120957,
+      "jersey": 97,
+      "name": "Matthew",
+      "surname": "White",
+      "scoreboardTime": [
+        "10."
+      ]
+    },
+    {
+      "playerId": 1615,
+      "matchPlayerId": 120970,
+      "jersey": 10,
+      "name": "Parker",
+      "surname": "Tuomie",
+      "scoreboardTime": [
+        "39."
+      ]
+    },
+    {
+      "playerId": 1172,
+      "matchPlayerId": 120957,
+      "jersey": 97,
+      "name": "Matthew",
+      "surname": "White",
+      "scoreboardTime": [
+        "45."
+      ]
+    }
+  ]
+}

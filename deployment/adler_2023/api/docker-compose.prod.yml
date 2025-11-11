@@ -1,0 +1,52 @@
+version: '3'
+services:
+  spovizz_api:
+    container_name: ${INSTANCEID}
+    restart: always
+    image: h2908577.stratoserver.net:5001/spovizz/${INSTANCEID}:5.7.5
+#    image: ${INSTANCEID}:latest
+    env_file:
+      - .env.prod.adler
+#    build:
+#      dockerfile: Dockerfile
+#      context: ""
+    ports:
+     - '15010:8080'
+    volumes:
+      - /data/docker-data/adler/screenshots:/usr/src/app/public/screenshots
+      - /data/docker-data/adler/upload:/usr/src/app/public/upload
+  spovizz_chrome:
+    command: [ 'sh', 'run.sh' ]
+    image: chrome-image:2.0.1
+    build:
+      context: "./deployment/chrome"
+      dockerfile: "./Dockerfile"
+#    ports:
+#      - 9222:9222
+    environment:
+      - TZ=Europe/Berlin
+#    networks:
+#      default:
+#        ipv4_address: 172.18.0.50
+    #network_mode: host
+#    ports:
+#      - "10000-10005:9222"
+#    cap_add:
+#      - SYS_ADMIN
+    shm_size: 2gb
+#    mem_limit: "0"
+#    memswap_limit: -1
+  spovizz_mongo:
+    container_name: "spovizz-mongo-adler"
+    image: mongo
+#    ports:
+#      - '28000:27017'
+#  redis:
+#    container_name: redis
+#    image: redis:alpine
+#    ports:
+#      - '6379:6379'
+networks:
+  default:
+    external:
+      name: live_network

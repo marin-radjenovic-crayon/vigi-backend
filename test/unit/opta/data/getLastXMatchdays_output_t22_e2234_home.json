@@ -1,0 +1,237 @@
+[
+  {
+    "id": 2228,
+    "start_date": "2021-10-24 14:00:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "16",
+    "home": {
+      "id": 6,
+      "name": "Straubing Tigers",
+      "shortcut": "STR"
+    },
+    "guest": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  },
+  {
+    "id": 2449,
+    "start_date": "2021-10-26 19:30:00",
+    "real_end_date": "0000-00-00 00:00:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "15",
+    "home": {
+      "id": 12,
+      "name": "EHC Red Bull München",
+      "shortcut": "RBM"
+    },
+    "guest": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "status": "BEFORE_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "first_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "vor dem Spiel",
+    "actual_time_alias": "0",
+    "last_event_time": 0
+  },
+  {
+    "id": 2214,
+    "start_date": "2021-10-20 19:30:00",
+    "real_end_date": "2021-10-20 23:59:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "14",
+    "home": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "guest": {
+      "id": 9,
+      "name": "Pinguins Bremerhaven",
+      "shortcut": "BHV"
+    },
+    "status": "LIVE",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 1,
+          "score_guest": 3
+        },
+        "first_period": {
+          "score_home": 1,
+          "score_guest": 3
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 0
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "1. Pause",
+    "actual_time_alias": "10",
+    "last_event_time": 1200
+  },
+  {
+    "id": 2204,
+    "start_date": "2021-10-17 16:30:00",
+    "real_end_date": "2021-10-17 18:46:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "13",
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "guest": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 6,
+          "score_guest": 2
+        },
+        "first_period": {
+          "score_home": 3,
+          "score_guest": 1
+        },
+        "second_period": {
+          "score_home": 1,
+          "score_guest": 1
+        },
+        "third_period": {
+          "score_home": 2,
+          "score_guest": 0
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  },
+  {
+    "id": 2200,
+    "start_date": "2021-10-15 19:30:00",
+    "real_end_date": "2021-10-15 21:51:00",
+    "league_id": 1,
+    "league": "DEL",
+    "season": "2021",
+    "round": "12",
+    "home": {
+      "id": 22,
+      "name": "SC Bietigheim Steelers",
+      "shortcut": "SCB"
+    },
+    "guest": {
+      "id": 7,
+      "name": "Iserlohn Roosters",
+      "shortcut": "IEC"
+    },
+    "status": "AFTER_MATCH",
+    "overtimeCount": null,
+    "results": {
+      "extra_time": false,
+      "shooting": false,
+      "contumacy": false,
+      "score": {
+        "final": {
+          "score_home": 3,
+          "score_guest": 2
+        },
+        "first_period": {
+          "score_home": 3,
+          "score_guest": 0
+        },
+        "second_period": {
+          "score_home": 0,
+          "score_guest": 1
+        },
+        "third_period": {
+          "score_home": 0,
+          "score_guest": 1
+        }
+      }
+    },
+    "actual_time_name": "Ende",
+    "actual_time_alias": "K",
+    "last_event_time": 3600
+  }
+]

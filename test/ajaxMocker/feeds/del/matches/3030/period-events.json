@@ -1,0 +1,1528 @@
+{
+  "1": [
+    {
+      "time": 0,
+      "type": "periodStart"
+    },
+    {
+      "time": 0,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 23372,
+        "team": "visitor",
+        "time": 0,
+        "player": {
+          "playerId": 486,
+          "matchPlayerId": 175567,
+          "jersey": 30,
+          "name": "Mirko",
+          "surname": "Pantkowski"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 0,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 23365,
+        "team": "home",
+        "time": 0,
+        "player": {
+          "playerId": 1557,
+          "matchPlayerId": 175541,
+          "jersey": 30,
+          "name": "Arno",
+          "surname": "Tiefensee"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 612,
+      "type": "penalty",
+      "data": {
+        "id": 26113,
+        "team": "visitor",
+        "createTime": 612,
+        "disciplinedPlayer": {
+          "playerId": 2113,
+          "matchPlayerId": 175582,
+          "jersey": 57,
+          "name": "Brady",
+          "surname": "Austin"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:47:53",
+            "scoreboardTime": 612
+          },
+          "to": {
+            "realTime": "2023-03-24 19:49:53",
+            "scoreboardTime": 732
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HOOK"
+      }
+    },
+    {
+      "time": 750,
+      "type": "penalty",
+      "data": {
+        "id": 26115,
+        "team": "home",
+        "createTime": 750,
+        "disciplinedPlayer": {
+          "playerId": 1377,
+          "matchPlayerId": 175538,
+          "jersey": 19,
+          "name": "Lean",
+          "surname": "Bergmann"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:51:29",
+            "scoreboardTime": 750
+          },
+          "to": {
+            "realTime": "2023-03-24 19:53:29",
+            "scoreboardTime": 870
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "SLASH"
+      }
+    },
+    {
+      "time": 793,
+      "type": "penalty",
+      "data": {
+        "id": 26119,
+        "team": "visitor",
+        "createTime": 793,
+        "disciplinedPlayer": {
+          "playerId": 648,
+          "matchPlayerId": 175565,
+          "jersey": 15,
+          "name": "Louis-Marc",
+          "surname": "Aubry"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:54:36",
+            "scoreboardTime": 913
+          },
+          "to": {
+            "realTime": "2023-03-24 19:56:36",
+            "scoreboardTime": 1033
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "ROUGH"
+      }
+    },
+    {
+      "time": 793,
+      "type": "penalty",
+      "data": {
+        "id": 26118,
+        "team": "visitor",
+        "createTime": 793,
+        "disciplinedPlayer": {
+          "playerId": 648,
+          "matchPlayerId": 175565,
+          "jersey": 15,
+          "name": "Louis-Marc",
+          "surname": "Aubry"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:54:14",
+            "scoreboardTime": 793
+          },
+          "to": {
+            "realTime": "2023-03-24 19:56:14",
+            "scoreboardTime": 913
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "SLASH"
+      }
+    },
+    {
+      "time": 793,
+      "type": "penalty",
+      "data": {
+        "id": 26117,
+        "team": "home",
+        "createTime": 793,
+        "disciplinedPlayer": {
+          "playerId": 487,
+          "matchPlayerId": 175530,
+          "jersey": 22,
+          "name": "Matthias",
+          "surname": "Plachta"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:53:51",
+            "scoreboardTime": 793
+          },
+          "to": {
+            "realTime": "2023-03-24 19:55:51",
+            "scoreboardTime": 913
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "ROUGH"
+      }
+    },
+    {
+      "time": 942,
+      "type": "penalty",
+      "data": {
+        "id": 26127,
+        "team": "visitor",
+        "createTime": 942,
+        "disciplinedPlayer": {
+          "playerId": 488,
+          "matchPlayerId": 175568,
+          "jersey": 55,
+          "name": "Carter",
+          "surname": "Proft"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:59:59",
+            "scoreboardTime": 1062
+          },
+          "to": {
+            "realTime": "2023-03-24 20:01:59",
+            "scoreboardTime": 1182
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "ROUGH"
+      }
+    },
+    {
+      "time": 942,
+      "type": "penalty",
+      "data": {
+        "id": 26126,
+        "team": "visitor",
+        "createTime": 942,
+        "disciplinedPlayer": {
+          "playerId": 488,
+          "matchPlayerId": 175568,
+          "jersey": 55,
+          "name": "Carter",
+          "surname": "Proft"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:59:28",
+            "scoreboardTime": 942
+          },
+          "to": {
+            "realTime": "2023-03-24 20:01:28",
+            "scoreboardTime": 1062
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HOLD"
+      }
+    },
+    {
+      "time": 942,
+      "type": "penalty",
+      "data": {
+        "id": 26125,
+        "team": "home",
+        "createTime": 942,
+        "disciplinedPlayer": {
+          "playerId": 1362,
+          "matchPlayerId": 175535,
+          "jersey": 6,
+          "name": "Joonas",
+          "surname": "Lehtivuori"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:59:10",
+            "scoreboardTime": 1062
+          },
+          "to": {
+            "realTime": "2023-03-24 20:01:10",
+            "scoreboardTime": 1182
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "ROUGH"
+      }
+    },
+    {
+      "time": 942,
+      "type": "penalty",
+      "data": {
+        "id": 26123,
+        "team": "home",
+        "createTime": 942,
+        "disciplinedPlayer": {
+          "playerId": 1362,
+          "matchPlayerId": 175535,
+          "jersey": 6,
+          "name": "Joonas",
+          "surname": "Lehtivuori"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 19:58:34",
+            "scoreboardTime": 942
+          },
+          "to": {
+            "realTime": "2023-03-24 20:00:34",
+            "scoreboardTime": 1062
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HOLD"
+      }
+    },
+    {
+      "time": 1145,
+      "type": "penalty",
+      "data": {
+        "id": 26128,
+        "team": "home",
+        "createTime": 1145,
+        "disciplinedPlayer": {
+          "playerId": 1377,
+          "matchPlayerId": 175538,
+          "jersey": 19,
+          "name": "Lean",
+          "surname": "Bergmann"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 20:04:06",
+            "scoreboardTime": 1145
+          },
+          "to": {
+            "realTime": "2023-03-24 20:06:06",
+            "scoreboardTime": 1265
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "BOARD"
+      }
+    },
+    {
+      "time": 1200,
+      "type": "periodEnd"
+    }
+  ],
+  "2": [
+    {
+      "time": 1200,
+      "type": "periodStart"
+    },
+    {
+      "time": 1500,
+      "type": "goal",
+      "data": {
+        "id": 17277,
+        "team": "visitor",
+        "currentScore": "0:1",
+        "realTime": "2023-03-24 20:33:01",
+        "scoreboardTime": 1500,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 2115,
+          "matchPlayerId": 175584,
+          "jersey": 13,
+          "name": "Nicholas",
+          "surname": "Baptiste"
+        },
+        "assistants": [
+          {
+            "playerId": 1882,
+            "matchPlayerId": 175580,
+            "jersey": 26,
+            "name": "David",
+            "surname": "McIntyre"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 146,
+              "matchPlayerId": 175560,
+              "jersey": 91,
+              "name": "Moritz",
+              "surname": "Müller"
+            },
+            {
+              "playerId": 2112,
+              "matchPlayerId": 175581,
+              "jersey": 7,
+              "name": "Nicholas",
+              "surname": "Bailen"
+            },
+            {
+              "playerId": 1882,
+              "matchPlayerId": 175580,
+              "jersey": 26,
+              "name": "David",
+              "surname": "McIntyre"
+            },
+            {
+              "playerId": 291,
+              "matchPlayerId": 175566,
+              "jersey": 16,
+              "name": "Jason",
+              "surname": "Bast"
+            },
+            {
+              "playerId": 2115,
+              "matchPlayerId": 175584,
+              "jersey": 13,
+              "name": "Nicholas",
+              "surname": "Baptiste"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 1306,
+              "matchPlayerId": 175534,
+              "jersey": 33,
+              "name": "Tim",
+              "surname": "Wohlgemuth"
+            },
+            {
+              "playerId": 1377,
+              "matchPlayerId": 175538,
+              "jersey": 19,
+              "name": "Lean",
+              "surname": "Bergmann"
+            },
+            {
+              "playerId": 2118,
+              "matchPlayerId": 175552,
+              "jersey": 46,
+              "name": "Matthew",
+              "surname": "Donovan"
+            },
+            {
+              "playerId": 656,
+              "matchPlayerId": 175533,
+              "jersey": 37,
+              "name": "Thomas",
+              "surname": "Larkin"
+            },
+            {
+              "playerId": 143,
+              "matchPlayerId": 175529,
+              "jersey": 21,
+              "name": "Nicolas",
+              "surname": "Krämmer"
+            },
+            {
+              "playerId": 1557,
+              "matchPlayerId": 175541,
+              "jersey": 30,
+              "name": "Arno",
+              "surname": "Tiefensee"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 1546,
+      "type": "penalty",
+      "data": {
+        "id": 26133,
+        "team": "visitor",
+        "createTime": 1546,
+        "disciplinedPlayer": {
+          "playerId": 555,
+          "matchPlayerId": 175586,
+          "jersey": 10,
+          "name": "Jonathan",
+          "surname": "Matsumoto"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 20:34:55",
+            "scoreboardTime": 1546
+          },
+          "to": {
+            "realTime": "2023-03-24 20:36:55",
+            "scoreboardTime": 1666
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "TRIP"
+      }
+    },
+    {
+      "time": 1711,
+      "type": "goal",
+      "data": {
+        "id": 17279,
+        "team": "visitor",
+        "currentScore": "0:2",
+        "realTime": "2023-03-24 20:39:02",
+        "scoreboardTime": 1711,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 1694,
+          "matchPlayerId": 175577,
+          "jersey": 17,
+          "name": "Jan Luca",
+          "surname": "Sennhenn"
+        },
+        "assistants": [
+          {
+            "playerId": 648,
+            "matchPlayerId": 175565,
+            "jersey": 15,
+            "name": "Louis-Marc",
+            "surname": "Aubry"
+          },
+          {
+            "playerId": 115,
+            "matchPlayerId": 175563,
+            "jersey": 9,
+            "name": "Maximilian",
+            "surname": "Kammerer"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 115,
+              "matchPlayerId": 175563,
+              "jersey": 9,
+              "name": "Maximilian",
+              "surname": "Kammerer"
+            },
+            {
+              "playerId": 1481,
+              "matchPlayerId": 175570,
+              "jersey": 36,
+              "name": "Andreas",
+              "surname": "Thuresson"
+            },
+            {
+              "playerId": 1694,
+              "matchPlayerId": 175577,
+              "jersey": 17,
+              "name": "Jan Luca",
+              "surname": "Sennhenn"
+            },
+            {
+              "playerId": 2112,
+              "matchPlayerId": 175581,
+              "jersey": 7,
+              "name": "Nicholas",
+              "surname": "Bailen"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            },
+            {
+              "playerId": 648,
+              "matchPlayerId": 175565,
+              "jersey": 15,
+              "name": "Louis-Marc",
+              "surname": "Aubry"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 143,
+              "matchPlayerId": 175529,
+              "jersey": 21,
+              "name": "Nicolas",
+              "surname": "Krämmer"
+            },
+            {
+              "playerId": 1377,
+              "matchPlayerId": 175538,
+              "jersey": 19,
+              "name": "Lean",
+              "surname": "Bergmann"
+            },
+            {
+              "playerId": 23,
+              "matchPlayerId": 175526,
+              "jersey": 7,
+              "name": "Sinan",
+              "surname": "Akdag"
+            },
+            {
+              "playerId": 1768,
+              "matchPlayerId": 175548,
+              "jersey": 4,
+              "name": "Korbinian",
+              "surname": "Holzer"
+            },
+            {
+              "playerId": 1306,
+              "matchPlayerId": 175534,
+              "jersey": 33,
+              "name": "Tim",
+              "surname": "Wohlgemuth"
+            },
+            {
+              "playerId": 1557,
+              "matchPlayerId": 175541,
+              "jersey": 30,
+              "name": "Arno",
+              "surname": "Tiefensee"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 1928,
+      "type": "goal",
+      "data": {
+        "id": 17283,
+        "team": "visitor",
+        "currentScore": "0:3",
+        "realTime": "2023-03-24 20:51:37",
+        "scoreboardTime": 1928,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 2113,
+          "matchPlayerId": 175582,
+          "jersey": 57,
+          "name": "Brady",
+          "surname": "Austin"
+        },
+        "assistants": [
+          {
+            "playerId": 1004,
+            "matchPlayerId": 175562,
+            "jersey": 21,
+            "name": "Mark",
+            "surname": "Olver"
+          },
+          {
+            "playerId": 291,
+            "matchPlayerId": 175566,
+            "jersey": 16,
+            "name": "Jason",
+            "surname": "Bast"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 291,
+              "matchPlayerId": 175566,
+              "jersey": 16,
+              "name": "Jason",
+              "surname": "Bast"
+            },
+            {
+              "playerId": 1004,
+              "matchPlayerId": 175562,
+              "jersey": 21,
+              "name": "Mark",
+              "surname": "Olver"
+            },
+            {
+              "playerId": 1694,
+              "matchPlayerId": 175577,
+              "jersey": 17,
+              "name": "Jan Luca",
+              "surname": "Sennhenn"
+            },
+            {
+              "playerId": 2113,
+              "matchPlayerId": 175582,
+              "jersey": 57,
+              "name": "Brady",
+              "surname": "Austin"
+            },
+            {
+              "playerId": 1882,
+              "matchPlayerId": 175580,
+              "jersey": 26,
+              "name": "David",
+              "surname": "McIntyre"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 1362,
+              "matchPlayerId": 175535,
+              "jersey": 6,
+              "name": "Joonas",
+              "surname": "Lehtivuori"
+            },
+            {
+              "playerId": 25,
+              "matchPlayerId": 175527,
+              "jersey": 29,
+              "name": "Denis",
+              "surname": "Reul"
+            },
+            {
+              "playerId": 493,
+              "matchPlayerId": 175531,
+              "jersey": 89,
+              "name": "David",
+              "surname": "Wolf"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 175530,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            },
+            {
+              "playerId": 1846,
+              "matchPlayerId": 175551,
+              "jersey": 58,
+              "name": "Tyler",
+              "surname": "Gaudet"
+            },
+            {
+              "playerId": 1557,
+              "matchPlayerId": 175541,
+              "jersey": 30,
+              "name": "Arno",
+              "surname": "Tiefensee"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 2225,
+      "type": "goal",
+      "data": {
+        "id": 17287,
+        "team": "home",
+        "currentScore": "1:3",
+        "realTime": "2023-03-24 20:57:41",
+        "scoreboardTime": 2225,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 493,
+          "matchPlayerId": 175531,
+          "jersey": 89,
+          "name": "David",
+          "surname": "Wolf"
+        },
+        "assistants": [
+          {
+            "playerId": 1846,
+            "matchPlayerId": 175551,
+            "jersey": 58,
+            "name": "Tyler",
+            "surname": "Gaudet"
+          },
+          {
+            "playerId": 1764,
+            "matchPlayerId": 175546,
+            "jersey": 68,
+            "name": "Fabrizio",
+            "surname": "Pilu"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 1846,
+              "matchPlayerId": 175551,
+              "jersey": 58,
+              "name": "Tyler",
+              "surname": "Gaudet"
+            },
+            {
+              "playerId": 23,
+              "matchPlayerId": 175526,
+              "jersey": 7,
+              "name": "Sinan",
+              "surname": "Akdag"
+            },
+            {
+              "playerId": 1764,
+              "matchPlayerId": 175546,
+              "jersey": 68,
+              "name": "Fabrizio",
+              "surname": "Pilu"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 175530,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            },
+            {
+              "playerId": 493,
+              "matchPlayerId": 175531,
+              "jersey": 89,
+              "name": "David",
+              "surname": "Wolf"
+            },
+            {
+              "playerId": 1557,
+              "matchPlayerId": 175541,
+              "jersey": 30,
+              "name": "Arno",
+              "surname": "Tiefensee"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 146,
+              "matchPlayerId": 175560,
+              "jersey": 91,
+              "name": "Moritz",
+              "surname": "Müller"
+            },
+            {
+              "playerId": 2115,
+              "matchPlayerId": 175584,
+              "jersey": 13,
+              "name": "Nicholas",
+              "surname": "Baptiste"
+            },
+            {
+              "playerId": 1882,
+              "matchPlayerId": 175580,
+              "jersey": 26,
+              "name": "David",
+              "surname": "McIntyre"
+            },
+            {
+              "playerId": 2112,
+              "matchPlayerId": 175581,
+              "jersey": 7,
+              "name": "Nicholas",
+              "surname": "Bailen"
+            },
+            {
+              "playerId": 1542,
+              "matchPlayerId": 175569,
+              "jersey": 39,
+              "name": "Landon",
+              "surname": "Ferraro"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 2399,
+      "type": "penalty",
+      "data": {
+        "id": 26145,
+        "team": "home",
+        "createTime": 2399,
+        "disciplinedPlayer": {
+          "playerId": 143,
+          "matchPlayerId": 175529,
+          "jersey": 21,
+          "name": "Nicolas",
+          "surname": "Krämmer"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 21:03:36",
+            "scoreboardTime": 2399
+          },
+          "to": {
+            "realTime": "2023-03-24 21:05:36",
+            "scoreboardTime": 2519
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "CROSS"
+      }
+    },
+    {
+      "time": 2399,
+      "type": "penalty",
+      "data": {
+        "id": 26146,
+        "team": "visitor",
+        "createTime": 2399,
+        "disciplinedPlayer": {
+          "playerId": 2112,
+          "matchPlayerId": 175581,
+          "jersey": 7,
+          "name": "Nicholas",
+          "surname": "Bailen"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 21:03:56",
+            "scoreboardTime": 2399
+          },
+          "to": {
+            "realTime": "2023-03-24 21:05:56",
+            "scoreboardTime": 2519
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "CROSS"
+      }
+    },
+    {
+      "time": 2400,
+      "type": "periodEnd"
+    }
+  ],
+  "3": [
+    {
+      "time": 2400,
+      "type": "periodStart"
+    },
+    {
+      "time": 2742,
+      "type": "penalty",
+      "data": {
+        "id": 26148,
+        "team": "visitor",
+        "createTime": 2742,
+        "disciplinedPlayer": {
+          "playerId": 1481,
+          "matchPlayerId": 175570,
+          "jersey": 36,
+          "name": "Andreas",
+          "surname": "Thuresson"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 21:30:02",
+            "scoreboardTime": 2742
+          },
+          "to": {
+            "realTime": "2023-03-24 21:32:02",
+            "scoreboardTime": 2862
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "TRIP"
+      }
+    },
+    {
+      "time": 3146,
+      "type": "goal",
+      "data": {
+        "id": 17290,
+        "team": "home",
+        "currentScore": "2:3",
+        "realTime": "2023-03-24 21:41:17",
+        "scoreboardTime": 3146,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 487,
+          "matchPlayerId": 175530,
+          "jersey": 22,
+          "name": "Matthias",
+          "surname": "Plachta"
+        },
+        "assistants": [
+          {
+            "playerId": 1846,
+            "matchPlayerId": 175551,
+            "jersey": 58,
+            "name": "Tyler",
+            "surname": "Gaudet"
+          },
+          {
+            "playerId": 493,
+            "matchPlayerId": 175531,
+            "jersey": 89,
+            "name": "David",
+            "surname": "Wolf"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 23,
+              "matchPlayerId": 175526,
+              "jersey": 7,
+              "name": "Sinan",
+              "surname": "Akdag"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 175530,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            },
+            {
+              "playerId": 1846,
+              "matchPlayerId": 175551,
+              "jersey": 58,
+              "name": "Tyler",
+              "surname": "Gaudet"
+            },
+            {
+              "playerId": 493,
+              "matchPlayerId": 175531,
+              "jersey": 89,
+              "name": "David",
+              "surname": "Wolf"
+            },
+            {
+              "playerId": 1768,
+              "matchPlayerId": 175548,
+              "jersey": 4,
+              "name": "Korbinian",
+              "surname": "Holzer"
+            },
+            {
+              "playerId": 1557,
+              "matchPlayerId": 175541,
+              "jersey": 30,
+              "name": "Arno",
+              "surname": "Tiefensee"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 555,
+              "matchPlayerId": 175586,
+              "jersey": 10,
+              "name": "Jonathan",
+              "surname": "Matsumoto"
+            },
+            {
+              "playerId": 1542,
+              "matchPlayerId": 175569,
+              "jersey": 39,
+              "name": "Landon",
+              "surname": "Ferraro"
+            },
+            {
+              "playerId": 2216,
+              "matchPlayerId": 175590,
+              "jersey": 37,
+              "name": "Jack",
+              "surname": "Dougherty"
+            },
+            {
+              "playerId": 2115,
+              "matchPlayerId": 175584,
+              "jersey": 13,
+              "name": "Nicholas",
+              "surname": "Baptiste"
+            },
+            {
+              "playerId": 1447,
+              "matchPlayerId": 175572,
+              "jersey": 22,
+              "name": "Maximilian",
+              "surname": "Glötzl"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 3215,
+      "type": "penalty",
+      "data": {
+        "id": 26156,
+        "team": "home",
+        "createTime": 3215,
+        "disciplinedPlayer": {
+          "playerId": 1364,
+          "matchPlayerId": 175536,
+          "jersey": 16,
+          "name": "Markus",
+          "surname": "Eisenschmid"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2023-03-24 21:43:39",
+            "scoreboardTime": 3215
+          },
+          "to": {
+            "realTime": "2023-03-24 21:45:39",
+            "scoreboardTime": 3335
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "SLASH"
+      }
+    },
+    {
+      "time": 3478,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 23398,
+        "team": "home",
+        "time": 3478,
+        "player": null,
+        "outgoingGoalkeeper": {
+          "playerId": 1557,
+          "matchPlayerId": 175541,
+          "jersey": 30,
+          "name": "Arno",
+          "surname": "Tiefensee"
+        }
+      }
+    },
+    {
+      "time": 3546,
+      "type": "timeout",
+      "data": {
+        "id": 1697,
+        "team": "home"
+      }
+    },
+    {
+      "time": 3568,
+      "type": "goal",
+      "data": {
+        "id": 17293,
+        "team": "home",
+        "currentScore": "3:3",
+        "realTime": "2023-03-24 21:53:01",
+        "scoreboardTime": 3568,
+        "balance": "EQ",
+        "ea": true,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 493,
+          "matchPlayerId": 175531,
+          "jersey": 89,
+          "name": "David",
+          "surname": "Wolf"
+        },
+        "assistants": [
+          {
+            "playerId": 1506,
+            "matchPlayerId": 175540,
+            "jersey": 71,
+            "name": "Borna",
+            "surname": "Rendulic"
+          },
+          {
+            "playerId": 1846,
+            "matchPlayerId": 175551,
+            "jersey": 58,
+            "name": "Tyler",
+            "surname": "Gaudet"
+          }
+        ],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 493,
+              "matchPlayerId": 175531,
+              "jersey": 89,
+              "name": "David",
+              "surname": "Wolf"
+            },
+            {
+              "playerId": 1506,
+              "matchPlayerId": 175540,
+              "jersey": 71,
+              "name": "Borna",
+              "surname": "Rendulic"
+            },
+            {
+              "playerId": 487,
+              "matchPlayerId": 175530,
+              "jersey": 22,
+              "name": "Matthias",
+              "surname": "Plachta"
+            },
+            {
+              "playerId": 1362,
+              "matchPlayerId": 175535,
+              "jersey": 6,
+              "name": "Joonas",
+              "surname": "Lehtivuori"
+            },
+            {
+              "playerId": 1846,
+              "matchPlayerId": 175551,
+              "jersey": 58,
+              "name": "Tyler",
+              "surname": "Gaudet"
+            },
+            {
+              "playerId": 1364,
+              "matchPlayerId": 175536,
+              "jersey": 16,
+              "name": "Markus",
+              "surname": "Eisenschmid"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 2113,
+              "matchPlayerId": 175582,
+              "jersey": 57,
+              "name": "Brady",
+              "surname": "Austin"
+            },
+            {
+              "playerId": 1449,
+              "matchPlayerId": 175573,
+              "jersey": 24,
+              "name": "Zachary",
+              "surname": "Sill"
+            },
+            {
+              "playerId": 1542,
+              "matchPlayerId": 175569,
+              "jersey": 39,
+              "name": "Landon",
+              "surname": "Ferraro"
+            },
+            {
+              "playerId": 1481,
+              "matchPlayerId": 175570,
+              "jersey": 36,
+              "name": "Andreas",
+              "surname": "Thuresson"
+            },
+            {
+              "playerId": 146,
+              "matchPlayerId": 175560,
+              "jersey": 91,
+              "name": "Moritz",
+              "surname": "Müller"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 3568,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 23400,
+        "team": "home",
+        "time": 3568,
+        "player": {
+          "playerId": 1557,
+          "matchPlayerId": 175541,
+          "jersey": 30,
+          "name": "Arno",
+          "surname": "Tiefensee"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 3581,
+      "type": "goal",
+      "data": {
+        "id": 17295,
+        "team": "home",
+        "currentScore": "4:3",
+        "realTime": "2023-03-24 21:54:17",
+        "scoreboardTime": 3581,
+        "balance": "EQ",
+        "ea": false,
+        "en": false,
+        "shooting": false,
+        "technical": false,
+        "scorer": {
+          "playerId": 143,
+          "matchPlayerId": 175529,
+          "jersey": 21,
+          "name": "Nicolas",
+          "surname": "Krämmer"
+        },
+        "assistants": [],
+        "attendants": {
+          "positive": [
+            {
+              "playerId": 25,
+              "matchPlayerId": 175527,
+              "jersey": 29,
+              "name": "Denis",
+              "surname": "Reul"
+            },
+            {
+              "playerId": 23,
+              "matchPlayerId": 175526,
+              "jersey": 7,
+              "name": "Sinan",
+              "surname": "Akdag"
+            },
+            {
+              "playerId": 2172,
+              "matchPlayerId": 175553,
+              "jersey": 74,
+              "name": "Ryan",
+              "surname": "MacInnis"
+            },
+            {
+              "playerId": 143,
+              "matchPlayerId": 175529,
+              "jersey": 21,
+              "name": "Nicolas",
+              "surname": "Krämmer"
+            },
+            {
+              "playerId": 59,
+              "matchPlayerId": 175528,
+              "jersey": 13,
+              "name": "Stefan",
+              "surname": "Loibl"
+            },
+            {
+              "playerId": 1557,
+              "matchPlayerId": 175541,
+              "jersey": 30,
+              "name": "Arno",
+              "surname": "Tiefensee"
+            }
+          ],
+          "negative": [
+            {
+              "playerId": 2216,
+              "matchPlayerId": 175590,
+              "jersey": 37,
+              "name": "Jack",
+              "surname": "Dougherty"
+            },
+            {
+              "playerId": 1520,
+              "matchPlayerId": 175571,
+              "jersey": 67,
+              "name": "Stanislav",
+              "surname": "Dietz"
+            },
+            {
+              "playerId": 291,
+              "matchPlayerId": 175566,
+              "jersey": 16,
+              "name": "Jason",
+              "surname": "Bast"
+            },
+            {
+              "playerId": 1882,
+              "matchPlayerId": 175580,
+              "jersey": 26,
+              "name": "David",
+              "surname": "McIntyre"
+            },
+            {
+              "playerId": 1004,
+              "matchPlayerId": 175562,
+              "jersey": 21,
+              "name": "Mark",
+              "surname": "Olver"
+            },
+            {
+              "playerId": 486,
+              "matchPlayerId": 175567,
+              "jersey": 30,
+              "name": "Mirko",
+              "surname": "Pantkowski"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "time": 3581,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 23402,
+        "team": "visitor",
+        "time": 3581,
+        "player": null,
+        "outgoingGoalkeeper": {
+          "playerId": 486,
+          "matchPlayerId": 175567,
+          "jersey": 30,
+          "name": "Mirko",
+          "surname": "Pantkowski"
+        }
+      }
+    },
+    {
+      "time": 3581,
+      "type": "timeout",
+      "data": {
+        "id": 1698,
+        "team": "visitor"
+      }
+    },
+    {
+      "time": 3590,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 23403,
+        "team": "visitor",
+        "time": 3590,
+        "player": {
+          "playerId": 486,
+          "matchPlayerId": 175567,
+          "jersey": 30,
+          "name": "Mirko",
+          "surname": "Pantkowski"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 3600,
+      "type": "periodEnd"
+    }
+  ],
+  "overtime": [],
+  "shootout": []
+}

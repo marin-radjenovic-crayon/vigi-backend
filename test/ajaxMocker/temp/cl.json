@@ -1,0 +1,600 @@
+{
+  "competitions": [
+    {
+      "competitionName": "UEFA Champions League",
+      "competitionId": "eaf2z13av1rs0jbwnnxfapdec",
+      "competitionIdReal": "4oogyu6o156iphvdvphwpck10",
+      "id": "4oogyu6o156iphvdvphwpck10",
+      "ocId": "10",
+      "opId": "5",
+      "name": "UEFA Champions League",
+      "knownName": "UEFA Champions League",
+      "competitionCode": "UCL",
+      "displayOrder": 100,
+      "country": "Europe",
+      "countryId": "7yiwjcnhat6jo3f901h266cwl",
+      "isFriendly": "no",
+      "competitionFormat": "International cup",
+      "type": "men",
+      "tournamentCalendar": [
+        {
+          "id": "eaf2z13av1rs0jbwnnxfapdec",
+          "includesVenues": "yes",
+          "ocId": "23680",
+          "name": "2023/2024",
+          "startDate": "2023-06-27Z",
+          "endDate": "2024-06-01Z",
+          "active": "yes",
+          "lastUpdated": "2023-08-31T18:26:00Z",
+          "includesStandings": "yes"
+        }
+      ],
+      "competitionType": "club"
+    },
+    {
+      "competitionName": "English Premier League",
+      "competitionId": "1jt5mxgn4q5r6mknmlqv5qjh0",
+      "competitionIdReal": "2kwbbcootiqqgmrzs6o5inle5",
+      "id": "2kwbbcootiqqgmrzs6o5inle5",
+      "ocId": "8",
+      "opId": "8",
+      "name": "Premier League",
+      "knownName": "English Premier League",
+      "competitionCode": "EPL",
+      "displayOrder": 10,
+      "country": "England",
+      "countryId": "1fk5l4hkqk12i7zske6mcqju6",
+      "countryCode": "ENG",
+      "isFriendly": "no",
+      "competitionFormat": "Domestic league",
+      "type": "men",
+      "tournamentCalendar": [
+        {
+          "id": "1jt5mxgn4q5r6mknmlqv5qjh0",
+          "includesVenues": "yes",
+          "ocId": "23514",
+          "name": "2023/2024",
+          "startDate": "2023-08-11Z",
+          "endDate": "2024-05-19Z",
+          "active": "yes",
+          "lastUpdated": "2023-06-16T05:05:44Z",
+          "includesStandings": "yes"
+        }
+      ],
+      "competitionType": "club"
+    },
+    {
+      "competitionName": "FIFA Women's World Cup",
+      "competitionCode": "WWC",
+      "competitionId": "5mqc55tieqhbz2sech0fp70bu",
+      "competitionIdReal": "8x62utr2uti3i7kk14isbnip6",
+      "ocId": "368",
+      "opId": "408",
+      "logo": null,
+      "tournamentCalendarId": "aln4bcqqbei83pgypog6h8rh0",
+      "displayOrder": 600,
+      "country": "World",
+      "countryId": "7yasa43laq1nb2e6f8bfuvxed",
+      "isFriendly": "no",
+      "competitionFormat": "International cup",
+      "type": "women",
+      "tournamentCalendar": [
+        {
+          "id": "5mqc55tieqhbz2sech0fp70bu",
+          "includesVenues": "yes",
+          "ocId": "17933",
+          "name": "2023 Australia / New Zealand",
+          "startDate": "2023-07-20Z",
+          "endDate": "2023-08-20Z",
+          "active": "yes",
+          "lastUpdated": "2023-07-14T05:34:20Z",
+          "includesStandings": "yes"
+        }
+      ],
+      "competitionType": "international"
+    },
+    {
+      "competitionName": "German Bundesliga",
+      "competitionId": "9b9nvvpz477r8yrzmorx8w6qc",
+      "competitionIdReal": "6by3h89i2eykc341oz7lv1ddd",
+      "id": "6by3h89i2eykc341oz7lv1ddd",
+      "ocId": "9",
+      "opId": "22",
+      "name": "Bundesliga",
+      "knownName": "German Bundesliga",
+      "competitionCode": "BUN",
+      "displayOrder": 10,
+      "country": "Germany",
+      "countryId": "36min0qztu8eydwvpv8t1is0m",
+      "countryCode": "DEU",
+      "isFriendly": "no",
+      "competitionFormat": "Domestic league",
+      "type": "men",
+      "tournamentCalendar": [
+        {
+          "id": "9b9nvvpz477r8yrzmorx8w6qc",
+          "includesVenues": "yes",
+          "ocId": "23424",
+          "name": "2023/2024",
+          "startDate": "2023-08-18Z",
+          "endDate": "2024-05-18Z",
+          "active": "yes",
+          "lastUpdated": "2023-06-30T12:13:33Z",
+          "includesStandings": "yes"
+        }
+      ],
+      "competitionType": "club"
+    }
+  ],
+  "teams": [
+    {
+      "shortcut": "Sevilla",
+      "name": "Sevilla",
+      "id": "10eyb18v5puw4ez03ocaug09m",
+      "code": "SEV"
+    },
+    {
+      "shortcut": "Larne",
+      "name": "Larne",
+      "id": "1hg5ttq2rjlbm4t1qgh4o3jnw",
+      "code": "LAR"
+    },
+    {
+      "shortcut": "Atlètic",
+      "name": "Atlètic Club d'Escaldes",
+      "id": "1kqorwebktwqaz7k56ulfdrjv",
+      "code": "ATL"
+    },
+    {
+      "shortcut": "Flora",
+      "name": "Flora",
+      "id": "1rfuyt1v2hq9gp7xi55x56fi2",
+      "code": "FLO"
+    },
+    {
+      "shortcut": "Raków",
+      "name": "Raków Częstochowa",
+      "id": "1sxaf8l7fknmucd72fdretogm",
+      "code": "RAK"
+    },
+    {
+      "shortcut": "Feyenoord",
+      "name": "Feyenoord",
+      "id": "20vymiy7bo8wkyxai3ew494fz",
+      "code": "FEY"
+    },
+    {
+      "shortcut": "PSV",
+      "name": "PSV",
+      "id": "24fvcruwqrqvqa3aonf8c3zuy",
+      "code": "PSV"
+    },
+    {
+      "shortcut": "Braga",
+      "name": "Sporting Braga",
+      "id": "26t6lvlpql4w5wu1ih73qpy36",
+      "code": "BRA"
+    },
+    {
+      "shortcut": "Marseille",
+      "name": "Olympique Marseille",
+      "id": "27xvwccz8kpmqsefjv2b2sc0o",
+      "code": "OM"
+    },
+    {
+      "shortcut": "PSG",
+      "name": "PSG",
+      "id": "2b3mar72yy8d6uvat1ka6tn3r",
+      "code": "PSG"
+    },
+    {
+      "shortcut": "HJK",
+      "name": "HJK",
+      "id": "303582z192rnbr2x28o2t7u38",
+      "code": "HJK"
+    },
+    {
+      "shortcut": "Zrinjski",
+      "name": "Zrinjski",
+      "id": "39r69xdnw8usnndtetv3un9z3",
+      "code": "ZRI"
+    },
+    {
+      "shortcut": "Real Madrid",
+      "name": "Real Madrid",
+      "id": "3kq9cckrnlogidldtdie2fkbl",
+      "code": "RMA"
+    },
+    {
+      "shortcut": "Farul",
+      "name": "FCV Farul Constanţa",
+      "id": "3p3r3bt8hqpia1j9kr9olotwq",
+      "code": "FAR"
+    },
+    {
+      "shortcut": "Urartu",
+      "name": "Urartu",
+      "id": "3qmloxmolo1ydf5n3l2e4gqxk",
+      "code": "URA"
+    },
+    {
+      "shortcut": "Inter",
+      "name": "Internazionale",
+      "id": "3vo5mpj7catp66nrwwqiuhuup",
+      "code": "INT"
+    },
+    {
+      "shortcut": "Lens",
+      "name": "Lens",
+      "id": "3xedluek08t2ka7oypwuullcn",
+      "code": "RCL"
+    },
+    {
+      "shortcut": "Aris Limassol",
+      "name": "Aris Limassol",
+      "id": "3yt473wfo7f64lhmyfsf0zxcg",
+      "code": "ARI"
+    },
+    {
+      "shortcut": "Molde",
+      "name": "Molde",
+      "id": "45v50owpvshpijizwwlcw4lni",
+      "code": "MOL"
+    },
+    {
+      "shortcut": "Arsenal",
+      "name": "Arsenal",
+      "id": "4dsgumo7d4zupm2ugsvm4zm4d",
+      "code": "ARS"
+    },
+    {
+      "shortcut": "Atlético",
+      "name": "Atlético Madrid",
+      "id": "4ku8o6uf87yd8iecdalipo6wd",
+      "code": "ATM"
+    },
+    {
+      "shortcut": "Sturm",
+      "name": "Sturm Graz",
+      "id": "4lauow63npvttmvxgh2koqb0r",
+      "code": "STU"
+    },
+    {
+      "shortcut": "Panathinaikos",
+      "name": "Panathinaikos",
+      "id": "4ws3k9155net1ydbvr8c940dy",
+      "code": "PAO"
+    },
+    {
+      "shortcut": "Shamrock",
+      "name": "Shamrock Rovers",
+      "id": "51xekmm31jztuvdliya7idg5d",
+      "code": "SHA"
+    },
+    {
+      "shortcut": "Young Boys",
+      "name": "Young Boys",
+      "id": "5fd9f9bti2cdgb6r1lf8l2bc7",
+      "code": "YB"
+    },
+    {
+      "shortcut": "KÍ",
+      "name": "KÍ",
+      "id": "5hxhbq90kzf5ru0s2weylw1wu",
+      "code": "KÍ"
+    },
+    {
+      "shortcut": "Sparta",
+      "name": "Sparta Praha",
+      "id": "5ocdn3a6s75u0d0dy0rbou0xc",
+      "code": "SPA"
+    },
+    {
+      "shortcut": "Real Sociedad",
+      "name": "Real Sociedad",
+      "id": "63f5h8t5e9qm1fqmvfkb23ghh",
+      "code": "RSO"
+    },
+    {
+      "shortcut": "Porto",
+      "name": "Porto",
+      "id": "66bsnl0zjb7l5akwo00h0y5me",
+      "code": "POR"
+    },
+    {
+      "shortcut": "Man Utd",
+      "name": "Manchester United",
+      "id": "6eqit8ye8aomdsrrq0hk3v7gh",
+      "code": "MUN"
+    },
+    {
+      "shortcut": "Ludogorets",
+      "name": "Ludogorets",
+      "id": "6uhzci0mwrzly1e4trka6k4ea",
+      "code": "LUD"
+    },
+    {
+      "shortcut": "Struga",
+      "name": "Struga",
+      "id": "6wiscsymyeao5czbi6z8ldf1m",
+      "code": "STR"
+    },
+    {
+      "shortcut": "Partizani",
+      "name": "Partizani Tirana",
+      "id": "6wqpjldp6k1dpun59bqsz7jrt",
+      "code": "PAR"
+    },
+    {
+      "shortcut": "Olimpija",
+      "name": "Olimpija",
+      "id": "75ajd08kvi4wwfua0u1a1qa1q",
+      "code": "OLI"
+    },
+    {
+      "shortcut": "AEK Athens",
+      "name": "AEK Athens",
+      "id": "7ruua9q5rtswwi5d6xtquuto5",
+      "code": "AEK"
+    },
+    {
+      "shortcut": "Newcastle",
+      "name": "Newcastle United",
+      "id": "7vn2i2kd35zuetw6b38gw9jsz",
+      "code": "NEW"
+    },
+    {
+      "shortcut": "Dinamo Zagreb",
+      "name": "Dinamo Zagreb",
+      "id": "7vyubxg6fnmwwyo2nnyhp6j5d",
+      "code": "DIN"
+    },
+    {
+      "shortcut": "Antwerp",
+      "name": "Antwerp",
+      "id": "7zibyotq1x1hq6pmgibhr0e6s",
+      "code": "ANT"
+    },
+    {
+      "shortcut": "Crvena Zvezda",
+      "name": "Crvena Zvezda",
+      "id": "81lpho34qr3dad0xzalq0abja",
+      "code": "CZV"
+    },
+    {
+      "shortcut": "TNS",
+      "name": "The New Saints",
+      "id": "85l2ewv17mqmw3otdletjc36",
+      "code": "TNS"
+    },
+    {
+      "shortcut": "Genk",
+      "name": "Genk",
+      "id": "89xivtxk59uzvhdsd6miao6tm",
+      "code": "GNK"
+    },
+    {
+      "shortcut": "Astana",
+      "name": "Astana",
+      "id": "8hluxv5afo5yejrtl36naq9uv",
+      "code": "AST"
+    },
+    {
+      "shortcut": "Milan",
+      "name": "Milan",
+      "id": "9dntj5dioj5ex52yrgwzxrq9l",
+      "code": "MIL"
+    },
+    {
+      "shortcut": "Leipzig",
+      "name": "RB Leipzig",
+      "id": "9gefq4dz9b2hl8rqrxwrlrzmp",
+      "code": "RBL"
+    },
+    {
+      "shortcut": "Dinamo Tbilisi",
+      "name": "Dinamo Tbilisi",
+      "id": "9h0xr6fy0ngrq5f8gjiredk5j",
+      "code": "DTB"
+    },
+    {
+      "shortcut": "Benfica",
+      "name": "Benfica",
+      "id": "9ldqu49smv1xg2va0n2cy28zl",
+      "code": "SLB"
+    },
+    {
+      "shortcut": "Häcken",
+      "name": "Häcken",
+      "id": "9zqn9ugvg64it0lr5z8cq4g9v",
+      "code": "BKH"
+    },
+    {
+      "shortcut": "Man City",
+      "name": "Manchester City",
+      "id": "a3nyxabgsqlnqfkeg41m6tnpp",
+      "code": "MCI"
+    },
+    {
+      "shortcut": "Union Berlin",
+      "name": "Union Berlin",
+      "id": "a8d2gb2nag8fy0itbuxmcibh2",
+      "code": "FCU"
+    },
+    {
+      "shortcut": "Hamrun",
+      "name": "Hamrun Spartans",
+      "id": "acdg6tq939mzvm80c0z90uxbi",
+      "code": "HAM"
+    },
+    {
+      "shortcut": "Barcelona",
+      "name": "Barcelona",
+      "id": "agh9ifb2mw3ivjusgedj7c3fe",
+      "code": "BAR"
+    },
+    {
+      "shortcut": "Swift",
+      "name": "Swift Hesperange",
+      "id": "albkxbs7di3rqa6h95mwa6b54",
+      "code": "SWI"
+    },
+    {
+      "shortcut": "Bayern München",
+      "name": "Bayern München",
+      "id": "apoawtpvac4zqlancmvw4nk4o",
+      "code": "FCB"
+    },
+    {
+      "shortcut": "Ferencváros",
+      "name": "Ferencváros",
+      "id": "b3o0wckz4w3fusytybpgxftgm",
+      "code": "FTC"
+    },
+    {
+      "shortcut": "København",
+      "name": "København",
+      "id": "b3r6d8ydtmtjckam6pku9y400",
+      "code": "FCK"
+    },
+    {
+      "shortcut": "Dnipro-1",
+      "name": "Dnipro-1",
+      "id": "b906tqcttb0x1tnbe0zobz8tm",
+      "code": "DN1"
+    },
+    {
+      "shortcut": "M Haifa",
+      "name": "Maccabi Haifa",
+      "id": "bglyqy0awtu6lzvpab390rir2",
+      "code": "MHA"
+    },
+    {
+      "shortcut": "Salzburg",
+      "name": "Salzburg",
+      "id": "bonj6qc7po4anunhydmjmi6g5",
+      "code": "RBS"
+    },
+    {
+      "shortcut": "Lazio",
+      "name": "Lazio",
+      "id": "btcy9nra9ak4m22ovr2ia6m5v",
+      "code": "LAZ"
+    },
+    {
+      "shortcut": "Breidablik",
+      "name": "Breidablik",
+      "id": "c6hu27u143y4z4te8b4036bae",
+      "code": "BRE"
+    },
+    {
+      "shortcut": "Red Imps",
+      "name": "Lincoln Red Imps",
+      "id": "c6xkfm5pm0pd220olqc6x8hlj",
+      "code": "RDI"
+    },
+    {
+      "shortcut": "Servette",
+      "name": "Servette",
+      "id": "ccwv4ymbs3u0q8xaby4hqb0jz",
+      "code": "SFC"
+    },
+    {
+      "shortcut": "Shakhtar D",
+      "name": "Shakhtar Donetsk",
+      "id": "cf8plcmeniaen0fc5emyb5j93",
+      "code": "SHK"
+    },
+    {
+      "shortcut": "Slovan",
+      "name": "Slovan Bratislava",
+      "id": "cmj1019uptq8i042n5y16itbd",
+      "code": "SLO"
+    },
+    {
+      "shortcut": "Rangers",
+      "name": "Rangers",
+      "id": "cnnku8uihko7u4th0fms4pvg6",
+      "code": "RAN"
+    },
+    {
+      "shortcut": "Ballkani",
+      "name": "Ballkani",
+      "id": "cuzhkg1y2iv7fppnjldenfk2y",
+      "code": "BAL"
+    },
+    {
+      "shortcut": "Tre Penne",
+      "name": "Tre Penne",
+      "id": "cxf8lbnks8hlipfwifodpv1fv",
+      "code": "TRE"
+    },
+    {
+      "shortcut": "Valmiera",
+      "name": "Valmiera",
+      "id": "d1ebcl51fg8b90uggkl4cykij",
+      "code": "VAL"
+    },
+    {
+      "shortcut": "Sheriff",
+      "name": "Sheriff",
+      "id": "dcx559ojp4lgxwc9z9xxbzgre",
+      "code": "SHE"
+    },
+    {
+      "shortcut": "Budućnost",
+      "name": "Budućnost",
+      "id": "dfjnxj9vmk8l3e8nrql4vg9fl",
+      "code": "BUD"
+    },
+    {
+      "shortcut": "BATE",
+      "name": "BATE",
+      "id": "dt1p3v926refyx025719o2pc2",
+      "code": "BAT"
+    },
+    {
+      "shortcut": "Dortmund",
+      "name": "Borussia Dortmund",
+      "id": "dt4pinj0vw0t0cvz7za6mhmzy",
+      "code": "BVB"
+    },
+    {
+      "shortcut": "Celtic",
+      "name": "Celtic",
+      "id": "dvnjvad3p09dugr79gktlrtll",
+      "code": "CEL"
+    },
+    {
+      "shortcut": "Qarabağ",
+      "name": "Qarabağ",
+      "id": "dz0fc3304a30bzm9lht0bhpqt",
+      "code": "QAR"
+    },
+    {
+      "shortcut": "TSC",
+      "name": "TSC",
+      "id": "ee85k7vpo1yzn2ecre71ebydx",
+      "code": "TSC"
+    },
+    {
+      "shortcut": "Galatasaray",
+      "name": "Galatasaray",
+      "id": "esa748l653sss1wurz5ps3228",
+      "code": "GS"
+    },
+    {
+      "shortcut": "Napoli",
+      "name": "Napoli",
+      "id": "gi0l1habji5hpgar77dl5jqe",
+      "code": "NAP"
+    },
+    {
+      "shortcut": "Žalgiris",
+      "name": "Žalgiris",
+      "id": "tqszs9t9rn0xzxxjuhr2ujob",
+      "code": "ŽAL"
+    }
+  ],
+  "matches": []
+}

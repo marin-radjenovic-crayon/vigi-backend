@@ -1,0 +1,5 @@
+module.exports = {
+  CALL_SAVE_TYPES: {
+    RESAVE_ALL_TEMPLATES: 'RESAVE_ALL_TEMPLATES'
+  }
+};

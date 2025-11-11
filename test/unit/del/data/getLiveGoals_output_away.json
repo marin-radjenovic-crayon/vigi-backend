@@ -1,0 +1,58 @@
+[
+  {
+    "playerId": 1464,
+    "matchPlayerId": 120964,
+    "jersey": 87,
+    "name": "Fabian",
+    "surname": "Dietz",
+    "teamSide": "visitor",
+    "eventId": "11490",
+    "realTime": "2021-04-11 14:44:56",
+    "currentScore": "0:1",
+    "scoreboardTime": "09:06",
+    "period": "1",
+    "shooting": false
+  },
+  {
+    "playerId": 1172,
+    "matchPlayerId": 120957,
+    "jersey": 97,
+    "name": "Matthew",
+    "surname": "White",
+    "teamSide": "visitor",
+    "eventId": "11491",
+    "realTime": "2021-04-11 14:46:20",
+    "currentScore": "0:2",
+    "scoreboardTime": "09:48",
+    "period": "1",
+    "shooting": false
+  },
+  {
+    "playerId": 1615,
+    "matchPlayerId": 120970,
+    "jersey": 10,
+    "name": "Parker",
+    "surname": "Tuomie",
+    "teamSide": "visitor",
+    "eventId": "11492",
+    "realTime": "2021-04-11 15:46:14",
+    "currentScore": "0:3",
+    "scoreboardTime": "38:04",
+    "period": "2",
+    "shooting": false
+  },
+  {
+    "playerId": 1172,
+    "matchPlayerId": 120957,
+    "jersey": 97,
+    "name": "Matthew",
+    "surname": "White",
+    "teamSide": "visitor",
+    "eventId": "11493",
+    "realTime": "2021-04-11 16:16:32",
+    "currentScore": "0:4",
+    "scoreboardTime": "44:44",
+    "period": "3",
+    "shooting": false
+  }
+]

@@ -1,0 +1,717 @@
+{
+  "matches": [
+    {
+      "id": 3025,
+      "start_date": "2023-03-17 19:00:00",
+      "real_end_date": "2023-03-17 21:24:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 2",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3027,
+      "start_date": "2023-03-19 14:00:00",
+      "real_end_date": "2023-03-19 16:20:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 3",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3029,
+      "start_date": "2023-03-22 19:30:00",
+      "real_end_date": "2023-03-22 21:43:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 4",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3031,
+      "start_date": "2023-03-24 19:30:00",
+      "real_end_date": "2023-03-24 21:50:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 5",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3033,
+      "start_date": "2023-03-26 19:00:00",
+      "real_end_date": "2023-03-26 21:30:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 6",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3694
+    },
+    {
+      "id": 3035,
+      "start_date": "2023-03-29 19:30:00",
+      "real_end_date": "2023-03-29 21:38:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 7",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3036,
+      "start_date": "2023-03-31 19:00:00",
+      "real_end_date": "2023-03-31 21:18:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 1",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3051,
+      "start_date": "2023-03-14 19:00:00",
+      "real_end_date": "2023-03-14 21:25:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Viertelfinale 1",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3053,
+      "start_date": "0000-00-00 00:00:00",
+      "real_end_date": "0000-00-00 00:00:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 1",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "BEFORE_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "vor dem Spiel",
+      "actual_time_alias": "0",
+      "last_event_time": 0
+    },
+    {
+      "id": 3055,
+      "start_date": "2023-04-02 13:15:00",
+      "real_end_date": "2023-04-02 15:39:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 2",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3058,
+      "start_date": "2023-04-04 19:30:00",
+      "real_end_date": "2023-04-04 21:57:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 3",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 4
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3059,
+      "start_date": "2023-04-06 19:00:00",
+      "real_end_date": "2023-04-06 21:12:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 4",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3061,
+      "start_date": "2023-04-08 15:15:00",
+      "real_end_date": "2023-04-08 17:49:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 5",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3797
+    },
+    {
+      "id": 3063,
+      "start_date": "2023-04-10 15:15:00",
+      "real_end_date": "2023-04-10 17:31:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 6",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 3065,
+      "start_date": "2023-04-12 19:30:00",
+      "real_end_date": "2023-04-12 21:45:00",
+      "league_id": 3,
+      "league": "DEL Playoffs",
+      "season": "2022",
+      "round": "Halbfinale 7",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 7,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    }
+  ]
+}

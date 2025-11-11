@@ -1,0 +1,93 @@
+{
+  "actualTimeName": "Ende n. Penaltyschießen",
+  "actualTimeAlias": "KN",
+  "stadium": "SAP-Arena",
+  "numberOfViewers": 0,
+  "referees": {
+    "headReferee1": {
+      "id": 65,
+      "name": "Lasse Kopitz"
+    },
+    "headReferee2": {
+      "id": 106,
+      "name": "André Schrader"
+    },
+    "lineReferee1": {
+      "id": 51,
+      "name": "Andreas Hofer"
+    },
+    "lineReferee2": {
+      "id": 205,
+      "name": "Marius Wölzmüller"
+    }
+  },
+  "teamInfo": {
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "visitor": {
+      "id": 12,
+      "name": "EHC Red Bull München",
+      "shortcut": "RBM"
+    }
+  },
+  "trainers": {
+    "visitorHeadCoach": {
+      "id": 82,
+      "name": "Don Jackson"
+    },
+    "homeHeadCoach": {
+      "id": 103,
+      "name": "Pavel Gross"
+    }
+  },
+  "teamBilance": {
+    "homeWin": 10,
+    "visitorWin": 10
+  },
+  "results": {
+    "extra_time": true,
+    "shooting": true,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 3,
+        "score_guest": 2
+      },
+      "first_period": {
+        "score_home": 2,
+        "score_guest": 2
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "overtime": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "shootout": {
+        "score_home": 1,
+        "score_guest": 0
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": 143,
+      "name": "Nicolas Krämmer"
+    },
+    "visitor": {
+      "id": 80,
+      "name": "Yasin Ehliz"
+    }
+  },
+  "overtimeCount": 1,
+  "lastEventTime": 3900
+}

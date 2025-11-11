@@ -1,0 +1,1854 @@
+{
+  "matches": [
+    {
+      "id": 1822,
+      "start_date": "2020-12-20 17:00:00",
+      "real_end_date": "2020-12-20 19:22:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "1",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1830,
+      "start_date": "2020-12-23 20:30:00",
+      "real_end_date": "2020-12-23 22:43:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "2",
+      "home": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1834,
+      "start_date": "2020-12-27 14:30:00",
+      "real_end_date": "2020-12-27 16:42:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "3",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1842,
+      "start_date": "2021-01-02 20:00:00",
+      "real_end_date": "2021-01-02 22:08:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "4",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1847,
+      "start_date": "2021-01-04 20:30:00",
+      "real_end_date": "2021-01-04 23:00:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "5",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1854,
+      "start_date": "2021-01-08 18:30:00",
+      "real_end_date": "2021-01-08 20:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "6",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 6
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1868,
+      "start_date": "2021-01-15 20:30:00",
+      "real_end_date": "2021-01-15 22:51:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "9",
+      "home": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 6,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1876,
+      "start_date": "2021-01-19 18:30:00",
+      "real_end_date": "2021-01-19 20:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "10",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1881,
+      "start_date": "2021-01-21 20:30:00",
+      "real_end_date": "2021-01-21 22:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "11",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1888,
+      "start_date": "2021-01-24 17:00:00",
+      "real_end_date": "2021-01-24 19:15:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "12",
+      "home": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3615
+    },
+    {
+      "id": 1895,
+      "start_date": "2021-01-28 20:30:00",
+      "real_end_date": "2021-01-28 22:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "13",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 8,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 5,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1901,
+      "start_date": "2021-01-31 14:30:00",
+      "real_end_date": "2021-01-31 16:49:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "14",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1905,
+      "start_date": "2021-02-02 20:30:00",
+      "real_end_date": "2021-02-02 22:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "15",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 7,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1918,
+      "start_date": "2021-02-13 17:30:00",
+      "real_end_date": "2021-02-13 19:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "17",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1923,
+      "start_date": "2021-02-15 20:30:00",
+      "real_end_date": "2021-02-15 22:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "18",
+      "home": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1929,
+      "start_date": "2021-02-18 20:30:00",
+      "real_end_date": "2021-02-18 22:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "19",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1935,
+      "start_date": "2021-02-21 19:30:00",
+      "real_end_date": "2021-02-21 22:00:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "20",
+      "home": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1942,
+      "start_date": "2021-02-25 18:30:00",
+      "real_end_date": "2021-02-25 20:58:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "21",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1946,
+      "start_date": "2021-02-27 17:30:00",
+      "real_end_date": "2021-02-27 19:58:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "22",
+      "home": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1953,
+      "start_date": "2021-03-02 18:30:00",
+      "real_end_date": "2021-03-02 20:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "23",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 3
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1958,
+      "start_date": "2021-03-05 20:30:00",
+      "real_end_date": "2021-03-05 22:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "24",
+      "home": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 7
+          },
+          "first_period": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 4
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1973,
+      "start_date": "2021-03-12 18:30:00",
+      "real_end_date": "2021-03-12 20:53:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "26",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 6
+          },
+          "first_period": {
+            "score_home": 3,
+            "score_guest": 3
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1977,
+      "start_date": "2021-03-14 17:00:00",
+      "real_end_date": "2021-03-14 19:08:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "27",
+      "home": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 4
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1985,
+      "start_date": "2021-02-10 18:30:00",
+      "real_end_date": "2021-02-10 20:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "28",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 2003,
+      "start_date": "2021-03-22 20:30:00",
+      "real_end_date": "2021-03-22 22:53:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "29",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 6,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2008,
+      "start_date": "2021-03-24 18:30:00",
+      "real_end_date": "2021-03-24 20:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "30",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2015,
+      "start_date": "2021-03-26 19:30:00",
+      "real_end_date": "2021-03-26 22:00:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "31",
+      "home": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2021,
+      "start_date": "2021-03-28 19:30:00",
+      "real_end_date": "2021-03-28 21:46:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "32",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2034,
+      "start_date": "2021-03-31 18:30:00",
+      "real_end_date": "2021-03-31 20:57:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "33",
+      "home": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "CONTUMACY",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": true,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2038,
+      "start_date": "2021-04-01 19:30:00",
+      "real_end_date": "2021-04-01 21:56:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "34",
+      "home": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3861
+    },
+    {
+      "id": 2041,
+      "start_date": "2021-04-15 19:30:00",
+      "real_end_date": "2021-04-15 21:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "35",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2047,
+      "start_date": "2021-04-05 18:30:00",
+      "real_end_date": "2021-04-05 20:38:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "36",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2055,
+      "start_date": "2021-04-07 18:30:00",
+      "real_end_date": "2021-04-07 20:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "37",
+      "home": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 4
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2066,
+      "start_date": "2021-04-10 17:30:00",
+      "real_end_date": "2021-04-10 19:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "38",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 2074,
+      "start_date": "2021-04-12 18:30:00",
+      "real_end_date": "2021-04-12 20:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "39",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 6,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2078,
+      "start_date": "2021-04-13 20:30:00",
+      "real_end_date": "2021-04-13 22:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "40",
+      "home": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2085,
+      "start_date": "2021-04-16 19:30:00",
+      "real_end_date": "2021-04-16 21:55:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "41",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 2091,
+      "start_date": "2021-04-18 14:30:00",
+      "real_end_date": "2021-04-18 16:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "42",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 2070,
+  "start_date": "2021-04-11 14:30:00",
+  "real_end_date": "2021-04-11 16:40:00",
+  "league_id": 1,
+  "league": "DEL",
+  "season": "2020",
+  "round": "39",
+  "home": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "guest": {
+    "id": 3,
+    "name": "Eisbären Berlin",
+    "shortcut": "EBB"
+  },
+  "status": "AFTER_MATCH",
+  "overtimeCount": null,
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 1,
+        "score_guest": 4
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 2
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 1
+      },
+      "third_period": {
+        "score_home": 1,
+        "score_guest": 1
+      }
+    }
+  },
+  "actual_time_name": "Ende",
+  "actual_time_alias": "K",
+  "last_event_time": 3600
+}

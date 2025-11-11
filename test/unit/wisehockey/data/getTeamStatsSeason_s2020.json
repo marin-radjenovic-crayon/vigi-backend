@@ -1,0 +1,134 @@
+{
+  "home": {
+    "teamId": "2",
+    "teamName": "Adler Mannheim",
+    "eurohockeyId": 14,
+    "coach_id": 100009,
+    "coach": "Pavel Gross",
+    "arena": "SAP-Arena",
+    "games": 38,
+    "regularWins": {
+      "home": 13,
+      "away": 10
+    },
+    "regularLosses": {
+      "home": 3,
+      "away": 2
+    },
+    "overtimeWins": {
+      "home": 2,
+      "away": 2
+    },
+    "overtimeLosses": {
+      "home": 0,
+      "away": 2
+    },
+    "shootoutWins": {
+      "home": 1,
+      "away": 3
+    },
+    "shootoutLosses": {
+      "home": 0,
+      "away": 0
+    },
+    "goalScored": {
+      "home": 55,
+      "away": 61
+    },
+    "goalsAgainst": {
+      "home": 27,
+      "away": 44
+    },
+    "shots": 1161,
+    "faceOffs": 2160,
+    "faceOffsWins": 1150,
+    "faceOffsWinsPercent": 53.24,
+    "numberOfPowerPlays": 154,
+    "powerPlayGoalsScored": 22,
+    "powerPlayEfficiency": 14.29,
+    "powerPlaySeconds": 13765,
+    "numberOfPenaltyKills": 155,
+    "shorthandedGoalsReceived": 11,
+    "penaltyKillingEfficiency": 92.9,
+    "penaltyCount": {
+      "2": 169,
+      "5": 1,
+      "10": 2,
+      "20": 1,
+      "25": 0
+    },
+    "saves": 875,
+    "zeros": 6,
+    "sumAttendance": 0,
+    "avgAttendance": 0,
+    "rank": "2",
+    "last10": "6-4",
+    "bilance": "34-18"
+  },
+  "away": {
+    "teamId": "3",
+    "teamName": "Eisbären Berlin",
+    "eurohockeyId": 37,
+    "coach_id": 100042,
+    "coach": "Serge Aubin",
+    "arena": "Mercedes-Benz Arena",
+    "games": 38,
+    "regularWins": {
+      "home": 14,
+      "away": 9
+    },
+    "regularLosses": {
+      "home": 2,
+      "away": 7
+    },
+    "overtimeWins": {
+      "home": 0,
+      "away": 0
+    },
+    "overtimeLosses": {
+      "home": 1,
+      "away": 1
+    },
+    "shootoutWins": {
+      "home": 1,
+      "away": 0
+    },
+    "shootoutLosses": {
+      "home": 1,
+      "away": 2
+    },
+    "goalScored": {
+      "home": 68,
+      "away": 69
+    },
+    "goalsAgainst": {
+      "home": 34,
+      "away": 57
+    },
+    "shots": 1357,
+    "faceOffs": 2318,
+    "faceOffsWins": 1126,
+    "faceOffsWinsPercent": 48.58,
+    "numberOfPowerPlays": 157,
+    "powerPlayGoalsScored": 37,
+    "powerPlayEfficiency": 23.57,
+    "powerPlaySeconds": 13783,
+    "numberOfPenaltyKills": 167,
+    "shorthandedGoalsReceived": 31,
+    "penaltyKillingEfficiency": 81.44,
+    "penaltyCount": {
+      "2": 175,
+      "5": 0,
+      "10": 2,
+      "20": 1,
+      "25": 0
+    },
+    "saves": 979,
+    "zeros": 5,
+    "sumAttendance": 0,
+    "avgAttendance": 0,
+    "rank": "4",
+    "last10": "7-3",
+    "bilance": "32-20"
+  }
+}

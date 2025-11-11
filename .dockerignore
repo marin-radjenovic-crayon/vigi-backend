@@ -1,0 +1,17 @@
+.git
+.idea
+/.vscode
+node_modules
+npm-debug
+*.log
+/public/screenshots
+/public/upload
+/load-testing
+/deployment
+/.idea
+/.fastRequest
+/public/upload
+/scripts/performstats/output
+tmp
+output
+logs

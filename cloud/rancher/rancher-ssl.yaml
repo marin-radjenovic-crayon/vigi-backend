@@ -1,0 +1,40 @@
+# ClusterIssuer for Let's Encrypt to automate TLS certificates
+apiVersion: cert-manager.io/v1
+kind: ClusterIssuer
+metadata:
+  name: letsencrypt-prod
+spec:
+  acme:
+    server: https://acme-v02.api.letsencrypt.org/directory  # ACME server URL for Let's Encrypt
+    email: adrian.szlagor@vigitalsolutions.com  # Email used for registration and recovery
+    privateKeySecretRef:
+      name: letsencrypt-prod-private-key  # Secret to store the ACME account private key
+    solvers:
+      - http01:
+          ingress:
+            class: traefik  # Ingress class to use for solving challenges
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: rancher-ingress
+  namespace: cattle-system
+  annotations:
+    kubernetes.io/ingress.class: "traefik"
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+spec:
+  tls:
+    - hosts:
+        - rancher.cloud.vigitalsolutions.com
+      secretName: rancher-cloud-vigitalsolutions-tls  # A new secret name for clarity
+  rules:
+    - host: rancher.cloud.vigitalsolutions.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: rancher
+                port:
+                  number: 80

@@ -1,0 +1,61 @@
+{
+  "actualTimeName": "Ende",
+  "actualTimeAlias": "K",
+  "stadium": "SAP-Arena",
+  "numberOfViewers": 0,
+  "teamBilance": {
+    "homeWin": 9,
+    "visitorWin": 9
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 1,
+        "score_guest": 4
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 2
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 1
+      },
+      "third_period": {
+        "score_home": 1,
+        "score_guest": 1
+      }
+    }
+  },
+  "home": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "away": {
+    "id": 3,
+    "name": "Eisbären Berlin",
+    "shortcut": "EBB"
+  },
+  "referees": {
+    "headReferee1": {
+      "id": 122,
+      "name": "Lukas Kohlmüller"
+    },
+    "headReferee2": {
+      "id": 66,
+      "name": "Gordon Schukies"
+    },
+    "lineReferee1": {
+      "id": 200,
+      "name": "Wayne Gerth"
+    },
+    "lineReferee2": {
+      "id": 127,
+      "name": "Jonas Merten"
+    }
+  }
+}

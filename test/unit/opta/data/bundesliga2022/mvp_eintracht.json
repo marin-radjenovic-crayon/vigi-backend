@@ -1,0 +1,35 @@
+{
+  "id": "g3fgd752o63acmmuahdvppm1",
+  "matchDataScore": {
+    "indexScore": {
+      "type": "score",
+      "value": "89.24524"
+    },
+    "rawIndexScore": [
+      {
+        "type": "goalkeeping",
+        "value": "\"\""
+      },
+      {
+        "type": "passing",
+        "value": "-0.0120"
+      },
+      {
+        "type": "attacking",
+        "value": "-0.0509"
+      },
+      {
+        "type": "shooting",
+        "value": "0.5749"
+      },
+      {
+        "type": "possession",
+        "value": "-0.0223"
+      },
+      {
+        "type": "defending",
+        "value": "\"\""
+      }
+    ]
+  }
+}

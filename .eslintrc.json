@@ -1,0 +1,32 @@
+{
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "requireConfigFile": false,
+    "babelOptions": {
+      "babelrc": false,
+      "configFile": false
+    }
+  },
+  "env": {
+    "node": true,
+    "mocha": true,
+    "es6": true
+  },
+  "globals": {
+    "APP_ROOT_PATH": true,
+    "MAINCONFIG": true,
+    "APP_FULLURL": true,
+    "Promise": true,
+    "_": true,
+    "async": true,
+    "expect": true,
+    "LOGGER": true
+  },
+  "rules": {
+    "no-unused-vars": "off",
+    "no-async-promise-executor": "warn"
+  },
+  "extends": [
+    "eslint:recommended"
+  ]
+}

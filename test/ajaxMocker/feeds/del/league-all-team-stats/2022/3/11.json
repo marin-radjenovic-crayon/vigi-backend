@@ -1,0 +1,66 @@
+{
+  "teamId": "11",
+  "teamName": "Kölner Haie",
+  "eurohockeyId": 42,
+  "coach_id": 100001,
+  "coach": "Uwe Krupp",
+  "arena": "Lanxess Arena",
+  "games": 6,
+  "regularWins": {
+    "home": 0,
+    "away": 1
+  },
+  "regularLosses": {
+    "home": 3,
+    "away": 1
+  },
+  "overtimeWins": {
+    "home": 0,
+    "away": 0
+  },
+  "overtimeLosses": {
+    "home": 0,
+    "away": 0
+  },
+  "shootoutWins": {
+    "home": 0,
+    "away": 1
+  },
+  "shootoutLosses": {
+    "home": 0,
+    "away": 0
+  },
+  "goalScored": {
+    "home": 6,
+    "away": 10
+  },
+  "goalsAgainst": {
+    "home": 12,
+    "away": 6
+  },
+  "shots": 157,
+  "faceOffs": 371,
+  "faceOffsWins": 181,
+  "faceOffsWinsPercent": 48.79,
+  "numberOfPowerPlays": 23,
+  "powerPlayGoalsScored": 3,
+  "powerPlayEfficiency": 13.04,
+  "powerPlaySeconds": 2102,
+  "numberOfPenaltyKills": 28,
+  "shorthandedGoalsReceived": 5,
+  "penaltyKillingEfficiency": 82.14,
+  "penaltyCount": {
+    "2": 38,
+    "5": 1,
+    "10": 0,
+    "20": 0,
+    "25": 0
+  },
+  "saves": 154,
+  "zeros": 1,
+  "sumAttendance": 53652,
+  "avgAttendance": 17884,
+  "last10": "2-4",
+  "bilance": "2-4",
+  "rank": 16
+}

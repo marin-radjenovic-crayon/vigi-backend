@@ -1,0 +1,428 @@
+{
+  "timeline": {
+    "formats": [
+      "1920x1080"
+    ],
+    "settings": {
+      "playMode": "manual"
+    }
+  },
+  "templates": [
+    {
+      "name": "playerfacts",
+      "label": "Player Facts",
+      "active": false,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "teamfacts",
+      "label": "Team Facts",
+      "active": false,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "playerstats",
+      "label": "Player Stats",
+      "active": false,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "playercompare",
+      "label": "Player Compare",
+      "active": false,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "teamcompare",
+      "label": "Team Compare",
+      "active": false,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "adlergameday",
+      "label": "Gameday",
+      "active": true,
+      "formats": [
+        "1920x1080",
+        "1080x1920",
+        "1200x1500"
+      ]
+    },
+    {
+      "name": "adlerresults",
+      "label": "Results",
+      "active": true,
+      "formats": [
+        "1920x1080",
+        "1200x1500"
+      ]
+    },
+    {
+      "name": "adlerstatistics",
+      "label": "Statistics",
+      "active": true,
+      "formats": [
+        "1920x1080",
+        "1200x1500"
+      ]
+    },
+    {
+      "name": "adlerlineup",
+      "label": "Lineup",
+      "active": true,
+      "formats": [
+        "1920x1080",
+        "1200x1500"
+      ]
+    },
+    {
+      "name": "adlergoal",
+      "label": "Goal",
+      "active": true,
+      "liveCreation": true,
+      "formats": [
+        "1080x1920"
+      ]
+    },
+    {
+      "name": "adlertable",
+      "label": "Table",
+      "active": true,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "adlerreferee",
+      "label": "Referee",
+      "active": true,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "adlerteamstats",
+      "label": "Team Stats",
+      "active": true,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "adlertopscorer",
+      "label": "Top Scorer",
+      "active": true,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "adlerstartingsix",
+      "label": "Starting Six",
+      "active": true,
+      "formats": [
+        "1920x1080",
+        "1200x1500"
+      ]
+    },
+    {
+      "name": "adlerlivematchdays",
+      "label": "Live Matchdays",
+      "active": true,
+      "formats": [
+        "1920x1080"
+      ]
+    },
+    {
+      "name": "staticmedia",
+      "label": "Static media",
+      "active": true,
+      "formats": [
+        "1920x1080"
+      ]
+    }
+  ],
+  "mediaLibrary": {
+    "accept": {
+      "image": ".png, .jpg, .jpeg, .gif",
+      "video": ".mp4, .webm, .ogv",
+      "audio": ".mp3"
+    },
+    "groups": {
+      "image": {
+        "_default": {
+          "id": "_default",
+          "name": "_default",
+          "label": "All",
+          "type": "images",
+          "fields": [
+            {
+              "name": "label",
+              "label": "Label",
+              "type": "text"
+            }
+          ]
+        },
+        "players": {
+          "id": "0001",
+          "name": "players",
+          "label": "Players",
+          "type": "images",
+          "fields": [
+            {
+              "name": "id",
+              "label": "ID",
+              "type": "text"
+            },
+            {
+              "name": "firstname",
+              "label": "Firstname",
+              "type": "text"
+            },
+            {
+              "name": "lastname",
+              "label": "Lastname",
+              "type": "text"
+            },
+            {
+              "name": "position",
+              "label": "Position",
+              "type": "text"
+            },
+            {
+              "name": "shirtNumber",
+              "label": "Shirt",
+              "type": "text"
+            }
+          ]
+        },
+        "teams": {
+          "id": "0002",
+          "name": "teams",
+          "label": "Teams",
+          "type": "images",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "text"
+            },
+            {
+              "name": "short",
+              "label": "Short",
+              "type": "text"
+            },
+            {
+              "name": "id",
+              "label": "ID",
+              "type": "text"
+            }
+          ]
+        },
+        "backgrounds": {
+          "id": "0003",
+          "name": "backgrounds",
+          "label": "Backgrounds",
+          "type": "images",
+          "fields": [
+            {
+              "name": "label",
+              "label": "Label",
+              "type": "text"
+            }
+          ]
+        }
+      },
+      "video": {
+        "_default": {
+          "id": "_default",
+          "name": "_default",
+          "label": "All",
+          "type": "video",
+          "fields": [
+            {
+              "name": "label",
+              "label": "Label",
+              "type": "text"
+            }
+          ]
+        }
+      },
+      "audio": {
+        "_default": {
+          "id": "_default",
+          "name": "_default",
+          "label": "All",
+          "type": "audio",
+          "fields": [
+            {
+              "name": "label",
+              "label": "Label",
+              "type": "text"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "design": {
+    "backendBackground": {
+      "label": "VS_Hintergrund.jpg",
+      "data": {
+      },
+      "group": "backgrounds",
+      "url": "/upload/backgrounds/image/05c00645-3c67-47fb-a905-84d95e335975.jpeg",
+      "extension": "jpeg",
+      "mime": "image/jpeg",
+      "size": 0.546,
+      "content_type": "image",
+      "local_path": "/upload/backgrounds/image",
+      "_id": "625050d0d339550021a8fa98",
+      "createdAt": "2022-04-08T15:12:16.038Z",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/backgrounds/image/05c00645-3c67-47fb-a905-84d95e335975.jpeg",
+      "updatedAt": "2022-04-08T15:12:16.038Z",
+      "uuid": "05c00645-3c67-47fb-a905-84d95e335975"
+    },
+    "defaultColor1": "#00FDFF",
+    "defaultColor2": "#919191",
+    "defaultBackground": {
+      "uuid": "3000",
+      "label": "default bg",
+      "data": {
+      },
+      "group": "backgrounds",
+      "url": "/predefined/media/image/backgrounds/others/defaultBackground.png",
+      "extension": "jpeg",
+      "mime": "image/jpeg",
+      "size": new
+      NumberInt(
+      "0"
+      ),
+      "content_type": "image",
+      "local_path": "/predefined/media/image/backgrounds/others"
+    },
+    "defaultBackgroundMask": {
+      "uuid": "3001",
+      "label": "default bg mask",
+      "data": {
+      },
+      "group": "backgrounds",
+      "url": "/predefined/media/image/backgrounds/others/defaultBackgroundMask.png",
+      "extension": "jpeg",
+      "mime": "image/jpeg",
+      "size": new
+      NumberInt(
+      "0"
+      ),
+      "content_type": "image",
+      "local_path": "/predefined/media/image/backgrounds/others"
+    }
+  },
+  "video": {
+    "videoServer": "https://video.spovizz.com",
+    "templateaudio": null,
+    "timelineaudio": null,
+    "addSoundToTemplate": true,
+    "addSoundToTimeline": false,
+    "templateaudio_adlergameday": {
+      "_id": "616932cba2d95b0019279629",
+      "content_type": "audio",
+      "createdAt": "2021-10-15T07:50:35.021Z",
+      "extension": "mp3",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/_default/audio/31c17d99-d6e2-48c7-8c0d-059b8e62ee7a.mp3",
+      "group": "_default",
+      "label": "Gameday_Audio.mp3",
+      "local_path": "/upload/_default/audio",
+      "mime": "audio/mpeg",
+      "size": 0.469,
+      "updatedAt": "2021-10-15T07:50:35.021Z",
+      "url": "/upload/_default/audio/31c17d99-d6e2-48c7-8c0d-059b8e62ee7a.mp3",
+      "uuid": "31c17d99-d6e2-48c7-8c0d-059b8e62ee7a"
+    },
+    "templateaudio_adlergoal": {
+      "_id": "6169328aa2d95b0019279624",
+      "content_type": "audio",
+      "createdAt": "2021-10-15T07:49:30.578Z",
+      "extension": "mp3",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/_default/audio/b71540d8-aa96-4f9f-baad-0682c99bff41.mp3",
+      "group": "_default",
+      "label": "Toooor_Audio.mp3",
+      "local_path": "/upload/_default/audio",
+      "mime": "audio/mpeg",
+      "size": 0.469,
+      "updatedAt": "2021-10-15T07:49:30.578Z",
+      "url": "/upload/_default/audio/b71540d8-aa96-4f9f-baad-0682c99bff41.mp3",
+      "uuid": "b71540d8-aa96-4f9f-baad-0682c99bff41"
+    },
+    "templateaudio_adlerlineup": {
+      "_id": "616932b31bf04100287c74d3",
+      "content_type": "audio",
+      "createdAt": "2021-10-15T07:50:11.094Z",
+      "extension": "mp3",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/_default/audio/785ceba8-4638-4c19-b5ab-c3952fe04a46.mp3",
+      "group": "_default",
+      "label": "Aufstellung_Audio.mp3",
+      "local_path": "/upload/_default/audio",
+      "mime": "audio/mpeg",
+      "size": 0.469,
+      "updatedAt": "2021-10-15T07:50:11.094Z",
+      "url": "/upload/_default/audio/785ceba8-4638-4c19-b5ab-c3952fe04a46.mp3",
+      "uuid": "785ceba8-4638-4c19-b5ab-c3952fe04a46"
+    },
+    "templateaudio_adlerresults": {
+      "_id": "61693303f81820001353a185",
+      "content_type": "audio",
+      "createdAt": "2021-10-15T07:51:31.173Z",
+      "extension": "mp3",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/_default/audio/e0ef8470-32ab-4ba1-9b87-c7c7fb17b583.mp3",
+      "group": "_default",
+      "label": "Ergebnis_Audio.mp3",
+      "local_path": "/upload/_default/audio",
+      "mime": "audio/mpeg",
+      "size": 0.469,
+      "updatedAt": "2021-10-15T07:51:31.173Z",
+      "url": "/upload/_default/audio/e0ef8470-32ab-4ba1-9b87-c7c7fb17b583.mp3",
+      "uuid": "e0ef8470-32ab-4ba1-9b87-c7c7fb17b583"
+    },
+    "templateaudio_adlerstatistics": {
+      "_id": "616932ebe3762c003696fdef",
+      "content_type": "audio",
+      "createdAt": "2021-10-15T07:51:07.299Z",
+      "extension": "mp3",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/_default/audio/0bf7dca2-0a30-404f-b4b3-6f7ae4b84f62.mp3",
+      "group": "_default",
+      "label": "Statistik_Audio.mp3",
+      "local_path": "/upload/_default/audio",
+      "mime": "audio/mpeg",
+      "size": 0.469,
+      "updatedAt": "2021-10-15T07:51:07.299Z",
+      "url": "/upload/_default/audio/0bf7dca2-0a30-404f-b4b3-6f7ae4b84f62.mp3",
+      "uuid": "0bf7dca2-0a30-404f-b4b3-6f7ae4b84f62"
+    },
+    "templateaudio_adlerstartingsix": {
+      "_id": "626ac3d62431860013cb62b0",
+      "content_type": "audio",
+      "createdAt": "2022-04-28T16:41:58.851Z",
+      "extension": "mp3",
+      "fullUrl": "https://api.adler.spovizz.com:8080/upload/_default/audio/b44f711f-55ec-49fd-a5c4-da98c7a7f187.mp3",
+      "group": "_default",
+      "label": "Imported_20220428-184006-1.mp3",
+      "local_path": "/upload/_default/audio",
+      "mime": "audio/mpeg",
+      "size": 0.227,
+      "updatedAt": "2022-04-28T16:41:58.851Z",
+      "url": "/upload/_default/audio/b44f711f-55ec-49fd-a5c4-da98c7a7f187.mp3",
+      "uuid": "b44f711f-55ec-49fd-a5c4-da98c7a7f187"
+    }
+  }
+}

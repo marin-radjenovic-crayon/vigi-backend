@@ -1,0 +1,20 @@
+{
+  "type": "text",
+  "defaults": {
+    "type": "video",
+    "label": "",
+    "height": "",
+    "width": "",
+    "src": "placeholdervideo.mp4",
+    "ext": "mp4",
+    "styles": {
+      "left": "0",
+      "right": "auto",
+      "top": "0",
+      "bottom": "auto",
+      "height": "auto",
+      "width": "200px",
+      "z-index": ""
+    }
+  }
+}

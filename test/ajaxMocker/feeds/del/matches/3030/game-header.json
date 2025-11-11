@@ -1,0 +1,85 @@
+{
+  "actualTimeName": "Ende",
+  "actualTimeAlias": "K",
+  "stadium": "SAP Arena",
+  "numberOfViewers": 13600,
+  "referees": {
+    "headReferee1": {
+      "id": 120,
+      "name": "Marc Iwert"
+    },
+    "headReferee2": {
+      "id": 191,
+      "name": "Andre Schrader"
+    },
+    "lineReferee1": {
+      "id": 202,
+      "name": "Patrick Laguzov"
+    },
+    "lineReferee2": {
+      "id": 254,
+      "name": "Jan Philipp Priebsch"
+    }
+  },
+  "teamInfo": {
+    "home": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    },
+    "visitor": {
+      "id": 11,
+      "name": "Kölner Haie",
+      "shortcut": "KEC"
+    }
+  },
+  "trainers": {
+    "visitorHeadCoach": {
+      "id": 16,
+      "name": "Uwe Krupp"
+    },
+    "homeHeadCoach": {
+      "id": 362,
+      "name": "Bill Stewart"
+    }
+  },
+  "teamBilance": {
+    "homeWin": 8,
+    "visitorWin": 6
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 4,
+        "score_guest": 3
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 1,
+        "score_guest": 3
+      },
+      "third_period": {
+        "score_home": 3,
+        "score_guest": 0
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": 493,
+      "name": "David Wolf"
+    },
+    "visitor": {
+      "id": 291,
+      "name": "Jason Bast"
+    }
+  },
+  "overtimeCount": null,
+  "lastEventTime": 3600
+}

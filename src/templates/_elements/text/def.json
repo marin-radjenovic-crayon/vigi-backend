@@ -1,0 +1,18 @@
+{
+  "type": "text",
+  "defaults": {
+    "label": "",
+    "html": "<p>Lorem ipsum dolor sit amet</>",
+    "styles": {
+      "left": "0",
+      "right": "auto",
+      "top": "0",
+      "bottom": "auto",
+      "height": "auto",
+      "width": "auto",
+      "color": "white",
+      "background-color": "transparent",
+      "z-index": ""
+    }
+  }
+}

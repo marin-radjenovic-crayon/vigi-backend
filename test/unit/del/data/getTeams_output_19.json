@@ -1,0 +1,77 @@
+[
+  {
+    "shortcut": "RBM",
+    "name": "EHC Red Bull München",
+    "teamId": 12
+  },
+  {
+    "shortcut": "KEC",
+    "name": "Kölner Haie",
+    "teamId": 11
+  },
+  {
+    "shortcut": "AEV",
+    "name": "Augsburger Panther",
+    "teamId": 13
+  },
+  {
+    "shortcut": "NIT",
+    "name": "Nürnberg Ice Tigers",
+    "teamId": 14
+  },
+  {
+    "shortcut": "SCB",
+    "name": "SC Bietigheim Steelers",
+    "teamId": 22
+  },
+  {
+    "shortcut": "SWW",
+    "name": "Schwenninger Wild Wings",
+    "teamId": 15
+  },
+  {
+    "shortcut": "BHV",
+    "name": "Pinguins Bremerhaven",
+    "teamId": 9
+  },
+  {
+    "shortcut": "WOB",
+    "name": "Grizzlys Wolfsburg",
+    "teamId": 8
+  },
+  {
+    "shortcut": "EBB",
+    "name": "Eisbären Berlin",
+    "teamId": 3
+  },
+  {
+    "shortcut": "MAN",
+    "name": "Adler Mannheim",
+    "teamId": 2
+  },
+  {
+    "shortcut": "DEG",
+    "name": "Düsseldorfer EG",
+    "teamId": 4
+  },
+  {
+    "shortcut": "KEV",
+    "name": "Krefeld Pinguine",
+    "teamId": 5
+  },
+  {
+    "shortcut": "IEC",
+    "name": "Iserlohn Roosters",
+    "teamId": 7
+  },
+  {
+    "shortcut": "STR",
+    "name": "Straubing Tigers",
+    "teamId": 6
+  },
+  {
+    "shortcut": "ING",
+    "name": "ERC Ingolstadt",
+    "teamId": 1
+  }
+]

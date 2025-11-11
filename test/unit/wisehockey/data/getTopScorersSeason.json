@@ -1,0 +1,354 @@
+{
+  "home": [
+    {
+      "id": 493,
+      "name": "David Wolf",
+      "firstname": "David",
+      "surname": "Wolf",
+      "dateOfBirth": "1989-09-15",
+      "active": true,
+      "position": "FO",
+      "stick": "left",
+      "weight": 98,
+      "height": 189,
+      "jersey": 89,
+      "birthCountry": "Düsseldorf, GER",
+      "nationality": "Germany",
+      "nationalityShort": "GER",
+      "statistics": {
+        "teamShortcut": "MAN",
+        "games": 38,
+        "goals": {
+          "home": 5,
+          "away": 8
+        },
+        "assists": {
+          "home": 10,
+          "away": 11
+        },
+        "points": {
+          "home": 15,
+          "away": 19
+        },
+        "penaltyMinutes": 42,
+        "positive": 34,
+        "negative": 16,
+        "pointsPerGame": 0.89,
+        "shotEfficiency": 13.68,
+        "penaltyMinutesPerGame": 1.11,
+        "ppGoals": 4,
+        "shGoals": 0,
+        "gwGoals": 2,
+        "shotsAttempts": 158,
+        "shotsOnGoal": {
+          "home": 43,
+          "away": 52
+        },
+        "shotsMissed": 36,
+        "shotsBlocked": 27,
+        "blockedShotsByPlayer": 8,
+        "faceoffsWin": 0,
+        "faceoffsLosses": 0,
+        "faceoffsCount": 0,
+        "timeOnIce": 37339,
+        "timeOnIcePP": 5993,
+        "timeOnIceSH": 551,
+        "timeOnIcePerGame": 983,
+        "shifts": 778,
+        "shiftsPerGame": 20
+      }
+    },
+    {
+      "id": 1364,
+      "name": "Markus Eisenschmid",
+      "firstname": "Markus",
+      "surname": "Eisenschmid",
+      "dateOfBirth": "1995-01-22",
+      "active": true,
+      "position": "FO",
+      "stick": "right",
+      "weight": 81,
+      "height": 183,
+      "jersey": 16,
+      "birthCountry": "Marktoberdorf, GER",
+      "nationality": "Germany",
+      "nationalityShort": "GER",
+      "statistics": {
+        "teamShortcut": "MAN",
+        "games": 38,
+        "goals": {
+          "home": 8,
+          "away": 6
+        },
+        "assists": {
+          "home": 9,
+          "away": 7
+        },
+        "points": {
+          "home": 17,
+          "away": 13
+        },
+        "penaltyMinutes": 20,
+        "positive": 26,
+        "negative": 21,
+        "pointsPerGame": 0.79,
+        "shotEfficiency": 11.11,
+        "penaltyMinutesPerGame": 0.53,
+        "ppGoals": 6,
+        "shGoals": 0,
+        "gwGoals": 4,
+        "shotsAttempts": 216,
+        "shotsOnGoal": {
+          "home": 66,
+          "away": 60
+        },
+        "shotsMissed": 47,
+        "shotsBlocked": 43,
+        "blockedShotsByPlayer": 20,
+        "faceoffsWin": 9,
+        "faceoffsLosses": 4,
+        "faceoffsCount": 13,
+        "timeOnIce": 35565,
+        "timeOnIcePP": 6314,
+        "timeOnIceSH": 841,
+        "timeOnIcePerGame": 936,
+        "shifts": 738,
+        "shiftsPerGame": 19
+      }
+    },
+    {
+      "id": 487,
+      "name": "Matthias Plachta",
+      "firstname": "Matthias",
+      "surname": "Plachta",
+      "dateOfBirth": "1991-05-16",
+      "active": true,
+      "position": "FO",
+      "stick": "left",
+      "weight": 90,
+      "height": 184,
+      "jersey": 22,
+      "birthCountry": "Freiburg, GER",
+      "nationality": "Germany",
+      "nationalityShort": "GER",
+      "statistics": {
+        "teamShortcut": "MAN",
+        "games": 33,
+        "goals": {
+          "home": 8,
+          "away": 3
+        },
+        "assists": {
+          "home": 10,
+          "away": 7
+        },
+        "points": {
+          "home": 18,
+          "away": 10
+        },
+        "penaltyMinutes": 28,
+        "positive": 36,
+        "negative": 14,
+        "pointsPerGame": 0.85,
+        "shotEfficiency": 15.28,
+        "penaltyMinutesPerGame": 0.85,
+        "ppGoals": 3,
+        "shGoals": 1,
+        "gwGoals": 3,
+        "shotsAttempts": 152,
+        "shotsOnGoal": {
+          "home": 31,
+          "away": 41
+        },
+        "shotsMissed": 39,
+        "shotsBlocked": 41,
+        "blockedShotsByPlayer": 17,
+        "faceoffsWin": 1,
+        "faceoffsLosses": 0,
+        "faceoffsCount": 1,
+        "timeOnIce": 37206,
+        "timeOnIcePP": 5937,
+        "timeOnIceSH": 2475,
+        "timeOnIcePerGame": 1127,
+        "shifts": 724,
+        "shiftsPerGame": 22
+      }
+    }
+  ],
+  "away": [
+    {
+      "id": 507,
+      "name": "Marcel Noebels",
+      "firstname": "Marcel",
+      "surname": "Noebels",
+      "dateOfBirth": "1992-03-14",
+      "active": true,
+      "position": "FO",
+      "stick": "left",
+      "weight": 93,
+      "height": 191,
+      "jersey": 92,
+      "birthCountry": "Tönisvorst, GER",
+      "nationality": "Germany",
+      "nationalityShort": "GER",
+      "statistics": {
+        "teamShortcut": "EBB",
+        "games": 36,
+        "goals": {
+          "home": 4,
+          "away": 2
+        },
+        "assists": {
+          "home": 18,
+          "away": 18
+        },
+        "points": {
+          "home": 22,
+          "away": 20
+        },
+        "penaltyMinutes": 12,
+        "positive": 39,
+        "negative": 22,
+        "pointsPerGame": 1.17,
+        "shotEfficiency": 9.68,
+        "penaltyMinutesPerGame": 0.33,
+        "ppGoals": 1,
+        "shGoals": 0,
+        "gwGoals": 2,
+        "shotsAttempts": 120,
+        "shotsOnGoal": {
+          "home": 27,
+          "away": 35
+        },
+        "shotsMissed": 36,
+        "shotsBlocked": 22,
+        "blockedShotsByPlayer": 9,
+        "faceoffsWin": 13,
+        "faceoffsLosses": 35,
+        "faceoffsCount": 48,
+        "timeOnIce": 44563,
+        "timeOnIcePP": 6838,
+        "timeOnIceSH": 4701,
+        "timeOnIcePerGame": 1238,
+        "shifts": 905,
+        "shiftsPerGame": 25
+      }
+    },
+    {
+      "id": 1172,
+      "name": "Matthew White",
+      "firstname": "Matthew",
+      "surname": "White",
+      "dateOfBirth": "1989-08-23",
+      "active": true,
+      "position": "FO",
+      "stick": "left",
+      "weight": 83,
+      "height": 180,
+      "jersey": 97,
+      "birthCountry": "Los Angeles, CA, USA",
+      "nationality": "USA",
+      "nationalityShort": "USA",
+      "statistics": {
+        "teamShortcut": "EBB",
+        "games": 38,
+        "goals": {
+          "home": 9,
+          "away": 10
+        },
+        "assists": {
+          "home": 12,
+          "away": 8
+        },
+        "points": {
+          "home": 21,
+          "away": 18
+        },
+        "penaltyMinutes": 10,
+        "positive": 35,
+        "negative": 20,
+        "pointsPerGame": 1.03,
+        "shotEfficiency": 13.19,
+        "penaltyMinutesPerGame": 0.26,
+        "ppGoals": 4,
+        "shGoals": 2,
+        "gwGoals": 4,
+        "shotsAttempts": 248,
+        "shotsOnGoal": {
+          "home": 76,
+          "away": 68
+        },
+        "shotsMissed": 61,
+        "shotsBlocked": 43,
+        "blockedShotsByPlayer": 8,
+        "faceoffsWin": 48,
+        "faceoffsLosses": 39,
+        "faceoffsCount": 87,
+        "timeOnIce": 43538,
+        "timeOnIcePP": 6576,
+        "timeOnIceSH": 4572,
+        "timeOnIcePerGame": 1146,
+        "shifts": 938,
+        "shiftsPerGame": 25
+      }
+    },
+    {
+      "id": 92,
+      "name": "Leonhard Pföderl",
+      "firstname": "Leonhard",
+      "surname": "Pföderl",
+      "dateOfBirth": "1993-09-01",
+      "active": true,
+      "position": "FO",
+      "stick": "right",
+      "weight": 89,
+      "height": 184,
+      "jersey": 93,
+      "birthCountry": "Bad Tölz, GER",
+      "nationality": "Germany",
+      "nationalityShort": "GER",
+      "statistics": {
+        "teamShortcut": "EBB",
+        "games": 34,
+        "goals": {
+          "home": 9,
+          "away": 11
+        },
+        "assists": {
+          "home": 6,
+          "away": 11
+        },
+        "points": {
+          "home": 15,
+          "away": 22
+        },
+        "penaltyMinutes": 20,
+        "positive": 32,
+        "negative": 16,
+        "pointsPerGame": 1.09,
+        "shotEfficiency": 14.71,
+        "penaltyMinutesPerGame": 0.59,
+        "ppGoals": 3,
+        "shGoals": 0,
+        "gwGoals": 3,
+        "shotsAttempts": 227,
+        "shotsOnGoal": {
+          "home": 71,
+          "away": 65
+        },
+        "shotsMissed": 47,
+        "shotsBlocked": 44,
+        "blockedShotsByPlayer": 24,
+        "faceoffsWin": 185,
+        "faceoffsLosses": 191,
+        "faceoffsCount": 376,
+        "timeOnIce": 40237,
+        "timeOnIcePP": 5725,
+        "timeOnIceSH": 3898,
+        "timeOnIcePerGame": 1183,
+        "shifts": 831,
+        "shiftsPerGame": 24
+      }
+    }
+  ]
+}

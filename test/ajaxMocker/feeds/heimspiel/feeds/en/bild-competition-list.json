@@ -1,0 +1,41 @@
+[
+    {
+        "id": "12",
+        "competitionId": "12",
+        "competitionName": "Bundesliga",
+        "optaCompetitionId": "6by3h89i2eykc341oz7lv1ddd",
+        "optaTournamentCalendarId": "2bchmrj23l9u42d68ntcekob8",
+        "name": "Bundesliga",
+        "shortname": "Bundesliga",
+        "microname": "BL",
+        "type": "club",
+        "gender": "male",
+        "current_season_id": "94724",
+        "current_round_id": "262400",
+        "current_matchday": "1",
+        "country": {
+            "id": "47",
+            "name": "Deutschland",
+            "code": "GER",
+            "iso": "DE"
+        },
+        "federation": {
+            "id": "2",
+            "name": "UEFA",
+            "order": "1",
+            "relation": "1"
+        },
+        "age": {
+            "id": "1",
+            "name": ""
+        },
+        "season": {
+            "id": "74723",
+            "name": "2025/2026",
+            "current_round_id": "262400",
+            "current_group_matchday": "0",
+            "start": "22.08.2025",
+            "end": "30.06.2026"
+        }
+    }
+]

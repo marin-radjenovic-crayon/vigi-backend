@@ -1,0 +1,1800 @@
+[
+  {
+    "id": 63,
+    "name": "Alexander Oblinger",
+    "firstname": "Alexander",
+    "surname": "Oblinger",
+    "dateOfBirth": "1989-01-17",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 98,
+    "height": 191,
+    "jersey": 50,
+    "birthCountry": "Augsburg, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 115,
+    "name": "Maximilian Kammerer",
+    "firstname": "Maximilian",
+    "surname": "Kammerer",
+    "dateOfBirth": "1996-09-28",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 78,
+    "height": 185,
+    "jersey": 9,
+    "birthCountry": "Düsseldorf, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "assists": {
+        "home": 2,
+        "away": 2
+      },
+      "points": {
+        "home": 3,
+        "away": 2
+      },
+      "penaltyMinutes": 4,
+      "positive": 5,
+      "negative": 1,
+      "pointsPerGame": 0.83,
+      "shotEfficiency": 16.67,
+      "penaltyMinutesPerGame": 0.67,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 13,
+      "shotsOnGoal": {
+        "home": 5,
+        "away": 1
+      },
+      "shotsMissed": 7,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 3,
+      "faceoffsWin": 4,
+      "faceoffsLosses": 8,
+      "faceoffsCount": 12,
+      "timeOnIce": 6434,
+      "timeOnIcePP": 1128,
+      "timeOnIceSH": 193,
+      "timeOnIcePerGame": 1072,
+      "shifts": 132,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 146,
+    "name": "Moritz Müller",
+    "firstname": "Moritz",
+    "surname": "Müller",
+    "dateOfBirth": "1986-11-19",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 92,
+    "height": 187,
+    "jersey": 91,
+    "birthCountry": "Frankfurt, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 2
+      },
+      "points": {
+        "home": 1,
+        "away": 2
+      },
+      "penaltyMinutes": 2,
+      "positive": 5,
+      "negative": 6,
+      "pointsPerGame": 0.5,
+      "shotEfficiency": 11.11,
+      "penaltyMinutesPerGame": 0.33,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 18,
+      "shotsOnGoal": {
+        "home": 5,
+        "away": 4
+      },
+      "shotsMissed": 8,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 9,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 7484,
+      "timeOnIcePP": 100,
+      "timeOnIceSH": 1344,
+      "timeOnIcePerGame": 1247,
+      "shifts": 170,
+      "shiftsPerGame": 28
+    }
+  },
+  {
+    "id": 291,
+    "name": "Jason Bast",
+    "firstname": "Jason",
+    "surname": "Bast",
+    "dateOfBirth": "1989-06-02",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 81,
+    "height": 178,
+    "jersey": 16,
+    "birthCountry": "Regina, SK, CAN",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 2
+      },
+      "points": {
+        "home": 0,
+        "away": 2
+      },
+      "penaltyMinutes": 2,
+      "positive": 5,
+      "negative": 5,
+      "pointsPerGame": 0.33,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0.33,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 16,
+      "shotsOnGoal": {
+        "home": 1,
+        "away": 5
+      },
+      "shotsMissed": 7,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 7094,
+      "timeOnIcePP": 962,
+      "timeOnIceSH": 1115,
+      "timeOnIcePerGame": 1182,
+      "shifts": 147,
+      "shiftsPerGame": 25
+    }
+  },
+  {
+    "id": 486,
+    "name": "Mirko Pantkowski",
+    "firstname": "Mirko",
+    "surname": "Pantkowski",
+    "dateOfBirth": "1998-05-26",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 75,
+    "height": 183,
+    "jersey": 30,
+    "birthCountry": "Kassel, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 488,
+    "name": "Carter Proft",
+    "firstname": "Carter",
+    "surname": "Proft",
+    "dateOfBirth": "1994-08-30",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 95,
+    "height": 183,
+    "jersey": 55,
+    "birthCountry": "Spruce Grove, AB, CAN",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 0,
+        "away": 2
+      },
+      "penaltyMinutes": 6,
+      "positive": 2,
+      "negative": 3,
+      "pointsPerGame": 0.33,
+      "shotEfficiency": 50,
+      "penaltyMinutesPerGame": 1,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 6,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 2
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 3750,
+      "timeOnIcePP": 5,
+      "timeOnIceSH": 28,
+      "timeOnIcePerGame": 625,
+      "shifts": 83,
+      "shiftsPerGame": 14
+    }
+  },
+  {
+    "id": 555,
+    "name": "Jonathan Matsumoto",
+    "firstname": "Jonathan",
+    "surname": "Matsumoto",
+    "dateOfBirth": "1986-10-13",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 84,
+    "height": 180,
+    "jersey": 10,
+    "birthCountry": "Ottawa, ON, CAN",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 4,
+      "positive": 2,
+      "negative": 4,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0.67,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 16,
+      "shotsOnGoal": {
+        "home": 5,
+        "away": 1
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 7,
+      "blockedShotsByPlayer": 5,
+      "faceoffsWin": 40,
+      "faceoffsLosses": 35,
+      "faceoffsCount": 75,
+      "timeOnIce": 5090,
+      "timeOnIcePP": 879,
+      "timeOnIceSH": 39,
+      "timeOnIcePerGame": 848,
+      "shifts": 128,
+      "shiftsPerGame": 21
+    }
+  },
+  {
+    "id": 622,
+    "name": "Alexander Roach",
+    "firstname": "Alexander",
+    "surname": "Roach",
+    "dateOfBirth": "1993-04-19",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 102,
+    "height": 195,
+    "jersey": 77,
+    "birthCountry": "Schongau, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 648,
+    "name": "Louis-Marc Aubry",
+    "firstname": "Louis-Marc",
+    "surname": "Aubry",
+    "dateOfBirth": "1991-11-11",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 97,
+    "height": 194,
+    "jersey": 15,
+    "birthCountry": "Trois-Rivières, QC, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 5,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 2,
+        "away": 1
+      },
+      "points": {
+        "home": 2,
+        "away": 1
+      },
+      "penaltyMinutes": 6,
+      "positive": 5,
+      "negative": 1,
+      "pointsPerGame": 0.6,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 1.2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 14,
+      "shotsOnGoal": {
+        "home": 5,
+        "away": 2
+      },
+      "shotsMissed": 6,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 5,
+      "faceoffsWin": 48,
+      "faceoffsLosses": 42,
+      "faceoffsCount": 90,
+      "timeOnIce": 5584,
+      "timeOnIcePP": 1038,
+      "timeOnIceSH": 172,
+      "timeOnIcePerGame": 1117,
+      "shifts": 110,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 1004,
+    "name": "Mark Olver",
+    "firstname": "Mark",
+    "surname": "Olver",
+    "dateOfBirth": "1988-01-01",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 83,
+    "height": 178,
+    "jersey": 21,
+    "birthCountry": "Burnaby, BC, USA",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "assists": {
+        "home": 0,
+        "away": 2
+      },
+      "points": {
+        "home": 1,
+        "away": 3
+      },
+      "penaltyMinutes": 6,
+      "positive": 4,
+      "negative": 5,
+      "pointsPerGame": 0.67,
+      "shotEfficiency": 33.33,
+      "penaltyMinutesPerGame": 1,
+      "ppGoals": 1,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 9,
+      "shotsOnGoal": {
+        "home": 3,
+        "away": 3
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 6,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 1,
+      "faceoffsCount": 1,
+      "timeOnIce": 4770,
+      "timeOnIcePP": 135,
+      "timeOnIceSH": 64,
+      "timeOnIcePerGame": 795,
+      "shifts": 112,
+      "shiftsPerGame": 19
+    }
+  },
+  {
+    "id": 1447,
+    "name": "Maximilian Glötzl",
+    "firstname": "Maximilian",
+    "surname": "Glötzl",
+    "dateOfBirth": "2002-03-16",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 90,
+    "height": 189,
+    "jersey": 22,
+    "birthCountry": "Schongau, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 2,
+      "negative": 3,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 5,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 3
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 3,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 2680,
+      "timeOnIcePP": 4,
+      "timeOnIceSH": 236,
+      "timeOnIcePerGame": 447,
+      "shifts": 62,
+      "shiftsPerGame": 10
+    }
+  },
+  {
+    "id": 1449,
+    "name": "Zachary Sill",
+    "firstname": "Zachary",
+    "surname": "Sill",
+    "dateOfBirth": "1988-05-24",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 92,
+    "height": 183,
+    "jersey": 24,
+    "birthCountry": "Truro, NS, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 0,
+      "positive": 1,
+      "negative": 3,
+      "pointsPerGame": 0.17,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 10,
+      "shotsOnGoal": {
+        "home": 3,
+        "away": 3
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 8,
+      "faceoffsWin": 31,
+      "faceoffsLosses": 52,
+      "faceoffsCount": 83,
+      "timeOnIce": 5451,
+      "timeOnIcePP": 7,
+      "timeOnIceSH": 1140,
+      "timeOnIcePerGame": 909,
+      "shifts": 121,
+      "shiftsPerGame": 20
+    }
+  },
+  {
+    "id": 1481,
+    "name": "Andreas Thuresson",
+    "firstname": "Andreas",
+    "surname": "Thuresson",
+    "dateOfBirth": "1987-11-18",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 95,
+    "height": 185,
+    "jersey": 36,
+    "birthCountry": "Kristianstad, SWE",
+    "nationality": "Sweden",
+    "nationalityShort": "SWE",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 1,
+        "away": 2
+      },
+      "penaltyMinutes": 6,
+      "positive": 5,
+      "negative": 1,
+      "pointsPerGame": 0.5,
+      "shotEfficiency": 13.33,
+      "penaltyMinutesPerGame": 1,
+      "ppGoals": 1,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 26,
+      "shotsOnGoal": {
+        "home": 9,
+        "away": 6
+      },
+      "shotsMissed": 4,
+      "shotsBlocked": 7,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 1,
+      "faceoffsLosses": 2,
+      "faceoffsCount": 3,
+      "timeOnIce": 6058,
+      "timeOnIcePP": 1122,
+      "timeOnIceSH": 56,
+      "timeOnIcePerGame": 1010,
+      "shifts": 136,
+      "shiftsPerGame": 23
+    }
+  },
+  {
+    "id": 1520,
+    "name": "Stanislav Dietz",
+    "firstname": "Stanislav",
+    "surname": "Dietz",
+    "dateOfBirth": "1990-09-10",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 89,
+    "height": 192,
+    "jersey": 67,
+    "birthCountry": "Pisek, CZE",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 4,
+      "positive": 4,
+      "negative": 7,
+      "pointsPerGame": 0.17,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0.67,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 17,
+      "shotsOnGoal": {
+        "home": 3,
+        "away": 3
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 10,
+      "blockedShotsByPlayer": 8,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 7579,
+      "timeOnIcePP": 650,
+      "timeOnIceSH": 1114,
+      "timeOnIcePerGame": 1263,
+      "shifts": 161,
+      "shiftsPerGame": 27
+    }
+  },
+  {
+    "id": 1532,
+    "name": "Niklas Lunemann",
+    "firstname": "Niklas",
+    "surname": "Lunemann",
+    "dateOfBirth": "2002-04-27",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 80,
+    "height": 190,
+    "jersey": 27,
+    "birthCountry": "Kassel, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1542,
+    "name": "Landon Ferraro",
+    "firstname": "Landon",
+    "surname": "Ferraro",
+    "dateOfBirth": "1991-08-08",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 80,
+    "height": 183,
+    "jersey": 39,
+    "birthCountry": "Trail, BC, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 13,
+      "positive": 2,
+      "negative": 5,
+      "pointsPerGame": 0.17,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2.17,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 13,
+      "shotsOnGoal": {
+        "home": 3,
+        "away": 2
+      },
+      "shotsMissed": 4,
+      "shotsBlocked": 4,
+      "blockedShotsByPlayer": 6,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 5386,
+      "timeOnIcePP": 758,
+      "timeOnIceSH": 193,
+      "timeOnIcePerGame": 898,
+      "shifts": 133,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 1653,
+    "name": "Julian Chrobot",
+    "firstname": "Julian",
+    "surname": "Chrobot",
+    "dateOfBirth": "2001-03-07",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 82,
+    "height": 183,
+    "jersey": 40,
+    "birthCountry": "Augsburg, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1677,
+    "name": "Robin van Calster",
+    "firstname": "Robin",
+    "surname": "van Calster",
+    "dateOfBirth": "2003-03-18",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 91,
+    "height": 185,
+    "jersey": 5,
+    "birthCountry": "Bonheiden, BEL",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 0,
+      "positive": 1,
+      "negative": 1,
+      "pointsPerGame": 0.17,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 11,
+      "shotsOnGoal": {
+        "home": 2,
+        "away": 4
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 3,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 4527,
+      "timeOnIcePP": 2,
+      "timeOnIceSH": 879,
+      "timeOnIcePerGame": 755,
+      "shifts": 101,
+      "shiftsPerGame": 17
+    }
+  },
+  {
+    "id": 1678,
+    "name": "Kevin Niedenz",
+    "firstname": "Kevin",
+    "surname": "Niedenz",
+    "dateOfBirth": "2003-04-02",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 77,
+    "height": 185,
+    "jersey": 46,
+    "birthCountry": "Berlin, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1694,
+    "name": "Jan Luca Sennhenn",
+    "firstname": "Jan Luca",
+    "surname": "Sennhenn",
+    "dateOfBirth": "2000-11-11",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 75,
+    "height": 184,
+    "jersey": 17,
+    "birthCountry": "Kassel, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 5,
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 1
+      },
+      "penaltyMinutes": 0,
+      "positive": 2,
+      "negative": 0,
+      "pointsPerGame": 0.2,
+      "shotEfficiency": 11.11,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 13,
+      "shotsOnGoal": {
+        "home": 4,
+        "away": 5
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 3,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 2608,
+      "timeOnIcePP": 41,
+      "timeOnIceSH": 188,
+      "timeOnIcePerGame": 522,
+      "shifts": 62,
+      "shiftsPerGame": 12
+    }
+  },
+  {
+    "id": 1803,
+    "name": "Pascal Steck",
+    "firstname": "Pascal",
+    "surname": "Steck",
+    "dateOfBirth": "2003-08-07",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 79,
+    "height": 187,
+    "jersey": 43,
+    "birthCountry": "Landshut, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1804,
+    "name": "Luis Üffing",
+    "firstname": "Luis",
+    "surname": "Üffing",
+    "dateOfBirth": "2000-05-30",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 82,
+    "height": 189,
+    "jersey": 42,
+    "birthCountry": "Peißenberg, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 1,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 2,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 970,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 970,
+      "shifts": 22,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 1819,
+    "name": "Oleg Shilin",
+    "firstname": "Oleg",
+    "surname": "Shilin",
+    "dateOfBirth": "1991-04-05",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 85,
+    "height": 183,
+    "jersey": 74,
+    "birthCountry": "Omsk, RUS",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1874,
+    "name": "Leon Willerscheid",
+    "firstname": "Leon",
+    "surname": "Willerscheid",
+    "dateOfBirth": "2005-04-10",
+    "active": true,
+    "position": "GK",
+    "stick": "left",
+    "weight": 87,
+    "height": 189,
+    "jersey": 73,
+    "birthCountry": "Brühl, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 1882,
+    "name": "David McIntyre",
+    "firstname": "David",
+    "surname": "McIntyre",
+    "dateOfBirth": "1987-02-04",
+    "active": true,
+    "position": "FO",
+    "stick": "left",
+    "weight": 88,
+    "height": 183,
+    "jersey": 26,
+    "birthCountry": "Oakville, ON, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "assists": {
+        "home": 1,
+        "away": 1
+      },
+      "points": {
+        "home": 1,
+        "away": 4
+      },
+      "penaltyMinutes": 0,
+      "positive": 6,
+      "negative": 6,
+      "pointsPerGame": 0.83,
+      "shotEfficiency": 23.08,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 1,
+      "shGoals": 0,
+      "gwGoals": 2,
+      "shotsAttempts": 19,
+      "shotsOnGoal": {
+        "home": 3,
+        "away": 10
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 3,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 56,
+      "faceoffsLosses": 50,
+      "faceoffsCount": 106,
+      "timeOnIce": 6664,
+      "timeOnIcePP": 898,
+      "timeOnIceSH": 1069,
+      "timeOnIcePerGame": 1111,
+      "shifts": 150,
+      "shiftsPerGame": 25
+    }
+  },
+  {
+    "id": 2112,
+    "name": "Nicholas Bailen",
+    "firstname": "Nicholas",
+    "surname": "Bailen",
+    "dateOfBirth": "1989-12-12",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 81,
+    "height": 174,
+    "jersey": 7,
+    "birthCountry": "Fredonia, NY, USA",
+    "nationality": "USA",
+    "nationalityShort": "USA",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "assists": {
+        "home": 4,
+        "away": 0
+      },
+      "points": {
+        "home": 4,
+        "away": 1
+      },
+      "penaltyMinutes": 8,
+      "positive": 7,
+      "negative": 3,
+      "pointsPerGame": 0.83,
+      "shotEfficiency": 5,
+      "penaltyMinutesPerGame": 1.33,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 42,
+      "shotsOnGoal": {
+        "home": 12,
+        "away": 8
+      },
+      "shotsMissed": 6,
+      "shotsBlocked": 16,
+      "blockedShotsByPlayer": 7,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 8152,
+      "timeOnIcePP": 1165,
+      "timeOnIceSH": 90,
+      "timeOnIcePerGame": 1359,
+      "shifts": 171,
+      "shiftsPerGame": 29
+    }
+  },
+  {
+    "id": 2113,
+    "name": "Brady Austin",
+    "firstname": "Brady",
+    "surname": "Austin",
+    "dateOfBirth": "1993-06-16",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 105,
+    "height": 193,
+    "jersey": 57,
+    "birthCountry": "Peterborough, ON, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "assists": {
+        "home": 1,
+        "away": 1
+      },
+      "points": {
+        "home": 1,
+        "away": 2
+      },
+      "penaltyMinutes": 4,
+      "positive": 4,
+      "negative": 3,
+      "pointsPerGame": 0.5,
+      "shotEfficiency": 11.11,
+      "penaltyMinutesPerGame": 0.67,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 20,
+      "shotsOnGoal": {
+        "home": 5,
+        "away": 4
+      },
+      "shotsMissed": 6,
+      "shotsBlocked": 5,
+      "blockedShotsByPlayer": 6,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 7759,
+      "timeOnIcePP": 273,
+      "timeOnIceSH": 1196,
+      "timeOnIcePerGame": 1293,
+      "shifts": 178,
+      "shiftsPerGame": 30
+    }
+  },
+  {
+    "id": 2114,
+    "name": "Ryan Stanton",
+    "firstname": "Ryan",
+    "surname": "Stanton",
+    "dateOfBirth": "1989-07-20",
+    "active": true,
+    "position": "DE",
+    "stick": "left",
+    "weight": 93,
+    "height": 188,
+    "jersey": 18,
+    "birthCountry": "Edmonton, AB, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 4,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 8,
+      "positive": 1,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 2,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 10,
+      "shotsOnGoal": {
+        "home": 1,
+        "away": 3
+      },
+      "shotsMissed": 4,
+      "shotsBlocked": 2,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 4544,
+      "timeOnIcePP": 15,
+      "timeOnIceSH": 591,
+      "timeOnIcePerGame": 1136,
+      "shifts": 107,
+      "shiftsPerGame": 27
+    }
+  },
+  {
+    "id": 2115,
+    "name": "Nicholas Baptiste",
+    "firstname": "Nicholas",
+    "surname": "Baptiste",
+    "dateOfBirth": "1995-08-04",
+    "active": true,
+    "position": "FO",
+    "stick": "right",
+    "weight": 92,
+    "height": 185,
+    "jersey": 13,
+    "birthCountry": "Ottawa, ON, CAN",
+    "nationality": "Canada",
+    "nationalityShort": "CAN",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 6,
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "assists": {
+        "home": 0,
+        "away": 1
+      },
+      "points": {
+        "home": 2,
+        "away": 2
+      },
+      "penaltyMinutes": 4,
+      "positive": 3,
+      "negative": 4,
+      "pointsPerGame": 0.67,
+      "shotEfficiency": 17.65,
+      "penaltyMinutesPerGame": 0.67,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 26,
+      "shotsOnGoal": {
+        "home": 9,
+        "away": 8
+      },
+      "shotsMissed": 3,
+      "shotsBlocked": 6,
+      "blockedShotsByPlayer": 1,
+      "faceoffsWin": 1,
+      "faceoffsLosses": 2,
+      "faceoffsCount": 3,
+      "timeOnIce": 5683,
+      "timeOnIcePP": 1094,
+      "timeOnIceSH": 48,
+      "timeOnIcePerGame": 947,
+      "shifts": 129,
+      "shiftsPerGame": 22
+    }
+  },
+  {
+    "id": 2131,
+    "name": "Edwin Tropmann",
+    "firstname": "Edwin",
+    "surname": "Tropmann",
+    "dateOfBirth": "2005-10-05",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 83,
+    "height": 178,
+    "jersey": 68,
+    "birthCountry": "Lippstadt, GER",
+    "nationality": "Germany",
+    "nationalityShort": "GER",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 0,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 0,
+      "positive": 0,
+      "negative": 0,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 0,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 0
+      },
+      "shotsMissed": 0,
+      "shotsBlocked": 0,
+      "blockedShotsByPlayer": 0,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 0,
+      "timeOnIcePP": 0,
+      "timeOnIceSH": 0,
+      "timeOnIcePerGame": 0,
+      "shifts": 0,
+      "shiftsPerGame": 0
+    }
+  },
+  {
+    "id": 2216,
+    "name": "Jack Dougherty",
+    "firstname": "Jack",
+    "surname": "Dougherty",
+    "dateOfBirth": "1996-05-25",
+    "active": true,
+    "position": "DE",
+    "stick": "right",
+    "weight": 84,
+    "height": 185,
+    "jersey": 37,
+    "birthCountry": "St. Paul",
+    "nationality": "USA",
+    "nationalityShort": "USA",
+    "statistics": {
+      "teamShortcut": "KEC",
+      "games": 3,
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "assists": {
+        "home": 0,
+        "away": 0
+      },
+      "points": {
+        "home": 0,
+        "away": 0
+      },
+      "penaltyMinutes": 2,
+      "positive": 0,
+      "negative": 4,
+      "pointsPerGame": 0,
+      "shotEfficiency": 0,
+      "penaltyMinutesPerGame": 0.67,
+      "ppGoals": 0,
+      "shGoals": 0,
+      "gwGoals": 0,
+      "shotsAttempts": 4,
+      "shotsOnGoal": {
+        "home": 0,
+        "away": 2
+      },
+      "shotsMissed": 1,
+      "shotsBlocked": 1,
+      "blockedShotsByPlayer": 4,
+      "faceoffsWin": 0,
+      "faceoffsLosses": 0,
+      "faceoffsCount": 0,
+      "timeOnIce": 3040,
+      "timeOnIcePP": 9,
+      "timeOnIceSH": 302,
+      "timeOnIcePerGame": 1013,
+      "shifts": 63,
+      "shiftsPerGame": 21
+    }
+  }
+]

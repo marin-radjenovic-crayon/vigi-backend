@@ -1,0 +1,374 @@
+{
+  "1": [
+    {
+      "time": 0,
+      "type": "periodStart"
+    },
+    {
+      "time": 0,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 15659,
+        "team": "visitor",
+        "time": 0,
+        "player": {
+          "playerId": 516,
+          "matchPlayerId": 121586,
+          "jersey": 90,
+          "name": "Felix",
+          "surname": "Brückmann"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 0,
+      "type": "goalkeeperChange",
+      "data": {
+        "id": 15658,
+        "team": "home",
+        "time": 0,
+        "player": {
+          "playerId": 1,
+          "matchPlayerId": 121554,
+          "jersey": 39,
+          "name": "Marvin",
+          "surname": "Cüpper"
+        },
+        "outgoingGoalkeeper": null
+      }
+    },
+    {
+      "time": 78,
+      "type": "penalty",
+      "data": {
+        "id": 18612,
+        "team": "home",
+        "createTime": 78,
+        "disciplinedPlayer": {
+          "playerId": 1690,
+          "matchPlayerId": 121570,
+          "jersey": 14,
+          "name": "Filips",
+          "surname": "Buncis"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2021-04-13 20:32:02",
+            "scoreboardTime": 78
+          },
+          "to": {
+            "realTime": "2021-04-13 20:34:02",
+            "scoreboardTime": 198
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "SLASH"
+      }
+    },
+    {
+      "time": 1200,
+      "type": "periodEnd"
+    }
+  ],
+  "2": [
+    {
+      "time": 1200,
+      "type": "periodStart"
+    },
+    {
+      "time": 1324,
+      "type": "penalty",
+      "data": {
+        "id": 18619,
+        "team": "visitor",
+        "createTime": 1324,
+        "disciplinedPlayer": {
+          "playerId": 493,
+          "matchPlayerId": 121585,
+          "jersey": 89,
+          "name": "David",
+          "surname": "Wolf"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2021-04-13 21:20:00",
+            "scoreboardTime": 1324
+          },
+          "to": {
+            "realTime": "2021-04-13 21:22:00",
+            "scoreboardTime": 1444
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HOLD"
+      }
+    },
+    {
+      "time": 2033,
+      "type": "penalty",
+      "data": {
+        "id": 18627,
+        "team": "visitor",
+        "createTime": 2033,
+        "disciplinedPlayer": {
+          "playerId": 1579,
+          "matchPlayerId": 121604,
+          "jersey": 24,
+          "name": "Brendan",
+          "surname": "Shinnimin"
+        },
+        "replacedPlayer": null,
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2021-04-13 21:39:21",
+            "scoreboardTime": 2033
+          },
+          "to": {
+            "realTime": "2021-04-13 21:41:21",
+            "scoreboardTime": 2153
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": false,
+        "codename": "HO-ST"
+      }
+    },
+    {
+      "time": 2400,
+      "type": "periodEnd"
+    }
+  ],
+  "3": [
+    {
+      "time": 2400,
+      "type": "periodStart"
+    },
+    {
+      "time": 3558,
+      "type": "timeout",
+      "data": {
+        "id": 1175,
+        "team": "home"
+      }
+    },
+    {
+      "time": 3600,
+      "type": "periodEnd"
+    }
+  ],
+  "overtime": [
+    {
+      "time": 3601,
+      "type": "periodStart"
+    },
+    {
+      "time": 3683,
+      "type": "penalty",
+      "data": {
+        "id": 18640,
+        "team": "home",
+        "createTime": 3683,
+        "disciplinedPlayer": null,
+        "replacedPlayer": {
+          "playerId": 1553,
+          "matchPlayerId": 121550,
+          "jersey": 24,
+          "name": "Alexander",
+          "surname": "Blank"
+        },
+        "fouledPlayer": null,
+        "time": {
+          "from": {
+            "realTime": "2021-04-13 22:40:09",
+            "scoreboardTime": 3683
+          },
+          "to": {
+            "realTime": "2021-04-13 22:42:09",
+            "scoreboardTime": 3803
+          }
+        },
+        "duration": 120,
+        "shooting": false,
+        "disciplined_functionary": false,
+        "disciplined_bm": true,
+        "codename": "TOO-M"
+      }
+    },
+    {
+      "time": 3759,
+      "type": "timeout",
+      "data": {
+        "id": 1176,
+        "team": "visitor"
+      }
+    },
+    {
+      "time": 3900,
+      "type": "periodEnd"
+    }
+  ],
+  "shootout": [
+    {
+      "type": "shootout",
+      "data": {
+        "id": 1183,
+        "team": "home",
+        "scorer": {
+          "playerId": 1544,
+          "matchPlayerId": 121558,
+          "jersey": 6,
+          "name": "Lucas",
+          "surname": "Lessio"
+        },
+        "goalkeeper": {
+          "playerId": 516,
+          "matchPlayerId": 121586,
+          "jersey": 90,
+          "name": "Felix",
+          "surname": "Brückmann"
+        },
+        "order": 1,
+        "scored": false,
+        "currentScore": "0:0"
+      }
+    },
+    {
+      "type": "shootout",
+      "data": {
+        "id": 1184,
+        "team": "visitor",
+        "scorer": {
+          "playerId": 59,
+          "matchPlayerId": 121580,
+          "jersey": 13,
+          "name": "Stefan",
+          "surname": "Loibl"
+        },
+        "goalkeeper": {
+          "playerId": 1,
+          "matchPlayerId": 121554,
+          "jersey": 39,
+          "name": "Marvin",
+          "surname": "Cüpper"
+        },
+        "order": 2,
+        "scored": true,
+        "currentScore": "0:1"
+      }
+    },
+    {
+      "type": "shootout",
+      "data": {
+        "id": 1185,
+        "team": "home",
+        "scorer": {
+          "playerId": 1010,
+          "matchPlayerId": 121568,
+          "jersey": 16,
+          "name": "Brett",
+          "surname": "Olson"
+        },
+        "goalkeeper": {
+          "playerId": 516,
+          "matchPlayerId": 121586,
+          "jersey": 90,
+          "name": "Felix",
+          "surname": "Brückmann"
+        },
+        "order": 3,
+        "scored": false,
+        "currentScore": "0:1"
+      }
+    },
+    {
+      "type": "shootout",
+      "data": {
+        "id": 1186,
+        "team": "visitor",
+        "scorer": {
+          "playerId": 1579,
+          "matchPlayerId": 121604,
+          "jersey": 24,
+          "name": "Brendan",
+          "surname": "Shinnimin"
+        },
+        "goalkeeper": {
+          "playerId": 1,
+          "matchPlayerId": 121554,
+          "jersey": 39,
+          "name": "Marvin",
+          "surname": "Cüpper"
+        },
+        "order": 4,
+        "scored": false,
+        "currentScore": "0:1"
+      }
+    },
+    {
+      "type": "shootout",
+      "data": {
+        "id": 1187,
+        "team": "home",
+        "scorer": {
+          "playerId": 257,
+          "matchPlayerId": 121562,
+          "jersey": 88,
+          "name": "Martin",
+          "surname": "Schymainski"
+        },
+        "goalkeeper": {
+          "playerId": 516,
+          "matchPlayerId": 121586,
+          "jersey": 90,
+          "name": "Felix",
+          "surname": "Brückmann"
+        },
+        "order": 5,
+        "scored": false,
+        "currentScore": "0:1"
+      }
+    },
+    {
+      "time": 3900,
+      "type": "goal",
+      "data": {
+        "id": 11567,
+        "team": "visitor",
+        "currentScore": "0:1",
+        "realTime": "2021-04-13 22:50:19",
+        "scoreboardTime": 3900,
+        "balance": "GWS",
+        "ea": true,
+        "en": false,
+        "shooting": true,
+        "technical": false,
+        "scorer": {
+          "playerId": 59,
+          "matchPlayerId": 121580,
+          "jersey": 13,
+          "name": "Stefan",
+          "surname": "Loibl"
+        },
+        "assistants": [],
+        "attendants": {
+          "positive": [],
+          "negative": []
+        }
+      }
+    }
+  ]
+}

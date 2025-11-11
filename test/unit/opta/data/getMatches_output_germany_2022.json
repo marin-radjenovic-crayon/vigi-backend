@@ -1,0 +1,95 @@
+[
+  {
+    "eventId": "wx2oq2d4n48ry5xbj5e5rj10",
+    "competitionId": "2a8elwzsufmguwymxbshcx756",
+    "competitionName": "2022 Qatar",
+    "date": "23.11.2022",
+    "time": "14:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "4",
+    "home": {
+      "name": "Germany",
+      "id": "3l2t2db0c5ow2f7s7bhr6mij4",
+      "shortcut": "GER"
+    },
+    "away": {
+      "name": "Japan",
+      "id": "6duaxcbrofil112qfq4v895go",
+      "shortcut": "JPN"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "3l2t2db0c5ow2f7s7bhr6mij4"
+  },
+  {
+    "eventId": "1jdbfhmoxyv1shmz5vqsyjrx0",
+    "competitionId": "2a8elwzsufmguwymxbshcx756",
+    "competitionName": "2022 Qatar",
+    "date": "27.11.2022",
+    "time": "20:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "8",
+    "home": {
+      "name": "Spain",
+      "id": "eh7yt2x2wck51oixw8012ux5j",
+      "shortcut": "ESP"
+    },
+    "away": {
+      "name": "Germany",
+      "id": "3l2t2db0c5ow2f7s7bhr6mij4",
+      "shortcut": "GER"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "3l2t2db0c5ow2f7s7bhr6mij4"
+  },
+  {
+    "eventId": "3wbczxf9wmb7k14wv22y8ocno",
+    "competitionId": "2a8elwzsufmguwymxbshcx756",
+    "competitionName": "2022 Qatar",
+    "date": "01.12.2022",
+    "time": "20:00",
+    "start_date": null,
+    "real_end_date": null,
+    "stadion": null,
+    "season": "2022",
+    "round": "12",
+    "home": {
+      "name": "Costa Rica",
+      "id": "bfgqfm4qa3mal7fll74wd04mu",
+      "shortcut": "CRC"
+    },
+    "away": {
+      "name": "Germany",
+      "id": "3l2t2db0c5ow2f7s7bhr6mij4",
+      "shortcut": "GER"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "actual_time_name": null,
+    "actual_time_alias": null,
+    "status": null,
+    "results": null,
+    "teamId": "3l2t2db0c5ow2f7s7bhr6mij4"
+  }
+]

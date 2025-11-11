@@ -1,0 +1,263 @@
+[
+  {
+    "id": "6",
+    "name": "Frank Hördler",
+    "firstname": "Frank",
+    "surname": "Hördler",
+    "position": "DE",
+    "jersey": 7,
+    "nationality": "Germany"
+  },
+  {
+    "id": "92",
+    "name": "Leonhard Pföderl",
+    "firstname": "Leonhard",
+    "surname": "Pföderl",
+    "position": "FO",
+    "jersey": 93,
+    "nationality": "Germany"
+  },
+  {
+    "id": "122",
+    "name": "Mathias Niederberger",
+    "firstname": "Mathias",
+    "surname": "Niederberger",
+    "position": "GK",
+    "jersey": 35,
+    "nationality": "Germany"
+  },
+  {
+    "id": "506",
+    "name": "Jonas Müller",
+    "firstname": "Jonas",
+    "surname": "Müller",
+    "position": "DE",
+    "jersey": 18,
+    "nationality": "Germany"
+  },
+  {
+    "id": "507",
+    "name": "Marcel Noebels",
+    "firstname": "Marcel",
+    "surname": "Noebels",
+    "position": "FO",
+    "jersey": 92,
+    "nationality": "Germany"
+  },
+  {
+    "id": "512",
+    "name": "Kai Wissmann",
+    "firstname": "Kai",
+    "surname": "Wissmann",
+    "position": "DE",
+    "jersey": 6,
+    "nationality": "Germany"
+  },
+  {
+    "id": "522",
+    "name": "Kristopher Foucault",
+    "firstname": "Kristopher",
+    "surname": "Foucault",
+    "position": "FO",
+    "jersey": 98,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1004",
+    "name": "Mark Olver",
+    "firstname": "Mark",
+    "surname": "Olver",
+    "position": "FO",
+    "jersey": 91,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1172",
+    "name": "Matthew White",
+    "firstname": "Matthew",
+    "surname": "White",
+    "position": "FO",
+    "jersey": 97,
+    "nationality": "USA"
+  },
+  {
+    "id": "1211",
+    "name": "Tobias Ancicka",
+    "firstname": "Tobias",
+    "surname": "Ancicka",
+    "position": "GK",
+    "jersey": 45,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1320",
+    "name": "Ryan McKiernan",
+    "firstname": "Ryan",
+    "surname": "McKiernan",
+    "position": "DE",
+    "jersey": 58,
+    "nationality": "USA"
+  },
+  {
+    "id": "1403",
+    "name": "Mark Zengerle",
+    "firstname": "Mark",
+    "surname": "Zengerle",
+    "position": "FO",
+    "jersey": 9,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1425",
+    "name": "Eric Mik",
+    "firstname": "Eric",
+    "surname": "Mik",
+    "position": "DE",
+    "jersey": 12,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1430",
+    "name": "Nino Kinder",
+    "firstname": "Nino",
+    "surname": "Kinder",
+    "position": "FO",
+    "jersey": 8,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1434",
+    "name": "Simon Després",
+    "firstname": "Simon",
+    "surname": "Després",
+    "position": "DE",
+    "jersey": 47,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1464",
+    "name": "Fabian Dietz",
+    "firstname": "Fabian",
+    "surname": "Dietz",
+    "position": "FO",
+    "jersey": 87,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1466",
+    "name": "John Ramage",
+    "firstname": "John",
+    "surname": "Ramage",
+    "position": "DE",
+    "jersey": 55,
+    "nationality": "USA"
+  },
+  {
+    "id": "1467",
+    "name": "Lukas Reichel",
+    "firstname": "Lukas",
+    "surname": "Reichel",
+    "position": "FO",
+    "jersey": 44,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1527",
+    "name": "Pierre-Cedric Labrie",
+    "firstname": "Pierre-Cedric",
+    "surname": "Labrie",
+    "position": "FO",
+    "jersey": 23,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1531",
+    "name": "Sebastian Streu",
+    "firstname": "Sebastian",
+    "surname": "Streu",
+    "position": "FO",
+    "jersey": 81,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1611",
+    "name": "Leon Gawanke",
+    "firstname": "Leon",
+    "surname": "Gawanke",
+    "position": "DE",
+    "jersey": 4,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1615",
+    "name": "Parker Tuomie",
+    "firstname": "Parker",
+    "surname": "Tuomie",
+    "position": "FO",
+    "jersey": 10,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1640",
+    "name": "Gion Ulmer",
+    "firstname": "Gion",
+    "surname": "Ulmer",
+    "position": "GK",
+    "jersey": 1,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1652",
+    "name": "Giovanni Fiore",
+    "firstname": "Giovanni",
+    "surname": "Fiore",
+    "position": "FO",
+    "jersey": 21,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1684",
+    "name": "Haakon Hänelt",
+    "firstname": "Haakon",
+    "surname": "Hänelt",
+    "position": "FO",
+    "jersey": 63,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1689",
+    "name": "Rihards Babulis",
+    "firstname": "Rihards",
+    "surname": "Babulis",
+    "position": "GK",
+    "jersey": 33,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1711",
+    "name": "Zachary Boychuk",
+    "firstname": "Zachary",
+    "surname": "Boychuk",
+    "position": "FO",
+    "jersey": 89,
+    "nationality": "Canada"
+  },
+  {
+    "id": "1733",
+    "name": "Paul Reiner",
+    "firstname": "Paul",
+    "surname": "Reiner",
+    "position": "DE",
+    "jersey": 53,
+    "nationality": "Germany"
+  },
+  {
+    "id": "1738",
+    "name": "Korbinian Geibel",
+    "firstname": "Korbinian",
+    "surname": "Geibel",
+    "position": "DE",
+    "jersey": 54,
+    "nationality": "Germany"
+  }
+]

@@ -1,0 +1,151 @@
+    1  ls
+    2  nvm use
+    3  htop
+    4  ls
+    5  upgrade
+    6  ls
+    7  ;s
+    8  ls
+    9  nvmuse
+   10  nvm use
+   11  sudo apt update
+   12  sudo apt upgrade
+   13  ls
+   14  sudo apt disc-upgrade
+   15  sudo apt dist-upgrade
+   16  ls
+   17  hostnamectl set-hostname vigital-cluster1
+   18  ls
+   19  reboot
+   20  curl -sfL https://get.k3s.io | INSTALL_K3S_VERSION="v1.27.11+k3s1" sh -s - server --cluster-init
+   21  kubectl -v
+   22  kubectl
+   23  kubectl version
+   24  kubectl --version
+   25  kubectl --v
+   26  kubectl -v
+   27  helm
+   28  kubectl
+   29  cd /opt/
+   30  ls
+   31  cd ..
+   32  kubectl
+   33  kubectl get nodes
+   34  kubectl get clusters
+   35  kubectl get cluster
+   36  ls
+   37  cd ./root/.kube/
+   38  ls
+   39  ls -al
+   40  cd ..
+   41  ls
+   42  cd /home/
+   43  ls
+   44  ls -al
+   45  cd /etc/rancher/
+   46  ls
+   47  cd k3s/
+   48  ls
+   49  vim k3s.yaml
+   50  htop
+   51  cd /etc/docker/daemon.json
+   52  cd /etc/docker/
+   53  ls
+   54  ls -a
+   55  ls -al
+   56  cd ..
+   57  ls
+   58  cd etc/
+   59  ls
+   60  touch /etc/rancher/k3s/registries.yaml
+   61  vim /etc/rancher/k3s/registries.yaml
+   62  sudo systemctl restart k3s
+   63  htop
+   64  ls
+   65  htop
+   66  tail -n 100 /var/log/syslog
+   67  tail -n 500 /var/log/syslog
+   68  tail -n 2000 /var/log/syslog
+   69  ls
+   70  vim /var/log/syslog
+   71  tail -f /var/log/syslog
+   72  journalctl -b -1 -r
+   73  history
+   74  uname -r
+   75  sudo apt update
+   76  sudo apt upgrade
+   77  sudo apt install linux-generic-hwe-22.04
+   78  reboot
+   79  sudo apt update
+   80  sudo apt upgrade
+   81  sudo apt dist-upgrade
+   82  sudo apt upgrade
+   83  sudo apt install linux-generic-hwe-22.04
+   84  uname -a
+   85  Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 6.5.0-41-generic x86_64)
+   86  Expanded Security Maintenance for Applications is not enabled.
+   87  0 updates can be applied immediately.
+   88  Enable ESM Apps to receive additional future security updates.
+   89  See https://ubuntu.com/esm or run: sudo pro status
+   90  Last login: Tue Jul 16 10:44:51 2024 from 37.24.226.206
+   91  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+   92  0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0mWelcome to Ubuntu 22.04.4 LTS (GNU/Linux 6.5.0-41-generic x86_64)
+   93  2004l
+   94  -bash: syntax error near unexpected token `('
+   95  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+   96  2004l
+   97  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+   98  2004l
+   99  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+  100  2004l
+  101  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m * Documentation:  https://help.ubuntu.com
+  102  2004l
+  103  em information as of Tue Jul 16 02:20:37 PM UTC 2024
+  104    System load:                    0.35791015625
+  105    Usage of /:                     2.2% of 1.71TB
+  106    Memory usage:                   1%
+  107    Swap usage:                     0%
+  108    Processes:                      1122
+  109    Users logged in:                0
+  110    IPv4 address for cni0:          10.42.0.1
+  111    IPv4 address for enp193s0f0np0: 37.27.118.244
+  112    IPv6 address for enp193s0f0np0: 2a01:4f9:3070:29e7::2
+  113   * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+  114     just raised the bar for easy, resilient and secure K8s cluster deployment.
+  115     https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+  116  Expanded Security Maintenance for Applications is not enabled.
+  117  0 updates can be applied immediately.
+  118  Enable ESM Apps to receive additional future security updates.
+  119  See https://ubuntu.com/esm or run: sudo pro status
+  120  Last login: Tue Jul 16 10:44:51 2024 from 37.24.226.206
+  121  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+  122  2004l
+  123  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m * Management:     https://landscape.canonical.com
+  124  2004l
+  125  -bash: syntax error near unexpected token `('
+  126  em information as of Tue Jul 16 02:20:37 PM UTC 2024
+  127  ctly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+  128  Expanded Security Maintenance for Applications is not enabled.
+  129  0 updates can be applied immediately.
+  130  Enable ESM Apps to receive additional future security updates.
+  131  See https://ubuntu.com/esm or run: sudo pr2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+  132  Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 6.5.0-41-generic x86_64)
+  133  Expanded Security Maintenance for Applications is not enabled.
+  134  0 updates can be applied immediately.
+  135  Enable ESM Apps to receive additional future security updates.
+  136  See https://ubuntu.com/esm or run: sudo pro status
+  137  Last login: Tue Jul 16 14:20:41 2024 from 37.24.226.206
+  138  2004h0;root@vigital-cluster1: ~1;31mroot1;33m@1;36mvigital-cluster1 1;33m~ 1;35m# 0m
+  139  smartctl
+  140  apt install smartmontools
+  141  smartctl
+  142  sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+  143  smartctl /dev/nvme0n1
+  144  smartctl /dev/nvme0n1 -a
+  145  smartctl /dev/nvme0n2 -a
+  146  smartctl /dev/nvme0n0
+  147  smartctl /dev/nvme1n1
+  148  smartctl /dev/nvme1n1 -a
+  149  sudo fdisk -l
+  150  dmesg
+  151  history > history.log

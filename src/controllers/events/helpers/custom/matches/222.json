@@ -1,0 +1,94 @@
+[
+  {
+    "eventId": "2000",
+    "teamId": "222",
+    "competitionId": "2",
+    "competitionName": "Champions League",
+    "date": "20.03.2021",
+    "time": "19:00",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Hannover 96 B",
+      "id": "111",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "FC Kaiserslautern B",
+      "id": "22",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  },
+  {
+    "eventId": "2001",
+    "teamId": "222",
+    "competitionId": "2",
+    "competitionName": "Champions League",
+    "date": "23.03.2021",
+    "time": "19:30",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Team 2 B",
+      "id": "222",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "Team 4 B",
+      "id": "22",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  },
+  {
+    "eventId": "2002",
+    "teamId": "222",
+    "competitionId": "2",
+    "competitionName": "Champions League",
+    "date": "26.03.2021",
+    "time": "19:30",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Team 3",
+      "id": "333",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "Team 1",
+      "id": "22",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  },
+  {
+    "eventId": "2003",
+    "teamId": "222",
+    "competitionId": "2",
+    "competitionName": "Champions League",
+    "date": "26.03.2021",
+    "time": "19:30",
+    "stadion": "HDI Arena",
+    "home": {
+      "name": "Team 3",
+      "id": "444",
+      "logo": "/images/teams/t808.png"
+    },
+    "away": {
+      "name": "Team 1",
+      "id": "22",
+      "logo": "/images/teams/1fck.png"
+    },
+    "score": {
+      "home": "4",
+      "away": "2"
+    }
+  }
+]

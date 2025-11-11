@@ -1,0 +1,130 @@
+{
+  "actualTimeName": "Ende",
+  "actualTimeAlias": "K",
+  "stadium": "SAP Arena",
+  "numberOfViewers": 11512,
+  "teamBilance": {
+    "homeWin": 6,
+    "visitorWin": 6
+  },
+  "results": {
+    "extra_time": false,
+    "shooting": false,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 4,
+        "score_guest": 3
+      },
+      "first_period": {
+        "score_home": 1,
+        "score_guest": 1
+      },
+      "second_period": {
+        "score_home": 2,
+        "score_guest": 2
+      },
+      "third_period": {
+        "score_home": 1,
+        "score_guest": 0
+      }
+    }
+  },
+  "home": {
+    "id": 2,
+    "name": "Adler Mannheim",
+    "shortcut": "MAN"
+  },
+  "away": {
+    "id": 3,
+    "name": "Eisbären Berlin",
+    "shortcut": "EBB"
+  },
+  "startingSix": [
+    {
+      "playerId": 23,
+      "matchPlayerId": 149295,
+      "name": "Sinan",
+      "surname": "Akdag",
+      "jersey": 7,
+      "position": "DE",
+      "captain": false,
+      "startingSix": true,
+      "roster": "211"
+    },
+    {
+      "playerId": 143,
+      "matchPlayerId": 149297,
+      "name": "Nicolas",
+      "surname": "Krämmer",
+      "jersey": 21,
+      "position": "FO",
+      "captain": false,
+      "startingSix": true,
+      "roster": "333"
+    },
+    {
+      "playerId": 291,
+      "matchPlayerId": 149298,
+      "name": "Jason",
+      "surname": "Bast",
+      "jersey": 39,
+      "position": "FO",
+      "captain": false,
+      "startingSix": true,
+      "roster": "342"
+    },
+    {
+      "playerId": 1890,
+      "matchPlayerId": 149325,
+      "name": "Markus",
+      "surname": "Hännikäinen",
+      "jersey": 73,
+      "position": "FO",
+      "captain": false,
+      "startingSix": true,
+      "roster": "343"
+    },
+    {
+      "playerId": 1768,
+      "matchPlayerId": 149318,
+      "name": "Korbinian",
+      "surname": "Holzer",
+      "jersey": 4,
+      "position": "DE",
+      "captain": false,
+      "startingSix": true,
+      "roster": "212"
+    },
+    {
+      "playerId": 516,
+      "matchPlayerId": 149301,
+      "name": "Felix",
+      "surname": "Brückmann",
+      "jersey": 90,
+      "position": "GK",
+      "captain": false,
+      "startingSix": true,
+      "roster": "101"
+    }
+  ],
+  "side": "home",
+  "referees": {
+    "headReferee1": {
+      "id": 267,
+      "name": "Sean MacFarlane"
+    },
+    "headReferee2": {
+      "id": 226,
+      "name": "Aleksi Rantala"
+    },
+    "lineReferee1": {
+      "id": 51,
+      "name": "Andreas Hofer"
+    },
+    "lineReferee2": {
+      "id": 205,
+      "name": "Marius Wölzmüller"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "shortcut": "Korea Rep",
+    "name": "Korea Republic",
+    "teamId": "1yghbv1c71b37eenutbwnvvq",
+    "code": "KOR"
+  },
+  {
+    "shortcut": "Ecuador",
+    "name": "Ecuador",
+    "teamId": "2j2402oabiovxw24cnjk9m369",
+    "code": "ECU"
+  },
+  {
+    "shortcut": "Serbia",
+    "name": "Serbia",
+    "teamId": "2ome9qbio8c3r9lmhx2hg6kif",
+    "code": "SRB"
+  },
+  {
+    "shortcut": "Senegal",
+    "name": "Senegal",
+    "teamId": "2wk1549tkz80oet8226euj7jp",
+    "code": "SEN"
+  },
+  {
+    "shortcut": "Switzerland",
+    "name": "Switzerland",
+    "teamId": "339wxbt07ltnva7hop6m5o477",
+    "code": "SUI"
+  },
+  {
+    "shortcut": "Germany",
+    "name": "Germany",
+    "teamId": "3l2t2db0c5ow2f7s7bhr6mij4",
+    "code": "GER"
+  },
+  {
+    "shortcut": "Croatia",
+    "name": "Croatia",
+    "teamId": "4njsfszcgd9m765d6suktsz2a",
+    "code": "CRO"
+  },
+  {
+    "shortcut": "France",
+    "name": "France",
+    "teamId": "4pz87gsel7183b7kcadw1dwzv",
+    "code": "FRA"
+  },
+  {
+    "shortcut": "Mexico",
+    "name": "Mexico",
+    "teamId": "4vofb84dzb5fyc81n2ssws6ah",
+    "code": "MEX"
+  },
+  {
+    "shortcut": "Netherlands",
+    "name": "Netherlands",
+    "teamId": "657oha8nkne1ybba2bouzkbo7",
+    "code": "NED"
+  },
+  {
+    "shortcut": "Japan",
+    "name": "Japan",
+    "teamId": "6duaxcbrofil112qfq4v895go",
+    "code": "JPN"
+  },
+  {
+    "shortcut": "Portugal",
+    "name": "Portugal",
+    "teamId": "8gxg8f7p9299jbrz30u8bsc7g",
+    "code": "POR"
+  },
+  {
+    "shortcut": "Ghana",
+    "name": "Ghana",
+    "teamId": "9bix8nlt6cgbson25qntg2zzh",
+    "code": "GHA"
+  },
+  {
+    "shortcut": "Uruguay",
+    "name": "Uruguay",
+    "teamId": "9l06impjllgop0gte8fldb4zo",
+    "code": "URU"
+  },
+  {
+    "shortcut": "Saudi Arabia",
+    "name": "Saudi Arabia",
+    "teamId": "9l4imoomrnyceg5u3kdxf5l5r",
+    "code": "KSA"
+  },
+  {
+    "shortcut": "United States",
+    "name": "United States",
+    "teamId": "9vh2u1p4ppm597tjfahst2m3n",
+    "code": "USA"
+  },
+  {
+    "shortcut": "Brazil",
+    "name": "Brazil",
+    "teamId": "ajab3nmpoltsoeqcuoyi4pwzx",
+    "code": "BRA"
+  },
+  {
+    "shortcut": "Argentina",
+    "name": "Argentina",
+    "teamId": "ak48fkypnql8y4n69cvcq5ghc",
+    "code": "ARG"
+  },
+  {
+    "shortcut": "Denmark",
+    "name": "Denmark",
+    "teamId": "akblgvrthxxgta4ou9lnslxgb",
+    "code": "DEN"
+  },
+  {
+    "shortcut": "Morocco",
+    "name": "Morocco",
+    "teamId": "avggs3u2b5cu8i1dnzknhth52",
+    "code": "MAR"
+  },
+  {
+    "shortcut": "Cameroon",
+    "name": "Cameroon",
+    "teamId": "b6ojzaz5yyr6dkrj284hrhhs1",
+    "code": "CMR"
+  },
+  {
+    "shortcut": "Poland",
+    "name": "Poland",
+    "teamId": "ba25ib8pofxr85hkbs8lt7kw7",
+    "code": "POL"
+  },
+  {
+    "shortcut": "Costa Rica",
+    "name": "Costa Rica",
+    "teamId": "bfgqfm4qa3mal7fll74wd04mu",
+    "code": "CRC"
+  },
+  {
+    "shortcut": "Australia",
+    "name": "Australia",
+    "teamId": "bl4fd8cxe6kjvjx8br82gkhnq",
+    "code": "AUS"
+  },
+  {
+    "shortcut": "England",
+    "name": "England",
+    "teamId": "ck8m1cn23sukwsurgx5qakttk",
+    "code": "ENG"
+  },
+  {
+    "shortcut": "Tunisia",
+    "name": "Tunisia",
+    "teamId": "ctp7ovvf34m7fzshua9ogbr6i",
+    "code": "TUN"
+  },
+  {
+    "shortcut": "Iran",
+    "name": "Iran",
+    "teamId": "cubclbw5k5gdqdau95bnav0nn",
+    "code": "IRN"
+  },
+  {
+    "shortcut": "Qatar",
+    "name": "Qatar",
+    "teamId": "ea68amhsn28ijs7bzjuzeqrz6",
+    "code": "QAT"
+  },
+  {
+    "shortcut": "Canada",
+    "name": "Canada",
+    "teamId": "eg7vduna0h3vis1wd47s41za7",
+    "code": "CAN"
+  },
+  {
+    "shortcut": "Spain",
+    "name": "Spain",
+    "teamId": "eh7yt2x2wck51oixw8012ux5j",
+    "code": "ESP"
+  },
+  {
+    "shortcut": "Wales",
+    "name": "Wales",
+    "teamId": "eyhp0bgsz2deg91xaw4zotn5c",
+    "code": "WAL"
+  },
+  {
+    "shortcut": "Belgium",
+    "name": "Belgium",
+    "teamId": "pfvmhackqyhhk02majd2tb8l",
+    "code": "BEL"
+  }
+]

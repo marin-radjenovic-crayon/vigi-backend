@@ -1,0 +1,24 @@
+version: '2.4'
+services:
+  spovizz_chrome:
+    container_name: "spovizz_chrome"
+    command: [ 'sh', 'run.sh' ]
+    image: chrome-image
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      - TZ=Europe/Berlin
+    ports:
+     - "9222:9222"
+#    cap_add:
+#      - SYS_ADMIN
+    shm_size: 2gb
+    mem_limit: "0"
+    memswap_limit: -1
+    security_opt:
+      - seccomp:./security-opt-chrome.json
+networks:
+  default:
+    external:
+      name: live_network

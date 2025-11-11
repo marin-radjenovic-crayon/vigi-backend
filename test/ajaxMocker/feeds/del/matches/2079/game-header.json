@@ -1,0 +1,93 @@
+{
+  "actualTimeName": "Ende n. Penaltyschießen",
+  "actualTimeAlias": "KN",
+  "stadium": "Yayla-Arena",
+  "numberOfViewers": 0,
+  "referees": {
+    "headReferee1": {
+      "id": 49,
+      "name": "Benjamin Hoppe"
+    },
+    "headReferee2": {
+      "id": 65,
+      "name": "Lasse Kopitz"
+    },
+    "lineReferee1": {
+      "id": 201,
+      "name": "Kai Jürgens"
+    },
+    "lineReferee2": {
+      "id": 91,
+      "name": "Christoffer Hurtik"
+    }
+  },
+  "teamInfo": {
+    "home": {
+      "id": 5,
+      "name": "Krefeld Pinguine",
+      "shortcut": "KEV"
+    },
+    "visitor": {
+      "id": 2,
+      "name": "Adler Mannheim",
+      "shortcut": "MAN"
+    }
+  },
+  "trainers": {
+    "visitorHeadCoach": {
+      "id": 103,
+      "name": "Pavel Gross"
+    },
+    "homeHeadCoach": {
+      "id": 743,
+      "name": "Clark Donatelli"
+    }
+  },
+  "teamBilance": {
+    "homeWin": 9,
+    "visitorWin": 9
+  },
+  "results": {
+    "extra_time": true,
+    "shooting": true,
+    "contumacy": false,
+    "score": {
+      "final": {
+        "score_home": 0,
+        "score_guest": 1
+      },
+      "first_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "second_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "third_period": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "overtime": {
+        "score_home": 0,
+        "score_guest": 0
+      },
+      "shootout": {
+        "score_home": 0,
+        "score_guest": 1
+      }
+    }
+  },
+  "bestPlayers": {
+    "home": {
+      "id": 1,
+      "name": "Marvin Cüpper"
+    },
+    "visitor": {
+      "id": 25,
+      "name": "Denis Reul"
+    }
+  },
+  "overtimeCount": 1,
+  "lastEventTime": 3900
+}

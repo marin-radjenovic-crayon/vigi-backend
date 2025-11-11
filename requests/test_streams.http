@@ -1,0 +1,56 @@
+### AMD german-bundesliga-de-1 STOP
+POST http://streamer-2.vigitalsolutions.com:4000/streams/docker/stop
+x-api-key: AUTH-$2000$-VIGITAL
+Content-Type: application/json
+
+{
+  "id": "stream-bundesliga-de-1"
+}
+
+### AMD german-bundesliga-de-1 START
+POST http://streamer-2.vigitalsolutions.com:4000/streams/docker/start
+x-api-key: AUTH-$2000$-VIGITAL
+Content-Type: application/json
+
+{
+  "id": "bundesliga-de-1",
+  "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/90f276ac-7ea4-495d-a5dc-048357cb7103?format=1920x1080&lng=de&stream=audio"
+}
+
+### AMD german-bundesliga-de-2 STOP
+POST http://streamer-2.vigitalsolutions.com:4000/streams/docker/stop
+x-api-key: AUTH-$2000$-VIGITAL
+Content-Type: application/json
+
+{
+  "id": "stream-bundesliga-de-2"
+}
+
+### AMD german-bundesliga-de-2 START
+POST http://streamer-2.vigitalsolutions.com:4000/streams/docker/start
+x-api-key: AUTH-$2000$-VIGITAL
+Content-Type: application/json
+
+{
+  "id": "bundesliga-de-2",
+  "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/90f276ac-7ea4-495d-a5dc-048357cb7103?format=1920x1080&lng=de&stream=audio"
+}
+
+### AMD german-bundesliga-de-3 STOP
+POST http://streamer-2.vigitalsolutions.com:4000/streams/docker/stop
+x-api-key: AUTH-$2000$-VIGITAL
+Content-Type: application/json
+
+{
+  "id": "stream-bundesliga-de-3"
+}
+
+### AMD german-bundesliga-de-3 START
+POST http://streamer-2.vigitalsolutions.com:4000/streams/docker/start
+x-api-key: AUTH-$2000$-VIGITAL
+Content-Type: application/json
+
+{
+  "id": "bundesliga-de-3",
+  "url": "https://app.womansworldcup.spovizz.com/frontend/timeline/90f276ac-7ea4-495d-a5dc-048357cb7103?format=1920x1080&lng=de&stream=audio"
+}

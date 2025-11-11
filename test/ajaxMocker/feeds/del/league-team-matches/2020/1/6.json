@@ -1,0 +1,1779 @@
+{
+  "matches": [
+    {
+      "id": 1828,
+      "start_date": "2020-12-23 18:30:00",
+      "real_end_date": "2020-12-23 20:58:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "2",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1831,
+      "start_date": "2020-12-26 16:30:00",
+      "real_end_date": "2020-12-26 18:42:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "3",
+      "home": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1842,
+      "start_date": "2021-01-02 20:00:00",
+      "real_end_date": "2021-01-02 22:08:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "4",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1846,
+      "start_date": "2021-01-04 18:30:00",
+      "real_end_date": "2021-01-04 21:08:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "5",
+      "home": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1848,
+      "start_date": "2021-01-06 20:30:00",
+      "real_end_date": "2021-01-06 22:40:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "6",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1857,
+      "start_date": "2021-01-10 19:30:00",
+      "real_end_date": "2021-01-10 21:46:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "7",
+      "home": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1866,
+      "start_date": "2021-01-14 20:30:00",
+      "real_end_date": "2021-01-14 22:43:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "8",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1874,
+      "start_date": "2021-01-18 18:30:00",
+      "real_end_date": "2021-01-18 20:46:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "10",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 6,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1883,
+      "start_date": "2021-01-22 18:30:00",
+      "real_end_date": "2021-01-22 20:40:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "11",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1890,
+      "start_date": "2021-01-25 20:30:00",
+      "real_end_date": "2021-01-25 22:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "12",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1897,
+      "start_date": "2021-01-29 20:30:00",
+      "real_end_date": "2021-01-29 22:38:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "13",
+      "home": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1901,
+      "start_date": "2021-01-31 14:30:00",
+      "real_end_date": "2021-01-31 16:49:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "14",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1913,
+      "start_date": "2021-02-07 14:30:00",
+      "real_end_date": "2021-02-07 16:39:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "16",
+      "home": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1918,
+      "start_date": "2021-02-13 17:30:00",
+      "real_end_date": "2021-02-13 19:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "17",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 1927,
+      "start_date": "2021-02-17 20:30:00",
+      "real_end_date": "2021-02-17 22:43:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "18",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1931,
+      "start_date": "2021-02-19 20:30:00",
+      "real_end_date": "2021-02-19 22:47:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "19",
+      "home": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1937,
+      "start_date": "2021-02-22 19:30:00",
+      "real_end_date": "2021-02-22 21:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "20",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3642
+    },
+    {
+      "id": 1944,
+      "start_date": "2021-02-26 20:30:00",
+      "real_end_date": "2021-02-26 22:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "21",
+      "home": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 6
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1948,
+      "start_date": "2021-02-28 14:30:00",
+      "real_end_date": "2021-02-28 16:44:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "22",
+      "home": {
+        "id": 12,
+        "name": "EHC Red Bull München",
+        "shortcut": "RBM"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 6,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1955,
+      "start_date": "2021-03-03 20:30:00",
+      "real_end_date": "2021-03-03 22:37:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "23",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 13,
+        "name": "Augsburger Panther",
+        "shortcut": "AEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 2,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1960,
+      "start_date": "2021-03-06 17:30:00",
+      "real_end_date": "2021-03-06 19:47:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "24",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 2,
+        "name": "Adler Mannheim",
+        "shortcut": "MAN"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3658
+    },
+    {
+      "id": 1965,
+      "start_date": "2021-03-08 18:30:00",
+      "real_end_date": "2021-03-08 20:50:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "25",
+      "home": {
+        "id": 15,
+        "name": "Schwenninger Wild Wings",
+        "shortcut": "SWW"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 1971,
+      "start_date": "2021-03-11 20:30:00",
+      "real_end_date": "2021-03-11 22:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "26",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 14,
+        "name": "Nürnberg Ice Tigers",
+        "shortcut": "NIT"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Verlängerung",
+      "actual_time_alias": "KP",
+      "last_event_time": 3895
+    },
+    {
+      "id": 1985,
+      "start_date": "2021-02-10 18:30:00",
+      "real_end_date": "2021-02-10 20:54:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "28",
+      "home": {
+        "id": 1,
+        "name": "ERC Ingolstadt",
+        "shortcut": "ING"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": 1,
+      "results": {
+        "extra_time": true,
+        "shooting": true,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "overtime": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "shootout": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende n. Penaltyschießen",
+      "actual_time_alias": "KN",
+      "last_event_time": 3900
+    },
+    {
+      "id": 2001,
+      "start_date": "2021-03-21 14:30:00",
+      "real_end_date": "2021-03-21 16:41:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "29",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 5,
+            "score_guest": 2
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 3,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2010,
+      "start_date": "2021-03-24 20:30:00",
+      "real_end_date": "2021-03-24 22:28:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "30",
+      "home": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2011,
+      "start_date": "2021-03-25 18:30:00",
+      "real_end_date": "2021-03-25 20:48:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "31",
+      "home": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2020,
+      "start_date": "2021-03-28 14:30:00",
+      "real_end_date": "2021-03-28 16:51:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "32",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 3
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2027,
+      "start_date": "2021-03-30 18:30:00",
+      "real_end_date": "2021-03-30 20:41:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "33",
+      "home": {
+        "id": 9,
+        "name": "Pinguins Bremerhaven",
+        "shortcut": "BHV"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2031,
+      "start_date": "2021-03-31 18:30:00",
+      "real_end_date": "2021-03-31 20:42:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "34",
+      "home": {
+        "id": 3,
+        "name": "Eisbären Berlin",
+        "shortcut": "EBB"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2046,
+      "start_date": "2021-04-04 14:30:00",
+      "real_end_date": "2021-04-04 16:37:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "35",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 4,
+        "name": "Düsseldorfer EG",
+        "shortcut": "DEG"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 1
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2056,
+      "start_date": "2021-04-07 20:30:00",
+      "real_end_date": "2021-04-07 22:40:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "37",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 5,
+        "name": "Krefeld Pinguine",
+        "shortcut": "KEV"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 1
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 0
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 0
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2064,
+      "start_date": "2021-04-09 19:30:00",
+      "real_end_date": "2021-04-09 21:45:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "38",
+      "home": {
+        "id": 7,
+        "name": "Iserlohn Roosters",
+        "shortcut": "IEC"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 0,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 4
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2069,
+      "start_date": "2021-04-11 17:00:00",
+      "real_end_date": "2021-04-11 19:16:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "39",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 3,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 0,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 3,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2080,
+      "start_date": "2021-04-14 20:30:00",
+      "real_end_date": "2021-04-14 22:49:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "40",
+      "home": {
+        "id": 11,
+        "name": "Kölner Haie",
+        "shortcut": "KEC"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 4,
+            "score_guest": 5
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 1,
+            "score_guest": 3
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2088,
+      "start_date": "2021-04-16 19:30:00",
+      "real_end_date": "2021-04-16 21:40:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "41",
+      "home": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "guest": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "second_period": {
+            "score_home": 1,
+            "score_guest": 1
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    },
+    {
+      "id": 2095,
+      "start_date": "2021-04-18 14:30:00",
+      "real_end_date": "2021-04-18 16:51:00",
+      "league_id": 1,
+      "league": "DEL",
+      "season": "2020",
+      "round": "42",
+      "home": {
+        "id": 8,
+        "name": "Grizzlys Wolfsburg",
+        "shortcut": "WOB"
+      },
+      "guest": {
+        "id": 6,
+        "name": "Straubing Tigers",
+        "shortcut": "STR"
+      },
+      "status": "AFTER_MATCH",
+      "overtimeCount": null,
+      "results": {
+        "extra_time": false,
+        "shooting": false,
+        "contumacy": false,
+        "score": {
+          "final": {
+            "score_home": 2,
+            "score_guest": 4
+          },
+          "first_period": {
+            "score_home": 0,
+            "score_guest": 2
+          },
+          "second_period": {
+            "score_home": 2,
+            "score_guest": 0
+          },
+          "third_period": {
+            "score_home": 0,
+            "score_guest": 2
+          }
+        }
+      },
+      "actual_time_name": "Ende",
+      "actual_time_alias": "K",
+      "last_event_time": 3600
+    }
+  ]
+}

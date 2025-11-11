@@ -1,0 +1,12 @@
+[
+  {
+    "competitionId": "1",
+    "competitionName": "Bundesliga",
+    "logo": "LOGOURL"
+  },
+  {
+    "competitionId": "2",
+    "competitionName": "Champions League",
+    "logo": "LOGOURL"
+  }
+]

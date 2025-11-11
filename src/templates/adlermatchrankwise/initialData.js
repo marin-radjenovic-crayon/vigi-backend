@@ -1,0 +1,4551 @@
+module.exports = {
+  uuid: '0',
+  template_name: 'adlermatchrankwise',
+  name: 'Match Rank (Wise)',
+  data: {
+    dynamic: {
+      teamSide: 'home',
+      game: {
+        actualTimeName: 'Ende',
+        actualTimeAlias: 'K',
+        stadium: 'SAP-Arena',
+        numberOfViewers: 0,
+        teamBilance: {
+          homeWin: 9,
+          visitorWin: 9
+        },
+        results: {
+          extra_time: true,
+          shooting: true,
+          contumacy: false,
+          score: {
+            final: {
+              score_home: 3,
+              score_guest: 2
+            },
+            first_period: {
+              score_home: 0,
+              score_guest: 2
+            },
+            second_period: {
+              score_home: 0,
+              score_guest: 1
+            },
+            third_period: {
+              score_home: 1,
+              score_guest: 1
+            },
+            overtime: {
+              score_home: 1,
+              score_guest: 1
+            },
+            shootout: {
+              score_home: 2,
+              score_guest: 1
+            }
+          }
+        },
+        home: {
+          id: 2,
+          name: 'Adler Mannheim',
+          shortcut: 'MAN'
+        },
+        away: {
+          id: 3,
+          name: 'Eisbären Berlin',
+          shortcut: 'EBB'
+        }
+      },
+      assets: {
+        teamHome: {
+          label: 'Adler Mannheim',
+          type: 'image',
+          group: 'teams',
+          url: '/predefined/media/image/teams/adler/logo-mannheim.png',
+          data: {
+            name: 'Adler Mannheim',
+            short: 'MAN',
+            id: '2'
+          },
+          extension: 'png',
+          mime: 'image/png',
+          content_type: 'image',
+          size: '0'
+        },
+        teamAway: {
+          label: 'Krefeld Pinguine',
+          type: 'image',
+          group: 'teams',
+          url: '/predefined/media/image/teams/adler/logo-krefeld-2020.png',
+          data: {
+            name: 'Krefeld Pinguine',
+            short: 'KEV',
+            id: '5'
+          },
+          extension: 'png',
+          mime: 'image/png',
+          content_type: 'image',
+          size: '0'
+        },
+        p_1365: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1365',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1702: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1364: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1359: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1579: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_528: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_656: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_493: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1194: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_487: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_23: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_25: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1742: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_291: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '1702',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_926: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1473: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1578: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_59: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1363: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_516: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_22: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1557: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        },
+        p_1506: {
+          url: '/predefined/media/image/players/adler/Akdag.png',
+          data: {
+            id: '926',
+            firstname: 'Sinan',
+            lastname: 'Akdag',
+            position: 'DE',
+            shirtNumber: '7'
+          }
+        }
+      },
+      matchRanks: {
+        home: {
+          distanceTravelled: [
+            {
+              player: '1768',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.75,
+                  timeOnIce: 1251.06,
+                  distanceTravelled: 4859.66,
+                  averageSpeedWithPuck: 4.66,
+                  accelerations: 92,
+                  decelerations: 58
+                },
+                shiftStatisticsSummary: {
+                  shifts: 24,
+                  averageShiftDuration: 52.13
+                },
+                passStatistics: {
+                  successfulPasses: 19,
+                  allPasses: 23,
+                  receivedPasses: 20,
+                  totalPassDistance: 260.61,
+                  forwardPassDistance: 92.62
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 45.1,
+                  puckControlDistance: 210.14,
+                  puckControlForwardDistance: 110.93
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 7,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 162.7
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 242.42
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 259.62
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 319.06
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 193.96
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.3
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 11,
+                  corsiForPercentage: 0.31,
+                  relativeCorsiForPercentage: -0.35,
+                  fenwickForPercentage: 0.31,
+                  relativeFenwickForPercentage: -0.34,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1506',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.98,
+                  timeOnIce: 1112.5,
+                  distanceTravelled: 4666.49,
+                  averageSpeedWithPuck: 4.67,
+                  accelerations: 72,
+                  decelerations: 60
+                },
+                shiftStatisticsSummary: {
+                  shifts: 20,
+                  averageShiftDuration: 55.62
+                },
+                passStatistics: {
+                  successfulPasses: 35,
+                  allPasses: 48,
+                  receivedPasses: 39,
+                  totalPassDistance: 272.29,
+                  forwardPassDistance: 53.35
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 113.46,
+                  puckControlDistance: 529.63,
+                  puckControlForwardDistance: 303.33
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 8
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 107.88
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 173.4
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 254.6
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 294.64
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 186.84
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 95.14
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.44,
+                  relativeCorsiForPercentage: -0.17,
+                  fenwickForPercentage: 0.47,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '2118',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.57,
+                  timeOnIce: 1297.98,
+                  distanceTravelled: 4560.83,
+                  averageSpeedWithPuck: 3.83,
+                  accelerations: 64,
+                  decelerations: 56
+                },
+                shiftStatisticsSummary: {
+                  shifts: 19,
+                  averageShiftDuration: 68.31
+                },
+                passStatistics: {
+                  successfulPasses: 43,
+                  allPasses: 53,
+                  receivedPasses: 46,
+                  totalPassDistance: 464.59,
+                  forwardPassDistance: 208.14
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 111.7,
+                  puckControlDistance: 427.72,
+                  puckControlForwardDistance: 171.29
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 2,
+                  puckContestsLost: 3,
+                  puckContestParticipations: 5
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 222
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 247.36
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 320.28
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 310.14
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 175.8
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 22.4
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 10,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.5,
+                  relativeCorsiForPercentage: -0.09,
+                  fenwickForPercentage: 0.47,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '656',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.52,
+                  timeOnIce: 1180.88,
+                  distanceTravelled: 4343.96,
+                  averageSpeedWithPuck: 4.61,
+                  accelerations: 70,
+                  decelerations: 66
+                },
+                shiftStatisticsSummary: {
+                  shifts: 22,
+                  averageShiftDuration: 53.68
+                },
+                passStatistics: {
+                  successfulPasses: 23,
+                  allPasses: 31,
+                  receivedPasses: 25,
+                  totalPassDistance: 283.44,
+                  forwardPassDistance: 81.85
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 63,
+                  puckControlDistance: 290.58,
+                  puckControlForwardDistance: 131.99
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 2,
+                  puckContestParticipations: 5
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 134.04
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 266.94
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 317.06
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 260.62
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 154.44
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 47.78
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 15,
+                  corsiAgainst: 9,
+                  corsiForPercentage: 0.62,
+                  relativeCorsiForPercentage: 0.11,
+                  fenwickForPercentage: 0.63,
+                  relativeFenwickForPercentage: 0.13,
+                  pdo: 0.75,
+                  fullStrengthSavePercentage: 0.75,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1772',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.24,
+                  timeOnIce: 1133.6,
+                  distanceTravelled: 4260.43,
+                  averageSpeedWithPuck: 4.2,
+                  accelerations: 82,
+                  decelerations: 54
+                },
+                shiftStatisticsSummary: {
+                  shifts: 21,
+                  averageShiftDuration: 53.98
+                },
+                passStatistics: {
+                  successfulPasses: 24,
+                  allPasses: 31,
+                  receivedPasses: 18,
+                  totalPassDistance: 260.42,
+                  forwardPassDistance: 37.26
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 31.3,
+                  puckControlDistance: 131.62,
+                  puckControlForwardDistance: 63.91
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 6,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 166.08
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 232.66
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 245.38
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 250.9
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 165.04
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.54
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.57,
+                  relativeCorsiForPercentage: 0.01,
+                  fenwickForPercentage: 0.55,
+                  relativeFenwickForPercentage: -0.01,
+                  pdo: 0.67,
+                  fullStrengthSavePercentage: 0.67,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            }
+          ],
+          fastestScater: [
+            {
+              player: '143',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.98,
+                  timeOnIce: 732.68,
+                  distanceTravelled: 3006.31,
+                  averageSpeedWithPuck: 4.8,
+                  accelerations: 58,
+                  decelerations: 51
+                },
+                shiftStatisticsSummary: {
+                  shifts: 15,
+                  averageShiftDuration: 48.85
+                },
+                passStatistics: {
+                  successfulPasses: 6,
+                  allPasses: 11,
+                  receivedPasses: 8,
+                  totalPassDistance: 61.64,
+                  forwardPassDistance: 24.73
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 15.44,
+                  puckControlDistance: 74.16,
+                  puckControlForwardDistance: 44.03
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 2,
+                  puckContestParticipations: 5
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 90.14
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 134.14
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 153.12
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 164.32
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 114.76
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 76.2
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 2,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 3,
+                  corsiForPercentage: 0.73,
+                  relativeCorsiForPercentage: 0.21,
+                  fenwickForPercentage: 0.78,
+                  relativeFenwickForPercentage: 0.28,
+                  pdo: 0.5,
+                  fullStrengthSavePercentage: 0.5,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1506',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.98,
+                  timeOnIce: 1112.5,
+                  distanceTravelled: 4666.49,
+                  averageSpeedWithPuck: 4.67,
+                  accelerations: 72,
+                  decelerations: 60
+                },
+                shiftStatisticsSummary: {
+                  shifts: 20,
+                  averageShiftDuration: 55.62
+                },
+                passStatistics: {
+                  successfulPasses: 35,
+                  allPasses: 48,
+                  receivedPasses: 39,
+                  totalPassDistance: 272.29,
+                  forwardPassDistance: 53.35
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 113.46,
+                  puckControlDistance: 529.63,
+                  puckControlForwardDistance: 303.33
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 8
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 107.88
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 173.4
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 254.6
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 294.64
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 186.84
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 95.14
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.44,
+                  relativeCorsiForPercentage: -0.17,
+                  fenwickForPercentage: 0.47,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '493',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.8,
+                  timeOnIce: 912.58,
+                  distanceTravelled: 3748.69,
+                  averageSpeedWithPuck: 4.6,
+                  accelerations: 47,
+                  decelerations: 35
+                },
+                shiftStatisticsSummary: {
+                  shifts: 15,
+                  averageShiftDuration: 60.84
+                },
+                passStatistics: {
+                  successfulPasses: 13,
+                  allPasses: 25,
+                  receivedPasses: 17,
+                  totalPassDistance: 145.7,
+                  forwardPassDistance: 15.14
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 21.44,
+                  puckControlDistance: 98.57,
+                  puckControlForwardDistance: 55.27
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 1,
+                  puckContestsLost: 2,
+                  puckContestParticipations: 3
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 94.26
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 164.3
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 221.64
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 204.9
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 148.54
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 78.94
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 7,
+                  corsiAgainst: 4,
+                  corsiForPercentage: 0.64,
+                  relativeCorsiForPercentage: 0.09,
+                  fenwickForPercentage: 0.7,
+                  relativeFenwickForPercentage: 0.19,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1306',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.71,
+                  timeOnIce: 779.94,
+                  distanceTravelled: 3326.05,
+                  averageSpeedWithPuck: 4.79,
+                  accelerations: 53,
+                  decelerations: 35
+                },
+                shiftStatisticsSummary: {
+                  shifts: 15,
+                  averageShiftDuration: 52
+                },
+                passStatistics: {
+                  successfulPasses: 11,
+                  allPasses: 19,
+                  receivedPasses: 13,
+                  totalPassDistance: 106.7,
+                  forwardPassDistance: 11.75
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 34.42,
+                  puckControlDistance: 164.72,
+                  puckControlForwardDistance: 60.72
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 7
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 74.16
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 128.24
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 162.74
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 192.32
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 150.9
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 71.58
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 9,
+                  corsiAgainst: 4,
+                  corsiForPercentage: 0.69,
+                  relativeCorsiForPercentage: 0.17,
+                  fenwickForPercentage: 0.7,
+                  relativeFenwickForPercentage: 0.19,
+                  pdo: 0.5,
+                  fullStrengthSavePercentage: 0.5,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1764',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.67,
+                  timeOnIce: 760.72,
+                  distanceTravelled: 2962.85,
+                  averageSpeedWithPuck: 4.74,
+                  accelerations: 39,
+                  decelerations: 44
+                },
+                shiftStatisticsSummary: {
+                  shifts: 16,
+                  averageShiftDuration: 47.54
+                },
+                passStatistics: {
+                  successfulPasses: 15,
+                  allPasses: 23,
+                  receivedPasses: 12,
+                  totalPassDistance: 152.74,
+                  forwardPassDistance: 72.22
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 40.48,
+                  puckControlDistance: 192.01,
+                  puckControlForwardDistance: 103.36
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 8,
+                  puckContestsLost: 7,
+                  puckContestParticipations: 15
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 97.28
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 142.9
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 173.3
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 177.72
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 120
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 49.52
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 12,
+                  corsiAgainst: 3,
+                  corsiForPercentage: 0.8,
+                  relativeCorsiForPercentage: 0.32,
+                  fenwickForPercentage: 0.83,
+                  relativeFenwickForPercentage: 0.38,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            }
+          ],
+          skaterAcceleration: [
+            {
+              player: '1768',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.75,
+                  timeOnIce: 1251.06,
+                  distanceTravelled: 4859.66,
+                  averageSpeedWithPuck: 4.66,
+                  accelerations: 92,
+                  decelerations: 58
+                },
+                shiftStatisticsSummary: {
+                  shifts: 24,
+                  averageShiftDuration: 52.13
+                },
+                passStatistics: {
+                  successfulPasses: 19,
+                  allPasses: 23,
+                  receivedPasses: 20,
+                  totalPassDistance: 260.61,
+                  forwardPassDistance: 92.62
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 45.1,
+                  puckControlDistance: 210.14,
+                  puckControlForwardDistance: 110.93
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 7,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 162.7
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 242.42
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 259.62
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 319.06
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 193.96
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.3
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 11,
+                  corsiForPercentage: 0.31,
+                  relativeCorsiForPercentage: -0.35,
+                  fenwickForPercentage: 0.31,
+                  relativeFenwickForPercentage: -0.34,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1772',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.24,
+                  timeOnIce: 1133.6,
+                  distanceTravelled: 4260.43,
+                  averageSpeedWithPuck: 4.2,
+                  accelerations: 82,
+                  decelerations: 54
+                },
+                shiftStatisticsSummary: {
+                  shifts: 21,
+                  averageShiftDuration: 53.98
+                },
+                passStatistics: {
+                  successfulPasses: 24,
+                  allPasses: 31,
+                  receivedPasses: 18,
+                  totalPassDistance: 260.42,
+                  forwardPassDistance: 37.26
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 31.3,
+                  puckControlDistance: 131.62,
+                  puckControlForwardDistance: 63.91
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 6,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 166.08
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 232.66
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 245.38
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 250.9
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 165.04
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.54
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.57,
+                  relativeCorsiForPercentage: 0.01,
+                  fenwickForPercentage: 0.55,
+                  relativeFenwickForPercentage: -0.01,
+                  pdo: 0.67,
+                  fullStrengthSavePercentage: 0.67,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1364',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.35,
+                  timeOnIce: 875.58,
+                  distanceTravelled: 3687.83,
+                  averageSpeedWithPuck: 5.15,
+                  accelerations: 72,
+                  decelerations: 39
+                },
+                shiftStatisticsSummary: {
+                  shifts: 19,
+                  averageShiftDuration: 46.08
+                },
+                passStatistics: {
+                  successfulPasses: 13,
+                  allPasses: 16,
+                  receivedPasses: 17,
+                  totalPassDistance: 116.87,
+                  forwardPassDistance: 24.14
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 49.5,
+                  puckControlDistance: 255.15,
+                  puckControlForwardDistance: 157.43
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 4,
+                  puckContestsLost: 6,
+                  puckContestParticipations: 10
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 99.96
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 124.66
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 179.72
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 235.54
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 162.24
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.46
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 6,
+                  corsiAgainst: 9,
+                  corsiForPercentage: 0.4,
+                  relativeCorsiForPercentage: -0.22,
+                  fenwickForPercentage: 0.38,
+                  relativeFenwickForPercentage: -0.23,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1506',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.98,
+                  timeOnIce: 1112.5,
+                  distanceTravelled: 4666.49,
+                  averageSpeedWithPuck: 4.67,
+                  accelerations: 72,
+                  decelerations: 60
+                },
+                shiftStatisticsSummary: {
+                  shifts: 20,
+                  averageShiftDuration: 55.62
+                },
+                passStatistics: {
+                  successfulPasses: 35,
+                  allPasses: 48,
+                  receivedPasses: 39,
+                  totalPassDistance: 272.29,
+                  forwardPassDistance: 53.35
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 113.46,
+                  puckControlDistance: 529.63,
+                  puckControlForwardDistance: 303.33
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 8
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 107.88
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 173.4
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 254.6
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 294.64
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 186.84
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 95.14
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.44,
+                  relativeCorsiForPercentage: -0.17,
+                  fenwickForPercentage: 0.47,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '2172',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.8,
+                  timeOnIce: 1047.1,
+                  distanceTravelled: 4207.58,
+                  averageSpeedWithPuck: 4.5,
+                  accelerations: 70,
+                  decelerations: 54
+                },
+                shiftStatisticsSummary: {
+                  shifts: 20,
+                  averageShiftDuration: 52.35
+                },
+                passStatistics: {
+                  successfulPasses: 15,
+                  allPasses: 21,
+                  receivedPasses: 28,
+                  totalPassDistance: 135.23,
+                  forwardPassDistance: 42.5
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 42.02,
+                  puckControlDistance: 188.93,
+                  puckControlForwardDistance: 88.21
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 5,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 10
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 130.12
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 160.44
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 229.32
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 279.72
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 192.32
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 55.18
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 9,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.47,
+                  relativeCorsiForPercentage: -0.13,
+                  fenwickForPercentage: 0.44,
+                  relativeFenwickForPercentage: -0.18,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            }
+          ],
+          timeOnIce: [
+            {
+              player: '2118',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.57,
+                  timeOnIce: 1297.98,
+                  distanceTravelled: 4560.83,
+                  averageSpeedWithPuck: 3.83,
+                  accelerations: 64,
+                  decelerations: 56
+                },
+                shiftStatisticsSummary: {
+                  shifts: 19,
+                  averageShiftDuration: 68.31
+                },
+                passStatistics: {
+                  successfulPasses: 43,
+                  allPasses: 53,
+                  receivedPasses: 46,
+                  totalPassDistance: 464.59,
+                  forwardPassDistance: 208.14
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 111.7,
+                  puckControlDistance: 427.72,
+                  puckControlForwardDistance: 171.29
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 2,
+                  puckContestsLost: 3,
+                  puckContestParticipations: 5
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 222
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 247.36
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 320.28
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 310.14
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 175.8
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 22.4
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 10,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.5,
+                  relativeCorsiForPercentage: -0.09,
+                  fenwickForPercentage: 0.47,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1768',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.75,
+                  timeOnIce: 1251.06,
+                  distanceTravelled: 4859.66,
+                  averageSpeedWithPuck: 4.66,
+                  accelerations: 92,
+                  decelerations: 58
+                },
+                shiftStatisticsSummary: {
+                  shifts: 24,
+                  averageShiftDuration: 52.13
+                },
+                passStatistics: {
+                  successfulPasses: 19,
+                  allPasses: 23,
+                  receivedPasses: 20,
+                  totalPassDistance: 260.61,
+                  forwardPassDistance: 92.62
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 45.1,
+                  puckControlDistance: 210.14,
+                  puckControlForwardDistance: 110.93
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 7,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 162.7
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 242.42
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 259.62
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 319.06
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 193.96
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.3
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 11,
+                  corsiForPercentage: 0.31,
+                  relativeCorsiForPercentage: -0.35,
+                  fenwickForPercentage: 0.31,
+                  relativeFenwickForPercentage: -0.34,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '656',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.52,
+                  timeOnIce: 1180.88,
+                  distanceTravelled: 4343.96,
+                  averageSpeedWithPuck: 4.61,
+                  accelerations: 70,
+                  decelerations: 66
+                },
+                shiftStatisticsSummary: {
+                  shifts: 22,
+                  averageShiftDuration: 53.68
+                },
+                passStatistics: {
+                  successfulPasses: 23,
+                  allPasses: 31,
+                  receivedPasses: 25,
+                  totalPassDistance: 283.44,
+                  forwardPassDistance: 81.85
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 63,
+                  puckControlDistance: 290.58,
+                  puckControlForwardDistance: 131.99
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 2,
+                  puckContestParticipations: 5
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 134.04
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 266.94
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 317.06
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 260.62
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 154.44
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 47.78
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 15,
+                  corsiAgainst: 9,
+                  corsiForPercentage: 0.62,
+                  relativeCorsiForPercentage: 0.11,
+                  fenwickForPercentage: 0.63,
+                  relativeFenwickForPercentage: 0.13,
+                  pdo: 0.75,
+                  fullStrengthSavePercentage: 0.75,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1772',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.24,
+                  timeOnIce: 1133.6,
+                  distanceTravelled: 4260.43,
+                  averageSpeedWithPuck: 4.2,
+                  accelerations: 82,
+                  decelerations: 54
+                },
+                shiftStatisticsSummary: {
+                  shifts: 21,
+                  averageShiftDuration: 53.98
+                },
+                passStatistics: {
+                  successfulPasses: 24,
+                  allPasses: 31,
+                  receivedPasses: 18,
+                  totalPassDistance: 260.42,
+                  forwardPassDistance: 37.26
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 1,
+                  total: -1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 31.3,
+                  puckControlDistance: 131.62,
+                  puckControlForwardDistance: 63.91
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 6,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 166.08
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 232.66
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 245.38
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 250.9
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 165.04
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 73.54
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.57,
+                  relativeCorsiForPercentage: 0.01,
+                  fenwickForPercentage: 0.55,
+                  relativeFenwickForPercentage: -0.01,
+                  pdo: 0.67,
+                  fullStrengthSavePercentage: 0.67,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1506',
+              team: 'Home',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.98,
+                  timeOnIce: 1112.5,
+                  distanceTravelled: 4666.49,
+                  averageSpeedWithPuck: 4.67,
+                  accelerations: 72,
+                  decelerations: 60
+                },
+                shiftStatisticsSummary: {
+                  shifts: 20,
+                  averageShiftDuration: 55.62
+                },
+                passStatistics: {
+                  successfulPasses: 35,
+                  allPasses: 48,
+                  receivedPasses: 39,
+                  totalPassDistance: 272.29,
+                  forwardPassDistance: 53.35
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 113.46,
+                  puckControlDistance: 529.63,
+                  puckControlForwardDistance: 303.33
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 8
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 107.88
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 173.4
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 254.6
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 294.64
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 186.84
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 95.14
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.44,
+                  relativeCorsiForPercentage: -0.17,
+                  fenwickForPercentage: 0.47,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            }
+          ],
+          shotSpeed: [
+            {
+              team: 'Home',
+              period: 1,
+              secondsFromPeriodStart: 585,
+              startXPosition: 13.1,
+              startYPosition: 7.98,
+              speed: 42.36,
+              result: 'Missed',
+              shooter: '487',
+              blocker: null,
+              saver: '1594',
+              screeningPlayers: ['2172'],
+              shotAreaId: 4,
+              fromLateralPass: true,
+              shotDirection: {
+                horizontal: [-2, -1],
+                vertical: [0, 2],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: true,
+              teamStrength: { type: 'HomePowerPlay' },
+              expectedGoals: 0.01,
+              shooterSpeed: 3.43
+            },
+            {
+              team: 'Home',
+              period: 1,
+              secondsFromPeriodStart: 556,
+              startXPosition: 17.66,
+              startYPosition: -8.79,
+              speed: 39.66,
+              result: 'Missed',
+              shooter: '1506',
+              blocker: null,
+              saver: '1594',
+              screeningPlayers: ['1343'],
+              shotAreaId: 4,
+              fromLateralPass: false,
+              shotDirection: {
+                horizontal: [-2, -1],
+                vertical: [0, 2],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: false,
+              teamStrength: { type: 'HomePowerPlay' },
+              expectedGoals: 0.04,
+              shooterSpeed: 2.2
+            },
+            {
+              team: 'Home',
+              period: 1,
+              secondsFromPeriodStart: 711,
+              startXPosition: 11.59,
+              startYPosition: -11.92,
+              speed: 38.2,
+              result: 'Missed',
+              shooter: '656',
+              blocker: null,
+              saver: '1594',
+              screeningPlayers: ['1343'],
+              shotAreaId: 4,
+              fromLateralPass: true,
+              shotDirection: {
+                horizontal: [1, 2],
+                vertical: [0, 2],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: false,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.01,
+              shooterSpeed: 5.55
+            },
+            {
+              team: 'Home',
+              period: 2,
+              secondsFromPeriodStart: 494,
+              startXPosition: 10.35,
+              startYPosition: 6.44,
+              speed: 37.14,
+              result: 'Blocked',
+              shooter: '656',
+              blocker: '1992',
+              saver: '1594',
+              screeningPlayers: [],
+              shotAreaId: 4,
+              fromLateralPass: true,
+              shotDirection: null,
+              royalRoadCrossed: true,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.01,
+              shooterSpeed: 3.08
+            },
+            {
+              team: 'Home',
+              period: 1,
+              secondsFromPeriodStart: 137,
+              startXPosition: 12.96,
+              startYPosition: -5.3,
+              speed: 36.32,
+              result: 'Saved',
+              shooter: '487',
+              blocker: null,
+              saver: '1594',
+              screeningPlayers: ['59', '1991'],
+              shotAreaId: 3,
+              fromLateralPass: false,
+              shotDirection: {
+                horizontal: [-2, -1],
+                vertical: [0, 2],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: false,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.01,
+              shooterSpeed: 5.88
+            }
+          ]
+        },
+        away: {
+          distanceTravelled: [
+            {
+              player: '1991',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.59,
+                  timeOnIce: 1481.86,
+                  distanceTravelled: 4960.3,
+                  averageSpeedWithPuck: 3.67,
+                  accelerations: 88,
+                  decelerations: 83
+                },
+                shiftStatisticsSummary: {
+                  shifts: 27,
+                  averageShiftDuration: 54.88
+                },
+                passStatistics: {
+                  successfulPasses: 25,
+                  allPasses: 31,
+                  receivedPasses: 27,
+                  totalPassDistance: 260.42,
+                  forwardPassDistance: 129.13
+                },
+                plusMinusStatistics: {
+                  plus: 1,
+                  minus: 0,
+                  total: 1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 55.06,
+                  puckControlDistance: 201.92,
+                  puckControlForwardDistance: 77.64
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 5,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 10
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 241.82
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 333.02
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 425.9
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 314.62
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 137.44
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 29.06
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 10,
+                  corsiAgainst: 18,
+                  corsiForPercentage: 0.36,
+                  relativeCorsiForPercentage: -0.16,
+                  fenwickForPercentage: 0.36,
+                  relativeFenwickForPercentage: -0.16,
+                  pdo: 1.2,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0.2
+                }
+              }
+            },
+            {
+              player: '426',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.89,
+                  timeOnIce: 1357.7,
+                  distanceTravelled: 4587.7,
+                  averageSpeedWithPuck: 5.04,
+                  accelerations: 54,
+                  decelerations: 71
+                },
+                shiftStatisticsSummary: {
+                  shifts: 25,
+                  averageShiftDuration: 54.31
+                },
+                passStatistics: {
+                  successfulPasses: 16,
+                  allPasses: 22,
+                  receivedPasses: 14,
+                  totalPassDistance: 200.05,
+                  forwardPassDistance: 59.89
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 60.46,
+                  puckControlDistance: 304.51,
+                  puckControlForwardDistance: 175.29
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 4,
+                  puckContestsLost: 11,
+                  puckContestParticipations: 15
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 207.36
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 338.38
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 368.8
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 273.46
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 124.16
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 45.54
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 2
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 16,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.18,
+                  fenwickForPercentage: 0.33,
+                  relativeFenwickForPercentage: -0.18,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1466',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.52,
+                  timeOnIce: 1186.16,
+                  distanceTravelled: 3960.22,
+                  averageSpeedWithPuck: 3.76,
+                  accelerations: 89,
+                  decelerations: 67
+                },
+                shiftStatisticsSummary: {
+                  shifts: 25,
+                  averageShiftDuration: 47.45
+                },
+                passStatistics: {
+                  successfulPasses: 13,
+                  allPasses: 22,
+                  receivedPasses: 10,
+                  totalPassDistance: 125.1,
+                  forwardPassDistance: 83.64
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 37.56,
+                  puckControlDistance: 141.34,
+                  puckControlForwardDistance: 33.8
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 7
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 198.64
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 260.1
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 324.16
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 276.44
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 108.94
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 17.88
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 5,
+                  corsiForPercentage: 0.5,
+                  relativeCorsiForPercentage: 0.07,
+                  fenwickForPercentage: 0.56,
+                  relativeFenwickForPercentage: 0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1992',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.47,
+                  timeOnIce: 1007.46,
+                  distanceTravelled: 3875.73,
+                  averageSpeedWithPuck: 4.86,
+                  accelerations: 61,
+                  decelerations: 45
+                },
+                shiftStatisticsSummary: {
+                  shifts: 17,
+                  averageShiftDuration: 59.26
+                },
+                passStatistics: {
+                  successfulPasses: 16,
+                  allPasses: 24,
+                  receivedPasses: 14,
+                  totalPassDistance: 197.85,
+                  forwardPassDistance: 30.87
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 57.14,
+                  puckControlDistance: 277.87,
+                  puckControlForwardDistance: 148.64
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 8,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 13
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 118.9
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 200.44
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 246.22
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 237.36
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 147.6
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 56.94
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 2
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.14,
+                  fenwickForPercentage: 0.36,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1343',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.26,
+                  timeOnIce: 1120.56,
+                  distanceTravelled: 3835.93,
+                  averageSpeedWithPuck: 4.08,
+                  accelerations: 81,
+                  decelerations: 55
+                },
+                shiftStatisticsSummary: {
+                  shifts: 23,
+                  averageShiftDuration: 48.72
+                },
+                passStatistics: {
+                  successfulPasses: 14,
+                  allPasses: 20,
+                  receivedPasses: 12,
+                  totalPassDistance: 170.61,
+                  forwardPassDistance: 113.74
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 30.72,
+                  puckControlDistance: 125.32,
+                  puckControlForwardDistance: 63.43
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 10,
+                  puckContestParticipations: 13
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 183.52
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 275.04
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 267.82
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 229.5
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 126.98
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 37.7
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.45,
+                  relativeCorsiForPercentage: 0.02,
+                  fenwickForPercentage: 0.5,
+                  relativeFenwickForPercentage: 0.07,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            }
+          ],
+          fastestScater: [
+            {
+              player: '1324',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 10.14,
+                  timeOnIce: 1015.92,
+                  distanceTravelled: 3812.38,
+                  averageSpeedWithPuck: 4.34,
+                  accelerations: 62,
+                  decelerations: 44
+                },
+                shiftStatisticsSummary: {
+                  shifts: 21,
+                  averageShiftDuration: 48.38
+                },
+                passStatistics: {
+                  successfulPasses: 15,
+                  allPasses: 22,
+                  receivedPasses: 9,
+                  totalPassDistance: 143.87,
+                  forwardPassDistance: 46.89
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 44.12,
+                  puckControlDistance: 191.32,
+                  puckControlForwardDistance: 102.88
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 10,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 15
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 127.8
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 224
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 252.58
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 209.06
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 145.46
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 57.02
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 4,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.29,
+                  relativeCorsiForPercentage: -0.2,
+                  fenwickForPercentage: 0.27,
+                  relativeFenwickForPercentage: -0.23,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1382',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 10.08,
+                  timeOnIce: 823.28,
+                  distanceTravelled: 3328,
+                  averageSpeedWithPuck: 5.19,
+                  accelerations: 82,
+                  decelerations: 70
+                },
+                shiftStatisticsSummary: {
+                  shifts: 18,
+                  averageShiftDuration: 45.74
+                },
+                passStatistics: {
+                  successfulPasses: 7,
+                  allPasses: 13,
+                  receivedPasses: 12,
+                  totalPassDistance: 46.42,
+                  forwardPassDistance: 32.93
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 16.04,
+                  puckControlDistance: 83.2,
+                  puckControlForwardDistance: 47.35
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 4,
+                  puckContestsLost: 7,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 108.92
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 156.32
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 165.94
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 175.14
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 136.16
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 80.8
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 4,
+                  corsiAgainst: 8,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.13,
+                  fenwickForPercentage: 0.3,
+                  relativeFenwickForPercentage: -0.19,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1602',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.89,
+                  timeOnIce: 921.44,
+                  distanceTravelled: 3586.13,
+                  averageSpeedWithPuck: 4.28,
+                  accelerations: 58,
+                  decelerations: 51
+                },
+                shiftStatisticsSummary: {
+                  shifts: 15,
+                  averageShiftDuration: 61.43
+                },
+                passStatistics: {
+                  successfulPasses: 25,
+                  allPasses: 29,
+                  receivedPasses: 22,
+                  totalPassDistance: 296.93,
+                  forwardPassDistance: 26.6
+                },
+                plusMinusStatistics: {
+                  plus: 1,
+                  minus: 0,
+                  total: 1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 54.92,
+                  puckControlDistance: 235.16,
+                  puckControlForwardDistance: 123.43
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 2,
+                  puckContestsLost: 3,
+                  puckContestParticipations: 5
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 105.62
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 203.26
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 213.72
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 190.46
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 131.64
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 76.74
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 11,
+                  corsiAgainst: 5,
+                  corsiForPercentage: 0.69,
+                  relativeCorsiForPercentage: 0.35,
+                  fenwickForPercentage: 0.75,
+                  relativeFenwickForPercentage: 0.41,
+                  pdo: 1.17,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0.17
+                }
+              }
+            },
+            {
+              player: '426',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.89,
+                  timeOnIce: 1357.7,
+                  distanceTravelled: 4587.7,
+                  averageSpeedWithPuck: 5.04,
+                  accelerations: 54,
+                  decelerations: 71
+                },
+                shiftStatisticsSummary: {
+                  shifts: 25,
+                  averageShiftDuration: 54.31
+                },
+                passStatistics: {
+                  successfulPasses: 16,
+                  allPasses: 22,
+                  receivedPasses: 14,
+                  totalPassDistance: 200.05,
+                  forwardPassDistance: 59.89
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 60.46,
+                  puckControlDistance: 304.51,
+                  puckControlForwardDistance: 175.29
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 4,
+                  puckContestsLost: 11,
+                  puckContestParticipations: 15
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 207.36
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 338.38
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 368.8
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 273.46
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 124.16
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 45.54
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 2
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 16,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.18,
+                  fenwickForPercentage: 0.33,
+                  relativeFenwickForPercentage: -0.18,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '597',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.8,
+                  timeOnIce: 762.4,
+                  distanceTravelled: 3384.14,
+                  averageSpeedWithPuck: 5.11,
+                  accelerations: 50,
+                  decelerations: 39
+                },
+                shiftStatisticsSummary: {
+                  shifts: 13,
+                  averageShiftDuration: 58.65
+                },
+                passStatistics: {
+                  successfulPasses: 8,
+                  allPasses: 15,
+                  receivedPasses: 11,
+                  totalPassDistance: 60.95,
+                  forwardPassDistance: 5.68
+                },
+                plusMinusStatistics: {
+                  plus: 2,
+                  minus: 0,
+                  total: 2
+                },
+                puckControlStatistics: {
+                  puckControlTime: 30.54,
+                  puckControlDistance: 155.99,
+                  puckControlForwardDistance: 104.94
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 2,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 7
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 62.84
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 104.14
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 169.2
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 189.5
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 157.68
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 79.04
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 8,
+                  corsiForPercentage: 0.5,
+                  relativeCorsiForPercentage: 0.09,
+                  fenwickForPercentage: 0.5,
+                  relativeFenwickForPercentage: 0.08,
+                  pdo: 1.5,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0.5
+                }
+              }
+            }
+          ],
+          skaterAcceleration: [
+            {
+              player: '1466',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.52,
+                  timeOnIce: 1186.16,
+                  distanceTravelled: 3960.22,
+                  averageSpeedWithPuck: 3.76,
+                  accelerations: 89,
+                  decelerations: 67
+                },
+                shiftStatisticsSummary: {
+                  shifts: 25,
+                  averageShiftDuration: 47.45
+                },
+                passStatistics: {
+                  successfulPasses: 13,
+                  allPasses: 22,
+                  receivedPasses: 10,
+                  totalPassDistance: 125.1,
+                  forwardPassDistance: 83.64
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 37.56,
+                  puckControlDistance: 141.34,
+                  puckControlForwardDistance: 33.8
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 7
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 198.64
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 260.1
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 324.16
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 276.44
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 108.94
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 17.88
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 5,
+                  corsiForPercentage: 0.5,
+                  relativeCorsiForPercentage: 0.07,
+                  fenwickForPercentage: 0.56,
+                  relativeFenwickForPercentage: 0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1991',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.59,
+                  timeOnIce: 1481.86,
+                  distanceTravelled: 4960.3,
+                  averageSpeedWithPuck: 3.67,
+                  accelerations: 88,
+                  decelerations: 83
+                },
+                shiftStatisticsSummary: {
+                  shifts: 27,
+                  averageShiftDuration: 54.88
+                },
+                passStatistics: {
+                  successfulPasses: 25,
+                  allPasses: 31,
+                  receivedPasses: 27,
+                  totalPassDistance: 260.42,
+                  forwardPassDistance: 129.13
+                },
+                plusMinusStatistics: {
+                  plus: 1,
+                  minus: 0,
+                  total: 1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 55.06,
+                  puckControlDistance: 201.92,
+                  puckControlForwardDistance: 77.64
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 5,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 10
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 241.82
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 333.02
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 425.9
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 314.62
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 137.44
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 29.06
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 10,
+                  corsiAgainst: 18,
+                  corsiForPercentage: 0.36,
+                  relativeCorsiForPercentage: -0.16,
+                  fenwickForPercentage: 0.36,
+                  relativeFenwickForPercentage: -0.16,
+                  pdo: 1.2,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0.2
+                }
+              }
+            },
+            {
+              player: '1382',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 10.08,
+                  timeOnIce: 823.28,
+                  distanceTravelled: 3328,
+                  averageSpeedWithPuck: 5.19,
+                  accelerations: 82,
+                  decelerations: 70
+                },
+                shiftStatisticsSummary: {
+                  shifts: 18,
+                  averageShiftDuration: 45.74
+                },
+                passStatistics: {
+                  successfulPasses: 7,
+                  allPasses: 13,
+                  receivedPasses: 12,
+                  totalPassDistance: 46.42,
+                  forwardPassDistance: 32.93
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 16.04,
+                  puckControlDistance: 83.2,
+                  puckControlForwardDistance: 47.35
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 4,
+                  puckContestsLost: 7,
+                  puckContestParticipations: 11
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 108.92
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 156.32
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 165.94
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 175.14
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 136.16
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 80.8
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 4,
+                  corsiAgainst: 8,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.13,
+                  fenwickForPercentage: 0.3,
+                  relativeFenwickForPercentage: -0.19,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1343',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.26,
+                  timeOnIce: 1120.56,
+                  distanceTravelled: 3835.93,
+                  averageSpeedWithPuck: 4.08,
+                  accelerations: 81,
+                  decelerations: 55
+                },
+                shiftStatisticsSummary: {
+                  shifts: 23,
+                  averageShiftDuration: 48.72
+                },
+                passStatistics: {
+                  successfulPasses: 14,
+                  allPasses: 20,
+                  receivedPasses: 12,
+                  totalPassDistance: 170.61,
+                  forwardPassDistance: 113.74
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 30.72,
+                  puckControlDistance: 125.32,
+                  puckControlForwardDistance: 63.43
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 10,
+                  puckContestParticipations: 13
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 183.52
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 275.04
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 267.82
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 229.5
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 126.98
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 37.7
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.45,
+                  relativeCorsiForPercentage: 0.02,
+                  fenwickForPercentage: 0.5,
+                  relativeFenwickForPercentage: 0.07,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '527',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.63,
+                  timeOnIce: 996.12,
+                  distanceTravelled: 3523.82,
+                  averageSpeedWithPuck: 4.05,
+                  accelerations: 76,
+                  decelerations: 66
+                },
+                shiftStatisticsSummary: {
+                  shifts: 17,
+                  averageShiftDuration: 58.6
+                },
+                passStatistics: {
+                  successfulPasses: 10,
+                  allPasses: 15,
+                  receivedPasses: 10,
+                  totalPassDistance: 83.86,
+                  forwardPassDistance: 27.63
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 30.78,
+                  puckControlDistance: 124.79,
+                  puckControlForwardDistance: 86
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 9,
+                  puckContestsLost: 3,
+                  puckContestParticipations: 12
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 140.34
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 225.68
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 236.74
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 252.36
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 117.5
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 23.5
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 10,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.14,
+                  fenwickForPercentage: 0.36,
+                  relativeFenwickForPercentage: -0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            }
+          ],
+          timeOnIce: [
+            {
+              player: '1991',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.59,
+                  timeOnIce: 1481.86,
+                  distanceTravelled: 4960.3,
+                  averageSpeedWithPuck: 3.67,
+                  accelerations: 88,
+                  decelerations: 83
+                },
+                shiftStatisticsSummary: {
+                  shifts: 27,
+                  averageShiftDuration: 54.88
+                },
+                passStatistics: {
+                  successfulPasses: 25,
+                  allPasses: 31,
+                  receivedPasses: 27,
+                  totalPassDistance: 260.42,
+                  forwardPassDistance: 129.13
+                },
+                plusMinusStatistics: {
+                  plus: 1,
+                  minus: 0,
+                  total: 1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 55.06,
+                  puckControlDistance: 201.92,
+                  puckControlForwardDistance: 77.64
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 5,
+                  puckContestsLost: 5,
+                  puckContestParticipations: 10
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 241.82
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 333.02
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 425.9
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 314.62
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 137.44
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 29.06
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 10,
+                  corsiAgainst: 18,
+                  corsiForPercentage: 0.36,
+                  relativeCorsiForPercentage: -0.16,
+                  fenwickForPercentage: 0.36,
+                  relativeFenwickForPercentage: -0.16,
+                  pdo: 1.2,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0.2
+                }
+              }
+            },
+            {
+              player: '426',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.89,
+                  timeOnIce: 1357.7,
+                  distanceTravelled: 4587.7,
+                  averageSpeedWithPuck: 5.04,
+                  accelerations: 54,
+                  decelerations: 71
+                },
+                shiftStatisticsSummary: {
+                  shifts: 25,
+                  averageShiftDuration: 54.31
+                },
+                passStatistics: {
+                  successfulPasses: 16,
+                  allPasses: 22,
+                  receivedPasses: 14,
+                  totalPassDistance: 200.05,
+                  forwardPassDistance: 59.89
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 60.46,
+                  puckControlDistance: 304.51,
+                  puckControlForwardDistance: 175.29
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 4,
+                  puckContestsLost: 11,
+                  puckContestParticipations: 15
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 207.36
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 338.38
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 368.8
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 273.46
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 124.16
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 45.54
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 2
+                },
+                traditionalStatistics: {
+                  corsiFor: 8,
+                  corsiAgainst: 16,
+                  corsiForPercentage: 0.33,
+                  relativeCorsiForPercentage: -0.18,
+                  fenwickForPercentage: 0.33,
+                  relativeFenwickForPercentage: -0.18,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1466',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.52,
+                  timeOnIce: 1186.16,
+                  distanceTravelled: 3960.22,
+                  averageSpeedWithPuck: 3.76,
+                  accelerations: 89,
+                  decelerations: 67
+                },
+                shiftStatisticsSummary: {
+                  shifts: 25,
+                  averageShiftDuration: 47.45
+                },
+                passStatistics: {
+                  successfulPasses: 13,
+                  allPasses: 22,
+                  receivedPasses: 10,
+                  totalPassDistance: 125.1,
+                  forwardPassDistance: 83.64
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 37.56,
+                  puckControlDistance: 141.34,
+                  puckControlForwardDistance: 33.8
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 7
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 198.64
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 260.1
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 324.16
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 276.44
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 108.94
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 17.88
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 1,
+                  blockedShots: 1
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 5,
+                  corsiForPercentage: 0.5,
+                  relativeCorsiForPercentage: 0.07,
+                  fenwickForPercentage: 0.56,
+                  relativeFenwickForPercentage: 0.13,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1343',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 9.26,
+                  timeOnIce: 1120.56,
+                  distanceTravelled: 3835.93,
+                  averageSpeedWithPuck: 4.08,
+                  accelerations: 81,
+                  decelerations: 55
+                },
+                shiftStatisticsSummary: {
+                  shifts: 23,
+                  averageShiftDuration: 48.72
+                },
+                passStatistics: {
+                  successfulPasses: 14,
+                  allPasses: 20,
+                  receivedPasses: 12,
+                  totalPassDistance: 170.61,
+                  forwardPassDistance: 113.74
+                },
+                plusMinusStatistics: {
+                  plus: 0,
+                  minus: 0,
+                  total: 0
+                },
+                puckControlStatistics: {
+                  puckControlTime: 30.72,
+                  puckControlDistance: 125.32,
+                  puckControlForwardDistance: 63.43
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 10,
+                  puckContestParticipations: 13
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 183.52
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 275.04
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 267.82
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 229.5
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 126.98
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 37.7
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 5,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.45,
+                  relativeCorsiForPercentage: 0.02,
+                  fenwickForPercentage: 0.5,
+                  relativeFenwickForPercentage: 0.07,
+                  pdo: 1,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0
+                }
+              }
+            },
+            {
+              player: '1601',
+              team: 'Away',
+              totalStatistics: {
+                skatingStatistics: {
+                  topSpeed: 8.92,
+                  timeOnIce: 1016.98,
+                  distanceTravelled: 3663.67,
+                  averageSpeedWithPuck: 4.79,
+                  accelerations: 71,
+                  decelerations: 71
+                },
+                shiftStatisticsSummary: {
+                  shifts: 18,
+                  averageShiftDuration: 56.5
+                },
+                passStatistics: {
+                  successfulPasses: 15,
+                  allPasses: 20,
+                  receivedPasses: 20,
+                  totalPassDistance: 167.26,
+                  forwardPassDistance: 44.01
+                },
+                plusMinusStatistics: {
+                  plus: 1,
+                  minus: 0,
+                  total: 1
+                },
+                puckControlStatistics: {
+                  puckControlTime: 25.88,
+                  puckControlDistance: 123.94,
+                  puckControlForwardDistance: 86
+                },
+                puckContestStatistics: {
+                  puckContestsWon: 3,
+                  puckContestsLost: 4,
+                  puckContestParticipations: 7
+                },
+                speedZoneStatistics: [
+                  {
+                    minSpeed: 0,
+                    maxSpeed: 5,
+                    secondsInZone: 160.64
+                  },
+                  {
+                    minSpeed: 5,
+                    maxSpeed: 10,
+                    secondsInZone: 234.22
+                  },
+                  {
+                    minSpeed: 10,
+                    maxSpeed: 15,
+                    secondsInZone: 210.54
+                  },
+                  {
+                    minSpeed: 15,
+                    maxSpeed: 20,
+                    secondsInZone: 228.34
+                  },
+                  {
+                    minSpeed: 20,
+                    maxSpeed: 25,
+                    secondsInZone: 131.32
+                  },
+                  {
+                    minSpeed: 25,
+                    maxSpeed: null,
+                    secondsInZone: 51.92
+                  }
+                ],
+                shotScreenStatistics: {
+                  offensiveScreens: 0,
+                  blockedShots: 0
+                },
+                traditionalStatistics: {
+                  corsiFor: 12,
+                  corsiAgainst: 6,
+                  corsiForPercentage: 0.67,
+                  relativeCorsiForPercentage: 0.33,
+                  fenwickForPercentage: 0.77,
+                  relativeFenwickForPercentage: 0.45,
+                  pdo: 1.17,
+                  fullStrengthSavePercentage: 1,
+                  fullStrengthShootingPercentage: 0.17
+                }
+              }
+            }
+          ],
+          shotSpeed: [
+            {
+              team: 'Away',
+              period: 3,
+              secondsFromPeriodStart: 406,
+              startXPosition: -10.71,
+              startYPosition: -1.79,
+              speed: 41.46,
+              result: 'Saved',
+              shooter: '1991',
+              blocker: '2118',
+              saver: '1557',
+              screeningPlayers: [],
+              shotAreaId: 4,
+              fromLateralPass: false,
+              shotDirection: {
+                horizontal: [0.33, 1],
+                vertical: [0, 0.5],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: false,
+              teamStrength: { type: 'AwayPowerPlay' },
+              expectedGoals: null,
+              shooterSpeed: 6.05
+            },
+            {
+              team: 'Away',
+              period: 1,
+              secondsFromPeriodStart: 207,
+              startXPosition: -20.94,
+              startYPosition: -3.74,
+              speed: 35.31,
+              result: 'Missed',
+              shooter: '1601',
+              blocker: null,
+              saver: '1557',
+              screeningPlayers: [],
+              shotAreaId: 2,
+              fromLateralPass: false,
+              shotDirection: null,
+              royalRoadCrossed: true,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.1,
+              shooterSpeed: 1.9
+            },
+            {
+              team: 'Away',
+              period: 1,
+              secondsFromPeriodStart: 439,
+              startXPosition: -20.55,
+              startYPosition: 10.86,
+              speed: 35.11,
+              result: 'Saved',
+              shooter: '1991',
+              blocker: null,
+              saver: '1557',
+              screeningPlayers: [],
+              shotAreaId: 4,
+              fromLateralPass: true,
+              shotDirection: {
+                horizontal: [0.33, 1],
+                vertical: [0, 0.5],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: true,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.02,
+              shooterSpeed: 5.49
+            },
+            {
+              team: 'Away',
+              period: 3,
+              secondsFromPeriodStart: 258,
+              startXPosition: -8.45,
+              startYPosition: -8.44,
+              speed: 34.92,
+              result: 'Missed',
+              shooter: '426',
+              blocker: null,
+              saver: '1557',
+              screeningPlayers: [],
+              shotAreaId: 4,
+              fromLateralPass: true,
+              shotDirection: {
+                horizontal: [1, 2],
+                vertical: [0, 2],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: false,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.01,
+              shooterSpeed: 2.26
+            },
+            {
+              team: 'Away',
+              period: 1,
+              secondsFromPeriodStart: 998,
+              startXPosition: -15.6,
+              startYPosition: -12.11,
+              speed: 33.76,
+              result: 'Saved',
+              shooter: '527',
+              blocker: null,
+              saver: '1557',
+              screeningPlayers: [],
+              shotAreaId: 4,
+              fromLateralPass: false,
+              shotDirection: {
+                horizontal: [-0.33, 0.33],
+                vertical: [0, 0.5],
+                goalHorizontalLimits: [-1, 1],
+                goalVerticalLimits: [0, 1]
+              },
+              royalRoadCrossed: false,
+              teamStrength: { type: 'FullStrength' },
+              expectedGoals: 0.01,
+              shooterSpeed: 7.54
+            }
+          ]
+        },
+        players: [
+          {
+            team: 'Home',
+            id: '23',
+            firstName: 'Sinan',
+            lastName: 'Akdag',
+            jersey: 7,
+            role: 'DefenseLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '516',
+            firstName: 'Felix',
+            lastName: 'Brückmann',
+            jersey: 90,
+            role: 'Goalkeeper',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '2204',
+            firstName: 'Joseph',
+            lastName: 'Cramarossa',
+            jersey: 91,
+            role: 'WingRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '2118',
+            firstName: 'Matthew',
+            lastName: 'Donovan',
+            jersey: 46,
+            role: 'DefenseLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1705',
+            firstName: 'Arkadiusz',
+            lastName: 'Dziambor',
+            jersey: 76,
+            role: 'DefenseLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1364',
+            firstName: 'Markus',
+            lastName: 'Eisenschmid',
+            jersey: 16,
+            role: 'WingLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1846',
+            firstName: 'Tyler',
+            lastName: 'Gaudet',
+            jersey: 58,
+            role: 'WingLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1768',
+            firstName: 'Korbinian',
+            lastName: 'Holzer',
+            jersey: 4,
+            role: 'DefenseRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1655',
+            firstName: 'Taro',
+            lastName: 'Jentzsch',
+            jersey: 11,
+            role: 'WingRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1365',
+            firstName: 'Mark',
+            lastName: 'Katic',
+            jersey: 95,
+            role: 'DefenseRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '143',
+            firstName: 'Nicolas',
+            lastName: 'Krämmer',
+            jersey: 21,
+            role: 'WingLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '656',
+            firstName: 'Thomas',
+            lastName: 'Larkin',
+            jersey: 37,
+            role: 'DefenseRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '59',
+            firstName: 'Stefan',
+            lastName: 'Loibl',
+            jersey: 13,
+            role: 'Center',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '2172',
+            firstName: 'Ryan',
+            lastName: 'MacInnis',
+            jersey: 74,
+            role: 'Center',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1764',
+            firstName: 'Fabrizio',
+            lastName: 'Pilu',
+            jersey: 68,
+            role: 'DefenseLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '487',
+            firstName: 'Matthias',
+            lastName: 'Plachta',
+            jersey: 22,
+            role: 'WingRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1506',
+            firstName: 'Borna',
+            lastName: 'Rendulic',
+            jersey: 71,
+            role: 'WingRight',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1772',
+            firstName: 'Jordan',
+            lastName: 'Szwarz',
+            jersey: 14,
+            role: 'Center',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1557',
+            firstName: 'Arno',
+            lastName: 'Tiefensee',
+            jersey: 30,
+            role: 'Goalkeeper',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '1306',
+            firstName: 'Tim',
+            lastName: 'Wohlgemuth',
+            jersey: 33,
+            role: 'Center',
+            teamId: '2'
+          },
+          {
+            team: 'Home',
+            id: '493',
+            firstName: 'David',
+            lastName: 'Wolf',
+            jersey: 89,
+            role: 'WingLeft',
+            teamId: '2'
+          },
+          {
+            team: 'Away',
+            id: '1382',
+            firstName: 'Boaz',
+            lastName: 'Bassen',
+            jersey: 64,
+            role: 'WingRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1',
+            firstName: 'Marvin',
+            lastName: 'Cüpper',
+            jersey: 39,
+            role: 'Goalkeeper',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1669',
+            firstName: 'Brandon',
+            lastName: 'Defazio',
+            jersey: 26,
+            role: 'WingLeft',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1578',
+            firstName: 'Florian',
+            lastName: 'Elias',
+            jersey: 67,
+            role: 'WingLeft',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1594',
+            firstName: 'Joacim',
+            lastName: 'Eriksson',
+            jersey: 60,
+            role: 'Goalkeeper',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1075',
+            firstName: 'Phil',
+            lastName: 'Hungerecker',
+            jersey: 94,
+            role: 'WingRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '640',
+            firstName: 'Johannes',
+            lastName: 'Huß',
+            jersey: 52,
+            role: 'DefenseLeft',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1992',
+            firstName: 'Miks',
+            lastName: 'Indrasis',
+            jersey: 70,
+            role: 'WingLeft',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '527',
+            firstName: 'Alexander',
+            lastName: 'Karachun',
+            jersey: 47,
+            role: 'WingRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1991',
+            firstName: 'Ville',
+            lastName: 'Lajunen',
+            jersey: 4,
+            role: 'DefenseRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1893',
+            firstName: 'Carl',
+            lastName: 'Neill',
+            jersey: 83,
+            role: 'DefenseRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '2193',
+            firstName: 'Daniel',
+            lastName: 'Neumann',
+            jersey: 18,
+            role: 'Center',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1324',
+            firstName: 'Ken Andre',
+            lastName: 'Olimb',
+            jersey: 40,
+            role: 'Center',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1466',
+            firstName: 'John',
+            lastName: 'Ramage',
+            jersey: 55,
+            role: 'DefenseRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1601',
+            firstName: 'Tylor',
+            lastName: 'Spink',
+            jersey: 90,
+            role: 'Center',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1602',
+            firstName: 'Tyson',
+            lastName: 'Spink',
+            jersey: 96,
+            role: 'WingLeft',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '426',
+            firstName: 'Alex',
+            lastName: 'Trivellato',
+            jersey: 53,
+            role: 'DefenseLeft',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '597',
+            firstName: 'Sebastian',
+            lastName: 'Uvira',
+            jersey: 93,
+            role: 'WingRight',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1569',
+            firstName: 'Mitchell',
+            lastName: 'Wahl',
+            jersey: 79,
+            role: 'Center',
+            teamId: '15'
+          },
+          {
+            team: 'Away',
+            id: '1343',
+            firstName: 'William',
+            lastName: 'Weber',
+            jersey: 78,
+            role: 'DefenseLeft',
+            teamId: '15'
+          }
+        ]
+      }
+    },
+    fields: [
+      {
+        id: 'header',
+        label: 'Header',
+        type: 'text',
+        value: ''
+      },
+      {
+        id: 'selectedSide',
+        label: 'Team side',
+        type: 'select',
+        selectData: [
+          {
+            label: 'Home',
+            value: 'home'
+          },
+          {
+            label: 'Away',
+            value: 'away'
+          }
+        ],
+        value: 'home'
+      },
+      {
+        id: 'rankingType',
+        label: 'Ranking Type',
+        type: 'select',
+        selectData: [
+          {
+            label: 'Traveled Distance',
+            value: 'distanceTravelled'
+          },
+          {
+            label: 'Fastest Skater',
+            value: 'fastestScater'
+          },
+          {
+            label: 'Skater acceleration',
+            value: 'skaterAcceleration'
+          },
+          {
+            label: 'Time on Ice',
+            value: 'timeOnIce'
+          },
+          {
+            label: 'Shot Speed',
+            value: 'shotSpeed'
+          }
+        ],
+        value: 'shotSpeed'
+      }
+    ],
+    options: [
+      {
+        id: 'name',
+        label: 'Name',
+        type: 'text',
+        value: 'Player Stats'
+      },
+      {
+        id: 'color1',
+        label: 'Color 1',
+        type: 'color',
+        value: '#00FDFF'
+      },
+      {
+        id: 'color2',
+        label: 'Color 2',
+        type: 'color',
+        value: '#919191'
+      },
+      {
+        id: 'defaultBackground',
+        label: 'Basic background',
+        type: 'media',
+        value: {
+          uuid: '3000'
+        }
+      },
+      {
+        id: 'defaultBackgroundMask',
+        label: 'Overlay background (transparent)',
+        type: 'media',
+        value: {
+          uuid: '3001'
+        }
+      },
+      {
+        id: 'videoduration',
+        label: 'Video duration',
+        type: 'text',
+        value: '15'
+      }
+    ],
+    videos: {
+      '1080x1080': {
+        date: null,
+        file: null
+      }
+    }
+  },
+  season: '2021',
+  event: {
+    competitionId: '5',
+    competitionName: 'Bundesliga',
+    type: 'match',
+    homeTeamId: '10',
+    awayTeamId: '20',
+    side: 'home',
+    eventId: '1000',
+    date: '202130203023'
+  }
+};

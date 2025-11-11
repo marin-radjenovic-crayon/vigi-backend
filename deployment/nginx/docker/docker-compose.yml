@@ -1,0 +1,37 @@
+version: '3'
+services:
+ web:
+    container_name: nginx
+    build:
+        context: .
+        dockerfile: Dockerfile
+    restart: unless-stopped
+#    networks:
+#      default:
+#        ipv4_address: 172.18.0.10
+    volumes:
+        - /data/docker-data/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+        - /data/docker-data/nginx/conf.d:/etc/nginx/conf.d:rw
+        - /data/docker-data/nginx/vhost.d:/etc/nginx/vhost.d:rw
+        - /data/docker-data/nginx/html:/usr/share/nginx/html:rw
+        - /data/docker-data/nginx/templates:/etc/nginx/templates:rw
+        - /data/docker-data/nginx/certs:/etc/ssl/certs:rw
+        - /etc/letsencrypt:/etc/letsencrypt:rw
+        - /etc/localtime:/etc/localtime:ro
+        - /var/run/docker.sock:/tmp/docker.sock:ro
+    ports:
+     - "80:80"
+     - "443:443"
+     - "9987:9987"
+#    links:
+#     - "php"
+# php:
+#    container_name: php
+#    image: php:7-fpm
+#    restart: unless-stopped
+#    volumes:
+#     - /data/docker-data/nginx/html:/usr/share/nginx/html:rw
+networks:
+  default:
+    external:
+        name: live_network
