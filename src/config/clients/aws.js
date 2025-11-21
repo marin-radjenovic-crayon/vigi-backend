@@ -3,5 +3,5 @@ const { CLIENTS } = require('@/src/constants/config');
 
 module.exports = {
   ...baseConfig,
-  client: CLIENTS.AWS
+  client: CLIENTS.PERFORM_STATS
 };
