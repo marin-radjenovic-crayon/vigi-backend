@@ -49,7 +49,10 @@ const getSingle = async (req, res) => {
       const setupRecord = await getItem(target, SetupM).catch(err => {
         handleError(res, err);
       });
+      console.log('activeStreams: ', activeStreams);
+      console.log('client: ', client);
       let updatedActiveStreams = [...activeStreams].filter((stream) => stream.client === client);
+
       if (target?.id === 1) {
         _.set(setupRecord, 'data.enabledCompetitions', MAINCONFIG.feeds?.opta?.competitions);
         _.set(setupRecord, 'data.trackedCompetitions', MAINCONFIG.feeds?.opta?.trackedCompetitions);
