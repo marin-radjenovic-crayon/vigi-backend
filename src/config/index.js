@@ -1,6 +1,6 @@
 const path = require('path');
 const _ = require('lodash');
-
+const logger = require('../../src/middleware/utils/logger').logger;
 const DOT_ENV_PATH = process.env.DOT_ENV_PATH || '.env';
 
 const dotenv = require('dotenv-safe');
@@ -242,11 +242,12 @@ let CONFIG = {
   matchdayTemplatesToCreate: [],
   matchdayTimelines: []
 };
-LOGGER.INFO('check client cfg: ', envVars.CLIENT_CFG)
+
+logger.INFO('check client cfg: ', envVars.CLIENT_CFG)
 if (envVars.CLIENT_CFG && envVars.CLIENT_CFG !== 'tests') {
   const clientMerge = require(`./clients/${envVars.CLIENT_CFG}`);
   CONFIG = _.merge(CONFIG, clientMerge);
-  LOGGER.INFO('check CONFIG: ', CONFIG)
+  logger.INFO('check CONFIG: ', CONFIG)
 
   //overwrite templates, instead of merge
   if (clientMerge.templates?.length) {
