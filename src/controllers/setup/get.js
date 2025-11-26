@@ -51,6 +51,8 @@ const getSingle = async (req, res) => {
       });
       console.log('activeStreams: ', activeStreams);
       console.log('client: ', client);
+      LOGGER.debug(`CLIENT : `, client);
+      LOGGER.debug(`ACTIVE STREAMS : `, activeStreams);
       let updatedActiveStreams = [...activeStreams].filter((stream) => stream.client === client);
 
       if (target?.id === 1) {
