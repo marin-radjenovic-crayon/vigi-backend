@@ -243,11 +243,11 @@ let CONFIG = {
   matchdayTimelines: []
 };
 
-logger.INFO('check client cfg: ', envVars.CLIENT_CFG)
+logger.info('check client cfg: ', envVars.CLIENT_CFG)
 if (envVars.CLIENT_CFG && envVars.CLIENT_CFG !== 'tests') {
   const clientMerge = require(`./clients/${envVars.CLIENT_CFG}`);
   CONFIG = _.merge(CONFIG, clientMerge);
-  logger.INFO('check CONFIG: ', CONFIG)
+  logger.info('check CONFIG: ', CONFIG)
 
   //overwrite templates, instead of merge
   if (clientMerge.templates?.length) {
